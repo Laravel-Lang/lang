@@ -11,6 +11,7 @@
     "array": "මේ :attribute ය array එකක් විය යුතුය.",
     "ascii": ":Attribute හි අඩංගු විය යුත්තේ තනි බයිට් අක්ෂරාංක අක්ෂර සහ සංකේත පමණි.",
     "attached": "මේ :attribute මේ වන විටත් අමුණා ඇත.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "මෙම :attribute, :date දිනයට පෙර දිනයක් විය යුතුය.",
     "before_or_equal": "මෙම :attribute, :date දිනයම හෝ ඊට පෙර දිනයක් විය යුතුය.",
     "between.array": "මෙම අන්තර්ගතය :min ත් :max ත් අතර විය යුතුය.",

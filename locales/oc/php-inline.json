@@ -11,6 +11,7 @@
     "array": "Lo camp deu èsser un tablèu.",
     "ascii": "Aqueste camp deu conténer sonque de caractèrs alfanumerics e de simbòls en octet unic.",
     "attached": "Aqueste camp es ja estacat.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "La deu èsser data anteriora a :date.",
     "before_or_equal": "La deu èsser anteriora o egala a :date.",
     "between.array": "Lo tablèu deu aver entre :min e :max elements.",

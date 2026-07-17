@@ -11,6 +11,7 @@
     "array": "Pono kēia kahua i kahi laha.",
     "ascii": "Pono e loaʻa i kēia kahua nā huaʻōlelo alphanumeric pākahi-byte a me nā hōʻailona.",
     "attached": "Ua hoʻopili ʻia kēia kahua.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Pono kēia kahua ma mua o ka :date.",
     "before_or_equal": "Pono kēia kahua i ka lā ma mua a i ʻole like me :date.",
     "between.array": "Pono kēia kahua ma waena o :min a :max mau mea.",

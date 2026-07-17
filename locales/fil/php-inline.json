@@ -11,6 +11,7 @@
     "array": "Ang field na ito ay dapat na isang array.",
     "ascii": "Ang field na ito ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Naka-attach na ang field na ito.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dapat na petsa ito bago ang :date.",
     "before_or_equal": "Dapat na petsa ito na bago o katumbas ng :date.",
     "between.array": "Dapat na may pagitan na :min at :max na item ang nilalamang ito.",

@@ -11,6 +11,7 @@
     "array": ":Attribute एक सरणी होनी चाहिए ।",
     "ascii": ":Attribute में केवल सिंगल-बाइट अल्फ़ान्यूमेरिक वर्ण और प्रतीक होने चाहिए।",
     "attached": "यह :attribute पहले से ही संलग्न है ।",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute, :date से पहले की एक तारीख होनी चाहिए ।",
     "before_or_equal": ":Attribute, :date इससे पहले या उसके बराबर की तारीख होनी चाहिए ।",
     "between.array": ":Attribute, :min और :max आइटमों के बीच होनी चाहिए ।",

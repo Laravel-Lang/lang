@@ -11,6 +11,7 @@
     "array": "Widang ieu kedah janten array.",
     "ascii": "Widang ieu ngan kedah ngandung karakter sareng simbol alfanumerik bait tunggal.",
     "attached": "Widang ieu parantos napel.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Widang ieu kedah janten tanggal sateuacan :date.",
     "before_or_equal": "Widang ieu kedah janten tanggal sateuacan atanapi sami sareng :date.",
     "between.array": "Widang ieu kedah gaduh antara :min sareng :max barang.",

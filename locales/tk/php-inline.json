@@ -11,6 +11,7 @@
     "array": "Bu meýdan bir massiw bolmaly.",
     "ascii": "Bu meýdanda diňe bir baýtly harp sanlary we nyşanlary bolmaly.",
     "attached": "Bu meýdan eýýäm birikdirildi.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Bu :date-den öňki sene bolmaly.",
     "before_or_equal": "Bu :date-den öňki ýa-da :date-e deň sene bolmaly.",
     "between.array": "Bu mazmunda :min bilen :max arasynda element bolmaly.",

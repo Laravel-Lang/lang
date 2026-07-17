@@ -11,6 +11,7 @@
     "array": ":attribute은(는) 배열이어야 합니다.",
     "ascii": ":attribute은 1바이트 영숫자 문자와 기호만 포함해야 합니다.",
     "attached": ":attribute은(는) 이미 첨부되어 있습니다.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute은(는) :date 이전 날짜여야 합니다.",
     "before_or_equal": ":attribute은(는) :date 이전 날짜이거나 같은 날짜여야 합니다.",
     "between.array": ":attribute의 항목 수는 :min에서 :max 개의 항목이 있어야 합니다.",

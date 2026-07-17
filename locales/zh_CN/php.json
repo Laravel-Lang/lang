@@ -11,6 +11,7 @@
     "array": ":attribute 必须是一个数组。",
     "ascii": ":attribute 必须仅包含单字节字母数字字符和符号。",
     "attached": "这个 :attribute 已经连接。",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute 必须要早于 :date。",
     "before_or_equal": ":attribute 必须要等于 :date 或更早。",
     "between.array": ":attribute 必须只有 :min - :max 个单元。",

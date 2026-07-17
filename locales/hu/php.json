@@ -11,6 +11,7 @@
     "array": "A(z) :attribute egy tömb kell, hogy legyen!",
     "ascii": "A :attribute csak egybájtos alfanumerikus karaktereket és szimbólumokat tartalmazhat.",
     "attached": "Ezt a :attribute-at már csatolták.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "A(z) :attribute :date előtti dátum kell, hogy legyen!",
     "before_or_equal": "A(z) :attribute nem lehet későbbi dátum, mint :date!",
     "between.array": "A(z) :attribute :min - :max közötti elemet kell, hogy tartalmazzon!",

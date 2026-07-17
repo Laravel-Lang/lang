@@ -11,6 +11,7 @@
     "array": "Este campo deve ser uma matriz.",
     "ascii": "Este campo deve conter apenas caracteres alfanuméricos de byte único e símbolos.",
     "attached": "Este campo já está anexado.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Deve ser uma data anterior a :date.",
     "before_or_equal": "Deve ser uma data anterior ou igual a :date.",
     "between.array": "Este conteúdo deve estar entre :min e :max itens.",

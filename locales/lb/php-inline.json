@@ -11,6 +11,7 @@
     "array": "Dëst Feld muss eng Array sinn.",
     "ascii": "Dëst Feld däerf nëmme Single-Byte alphanumeresch Zeechen a Symboler enthalen.",
     "attached": "Dëst Feld ass scho befestegt.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dëst Feld muss en Datum virum :date sinn.",
     "before_or_equal": "Dëst Feld muss en Datum virum oder gläich wéi :date sinn.",
     "between.array": "Dëst Feld muss tëscht :min an :max Elementer hunn.",

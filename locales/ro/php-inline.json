@@ -11,6 +11,7 @@
     "array": "Acest câmp trebuie să fie o matrice.",
     "ascii": "Acest câmp trebuie să conțină doar caractere și simboluri alfanumerice pe un singur octet.",
     "attached": "Acest câmp este deja atașat.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Aceasta trebuie să fie o dată înainte de :date.",
     "before_or_equal": "Aceasta trebuie să fie o dată înainte sau egală cu :date.",
     "between.array": "Acest conținut trebuie să aibă între :min și :max elemente.",

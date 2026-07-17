@@ -11,6 +11,7 @@
     "array": "Kini nga field kinahanglan nga usa ka array.",
     "ascii": "Kini nga field kinahanglan lang adunay single-byte alphanumeric nga mga karakter ug simbolo.",
     "attached": "Kini nga field gilakip na.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Kini nga field kinahanglang petsa sa dili pa ang :date.",
     "before_or_equal": "Kini nga field kinahanglan nga usa ka petsa sa wala pa o katumbas sa :date.",
     "between.array": "Kini nga field kinahanglan adunay tali sa :min ug :max nga mga butang.",

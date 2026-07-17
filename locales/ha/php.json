@@ -11,6 +11,7 @@
     "array": "Dole ne :attribute ɗin ya zama tsararru.",
     "ascii": "Filin :attribute dole ne ya ƙunshi haruffa da alamomin haruffan byte guda ɗaya kawai.",
     "attached": "Wannan :attribute an riga an haɗa shi.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute dole ne ya zama kwanan wata kafin :date.",
     "before_or_equal": "Dole ne :attribute ɗin su kasance kwanan wata kafin ko daidai da :date.",
     "between.array": "Dole ne :attribute ɗin ya kasance tsakanin abubuwa :min zuwa :max.",

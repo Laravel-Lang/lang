@@ -11,6 +11,7 @@
     "array": ":Attribute साठी फक्त सूची वैध आहे.",
     "ascii": ":Attribute मध्ये फक्त सिंगल-बाइट अल्फान्यूमेरिक वर्ण आणि चिन्हे असणे आवश्यक आहे.",
     "attached": "या :attribute आधीच संलग्न आहे.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute, :date आधीची एक तारीख पाहिजे.",
     "before_or_equal": ":Attribute, :date हि किंवा त्या आधीची एक तारीख पाहिजे.",
     "between.array": ":Attribute, :min किंवा :max संख्या यामध्ये असावी.",

@@ -11,6 +11,7 @@
     "array": "Dit veld moet geselecteerde elementen bevatten.",
     "ascii": "Dit veld mag alleen alfanumerieke tekens en symbolen van één byte bevatten.",
     "attached": "Dit veld is reeds gekoppeld.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dit veld moet een datum voor :date zijn.",
     "before_or_equal": "Dit veld moet een datum voor of gelijk aan :date zijn.",
     "between.array": "Dit veld moet tussen :min en :max items bevatten.",

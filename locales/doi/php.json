@@ -11,6 +11,7 @@
     "array": ":attribute इक सरणी होनी चाहिदी।",
     "ascii": ":attribute फील्ड च सिर्फ इक-बाइट अल्फान्यूमेरिक वर्ण ते चिह् न होन चाहिदे न.",
     "attached": "एह् :attribute पैह्लें गै जुड़े दा ऐ।",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute :date कोला पैह्ले दी तारीख होनी चाहिदी।",
     "before_or_equal": ":attribute :date कोला पैह्ले जां बराबर दी तारीख होनी चाहिदी।",
     "between.array": ":attribute च :min थमां :max दे बश्कार आइटम होनी चाहिदी।",

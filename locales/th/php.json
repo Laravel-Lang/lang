@@ -11,6 +11,7 @@
     "array": "ข้อมูล :attribute ต้องเป็น array เท่านั้น",
     "ascii": ":attribute ต้องมีอักขระและสัญลักษณ์ที่เป็นตัวอักษรและตัวเลขคละกันแบบไบต์เดี่ยวเท่านั้น",
     "attached": "ข้อมูล :attribute นี้ถูกแนบแล้ว",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "ข้อมูล :attribute ต้องเป็นวันที่ก่อน :date",
     "before_or_equal": "ข้อมูล :attribute ต้องเป็นวันที่ก่อนหรือเท่ากับวันที่ :date",
     "between.array": "ข้อมูล :attribute ต้องมีค่าระหว่าง :min - :max ค่า",

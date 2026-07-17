@@ -11,6 +11,7 @@
     "array": "Bu alan bir dizi olmalı.",
     "ascii": "Bu alan yalnızca tek baytlık alfasayısal karakterler ve simgeler içermelidir.",
     "attached": "Bu alan zaten tanımlı.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Bu :date'den önceki bir tarih olmalı.",
     "before_or_equal": "Bu, :date'ten önce veya ona eşit bir tarih olmalıdır.",
     "between.array": "Bu içerik :min ve :max arasında olmalıdır.",

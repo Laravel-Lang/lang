@@ -11,6 +11,7 @@
     "array": "I-:attribute kufanele ibe yilungu elifanayo.",
     "ascii": "Inkambu engu-:attribute kufanele ibe nezinhlamvu ze-alphanumeric zebhayithi eyodwa kuphela namasimbuli.",
     "attached": "Lokhu okungu-:attribute sekuvele kunamathiselwe.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "I-:attribute kufanele ibe idethi engaphambi kuka-:date.",
     "before_or_equal": "I-:attribute kufanele ibe idethi engaphambi noma elingana no-:date.",
     "between.array": "Abayi-:attribute kumele babe nezinto eziphakathi kuka-:min no-:max.",

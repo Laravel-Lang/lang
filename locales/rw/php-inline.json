@@ -11,6 +11,7 @@
     "array": "Uyu murima ugomba kuba umurongo.",
     "ascii": "Uyu murima ugomba kuba urimo gusa-byte inyuguti ninyuguti.",
     "attached": "Uyu murima umaze kwomekwa.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Uyu murima ugomba kuba itariki mbere ya :date.",
     "before_or_equal": "Uyu murima ugomba kuba itariki mbere cyangwa ingana na :date.",
     "between.array": "Uyu murima ugomba kugira ibintu biri hagati ya :min na :max.",

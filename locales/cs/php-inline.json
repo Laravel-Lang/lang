@@ -11,6 +11,7 @@
     "array": "Toto pole musí být pole.",
     "ascii": "Toto pole musí obsahovat pouze jednobajtový alfanumerický symbol.",
     "attached": "Toto pole je již připojeno.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Toto musí být datum před :date.",
     "before_or_equal": "Toto musí být datum před nebo rovno :date.",
     "between.array": "Toto pole musí mít nejméně :min a nejvíce :max položek.",

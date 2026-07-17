@@ -11,6 +11,7 @@
     "array": "Bu maydon bir qator bo'lishi kerak.",
     "ascii": "This field must only contain single-byte alphanumeric characters and symbols.",
     "attached": "Bu maydon allaqachon biriktirilgan.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Bu :datedan oldin sana bo'lishi kerak.",
     "before_or_equal": "Bu oldin yoki teng bir sana bo'lishi kerak :date.",
     "between.array": "This content must have between :min and :max items.",

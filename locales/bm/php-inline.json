@@ -11,6 +11,7 @@
     "array": "Nin foro in ka kan ka kɛ sɛrɛkili ye.",
     "ascii": "Nin foro in ka kan ka kɛ ni alfanumɛriki taamasiyɛnw ni taamasiyɛnw ye minnu bɛ kɛ bayt kelen dɔrɔn ye.",
     "attached": "O foro in nɔrɔlen bɛ kaban.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Nin foro in ka kan ka kɛ don ye ka kɔn :date ɲɛ.",
     "before_or_equal": "O foro in ka kan ka kɛ don ye ka kɔn :date ɲɛ walima ka bɛn o ma.",
     "between.array": "O foro in ka kan ka kɛ fɛn :min ni :max cɛ.",

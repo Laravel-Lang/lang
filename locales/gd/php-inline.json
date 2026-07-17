@@ -11,6 +11,7 @@
     "array": "Feumaidh an raon seo a bhith na raon.",
     "ascii": "Feumaidh an raon seo a bhith a-mhàin a bhith a’ gabhail a-steach caractaran agus samhlaidhean aon-byte alphanumeric.",
     "attached": "Tha an raon seo ceangailte mu thràth.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Feumaidh an raon seo a bhith na cheann-latha ro :date.",
     "before_or_equal": "Feumaidh an raon seo a bhith na cheann-latha ro no co-ionann ri :date.",
     "between.array": "Feumaidh eadar :min agus :max rud a bhith san raon seo.",

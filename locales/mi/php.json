@@ -11,6 +11,7 @@
     "array": "Ko te :attribute me he huinga.",
     "ascii": "Ko te āpure :attribute me whai tohu-paita-a-paita anake me nga tohu.",
     "attached": "Kua piri kē tenei :attribute.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Ko te :attribute me he ra i mua i te :date.",
     "before_or_equal": "Ko te :attribute he ra i mua atu, kia rite ranei ki te :date.",
     "between.array": "Ko te :attribute me :min ki te :max nga taonga.",

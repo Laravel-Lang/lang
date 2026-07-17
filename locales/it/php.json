@@ -11,6 +11,7 @@
     "array": ":Attribute deve essere un array.",
     "ascii": ":Attribute deve contenere solo caratteri alfanumerici single-byte e simboli.",
     "attached": ":Attribute è già associato.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute deve essere una data precedente al :date.",
     "before_or_equal": ":Attribute deve essere una data precedente o uguale al :date.",
     "between.array": ":Attribute deve avere tra :min - :max elementi.",

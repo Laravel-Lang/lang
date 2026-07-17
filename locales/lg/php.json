@@ -11,6 +11,7 @@
     "array": ":attribute zirina okuba nga za array.",
     "ascii": "Ennimiro :attribute erina okubaamu ennukuta n'obubonero bwa byte emu byokka.",
     "attached": "Ono :attribute yagattibwa dda.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute zirina okuba olunaku nga :date terunnatuuka.",
     "before_or_equal": ":attribute zirina okuba olunaku olusooka oba nga lwenkana :date.",
     "between.array": "Ezo :attribute zirina okuba n’ebintu ebiri wakati wa :min ne :max.",

@@ -11,6 +11,7 @@
     "array": "必須為陣列。",
     "ascii": "該欄位只能包含單字節字母數字字符和符號。",
     "attached": "此欄位已附加。",
+    "base64": "This field must be a valid Base64 string.",
     "before": "必須要早於 :date。",
     "before_or_equal": "必須要等於 :date 或更早。",
     "between.array": "必須有 :min 至 :max 個項目。",

@@ -11,6 +11,7 @@
     "array": "Uwanja huu lazima kuwa na safu.",
     "ascii": "Sehemu hii lazima iwe na herufi na alama za alphanumeric za baiti moja pekee.",
     "attached": "Uwanja huu ni tayari masharti.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Hii ni lazima kuwa kabla ya :date.",
     "before_or_equal": "Hii ni lazima kuwa kabla ya au sawa na :date.",
     "between.array": "Maudhui haya ni lazima yawe kati ya vipengele :min na :max.",

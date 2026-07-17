@@ -11,6 +11,7 @@
     "array": "שדה :attribute חייב להיות מערך.",
     "ascii": "ה-:attribute חייב להכיל רק תווים וסמלים אלפאנומריים של בייט בודד.",
     "attached": "ה-:attribute הזה כבר מחובר.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "שדה :attribute חייב להיות תאריך לפני :date.",
     "before_or_equal": "שדה :attribute חייב להיות תאריך מוקדם או שווה ל :date.",
     "between.array": "שדה :attribute חייב להיות בין :min ל-:max פריטים.",

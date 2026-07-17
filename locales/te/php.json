@@ -11,6 +11,7 @@
     "array": ":attribute తప్పనిసరిగా శ్రేణి అయి ఉండాలి.",
     "ascii": ":attribute ఫీల్డ్ తప్పనిసరిగా సింగిల్-బైట్ ఆల్ఫాన్యూమరిక్ అక్షరాలు మరియు చిహ్నాలను మాత్రమే కలిగి ఉండాలి.",
     "attached": "ఈ :attribute ఇప్పటికే జోడించబడింది.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute తప్పనిసరిగా :dateకి ముందు తేదీ అయి ఉండాలి.",
     "before_or_equal": ":attribute తప్పనిసరిగా :dateకి ముందు లేదా సమానమైన తేదీ అయి ఉండాలి.",
     "between.array": ":attribute తప్పనిసరిగా :min మరియు :max అంశాలను కలిగి ఉండాలి.",

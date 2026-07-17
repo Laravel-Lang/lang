@@ -11,6 +11,7 @@
     "array": "די :attribute מוזן זיין אַ מענגע.",
     "ascii": "די :attribute פעלד מוזן בלויז אַנטהאַלטן איין-ביטע אַלפאַנומעריק אותיות און סימבאָלס.",
     "attached": "דעם :attribute איז שוין אַטאַטשט.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "די :attribute מוזן זיין אַ דאַטע איידער :date.",
     "before_or_equal": "די :attribute מוזן זיין אַ דאַטע איידער אָדער גלייַך צו :date.",
     "between.array": "די :attribute מוזן האָבן צווישן :min און :max זאכן.",

@@ -11,6 +11,7 @@
     "array": "Divê :attribute array be.",
     "ascii": "Di qada :attribute de divê tenê tîp û sembolên alfanumerîkî yên yek-byte hebin.",
     "attached": "Ev :attribute jixwe ve girêdayî ye.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Divê :attribute dîrokek berî :date be.",
     "before_or_equal": "Divê :attribute dîrokek berî :date an wekhev be.",
     "between.array": "Divê :attribute di navbera :min û :max tiştan de hebin.",

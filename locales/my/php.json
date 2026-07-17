@@ -11,6 +11,7 @@
     "array": ":attribute သည် array တစ်ခုဖြစ်ရမည်။",
     "ascii": "အကွက် :attribute တွင် single-byte အက္ခရာဂဏန်းစာလုံးများနှင့် သင်္ကေတများသာ ပါဝင်ရပါမည်။",
     "attached": "ဒီ :attribute က တွဲပြီးသွားပြီ။",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute သည် :date မတိုင်မီရက်စွဲဖြစ်ရပါမည်။",
     "before_or_equal": ":attribute သည် :date မတိုင်မီရက်စွဲတစ်ခုဖြစ်ရမည်။",
     "between.array": ":attribute တွင် ပစ္စည်း :min မှ :max ကြားရှိရမည်။",

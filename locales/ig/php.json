@@ -11,6 +11,7 @@
     "array": ":attribute ahụ ga-abụrịrị nhazi.",
     "ascii": "Oghere :attribute ahụ ga-enwerịrị naanị mkpụrụedemede na akara mkpụrụedemede otu-byte.",
     "attached": "Ejikwala :attribute a.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute ga-abụrịrị ụbọchị tupu :date.",
     "before_or_equal": ":attribute ahụ ga-abụrịrị ụbọchị tupu ma ọ bụ ha nhata :date.",
     "between.array": "Nke iri ahụ ga-enwerịrị n'etiti ihe :min na :max.",

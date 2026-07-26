@@ -11,6 +11,7 @@
     "array": ":Attribute bilduma izan behar da.",
     "ascii": ":Attributeak byte bakarreko karaktere alfanumeriko eta ikurrak soilik izan behar ditu.",
     "attached": "Hau :attribute da dagoeneko erantsita.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute :date aurreko data izan behar da.",
     "before_or_equal": ":Attribute :date aurreko data edo data bera izan behar da.",
     "between.array": ":Attribute-(e)k :min eta :max arteko elementu kopurua izan behar du.",

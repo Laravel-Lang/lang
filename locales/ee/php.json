@@ -11,6 +11,7 @@
     "array": "Ele be :attribute la nanye ƒuƒoƒo.",
     "ascii": "Ele be ŋɔŋlɔdzesi kple dzesi siwo nye byte ɖeka koe nanɔ :attribute ƒe agblea me.",
     "attached": "Wotsɔ :attribute sia kpe ɖe eŋu xoxo.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Ele be ŋkeke :attribute-awo nanye ŋkeke si do ŋgɔ na ƒe :date.",
     "before_or_equal": "Ele be ŋkeke :attribute-awo nanye ŋkeke si do ŋgɔ na ŋkeke :date alo asɔ kplii.",
     "between.array": "Ele be nu siwo ade :min va ɖo :max nanɔ :attribute la me.",

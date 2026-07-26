@@ -11,6 +11,7 @@
     "array": ":Attribute massiv olmalıdır.",
     "ascii": ":Attribute yalnız bir baytlıq alfasayısal simvol və simvollar olmalıdır.",
     "attached": "Bu :attribute artıq əlavə olunur.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute :date tarixindən əvvəlki tarix olmalıdır.",
     "before_or_equal": ":Attribute :date tarixindən əvvəlki və ya ona bərabər olan bir tarix olmalıdır.",
     "between.array": ":Attribute elementlərinin sayı :min ilə :max arasında olmalıdır.",

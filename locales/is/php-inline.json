@@ -11,6 +11,7 @@
     "array": "Þetta sviði verður að vera fylki.",
     "ascii": "Þessi reitur má aðeins innihalda eins-bæta tölustafi og tákn.",
     "attached": "Þetta sviði er nú þegar fylgir.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Þetta hlýtur að vera dagsetningu áður en :date.",
     "before_or_equal": "Þetta hlýtur að vera dagsetningu áður en eða jafnt og :date.",
     "between.array": "Innihaldið verður að hafa á bilinu :min til :max atriði.",

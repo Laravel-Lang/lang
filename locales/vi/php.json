@@ -11,6 +11,7 @@
     "array": "Trường :attribute phải là dạng mảng.",
     "ascii": "Trường :attribute chỉ được chứa các ký tự chữ số và ký hiệu một byte.",
     "attached": "Trường :attribute đã được đính kèm.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Trường :attribute phải là một ngày trước ngày :date.",
     "before_or_equal": "Trường :attribute phải là thời gian bắt đầu trước hoặc đúng bằng :date.",
     "between.array": "Trường :attribute phải có từ :min - :max phần tử.",

@@ -11,6 +11,7 @@
     "array": "Mae hyn yn maes rhaid i fod yn arae.",
     "ascii": "Rhaid i'r maes hwn gynnwys nodau a symbolau alffaniwmerig un beit yn unig.",
     "attached": "Mae'r maes hwn eisoes yn ynghlwm.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Rhaid i hwn fod yn ddyddiad cyn :date.",
     "before_or_equal": "Rhaid i hwn fod yn ddyddiad cyn neu yn hafal i :date.",
     "between.array": "Rhaid i'r cynnwys fod rhwng :min a :max eitem.",

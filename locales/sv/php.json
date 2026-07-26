@@ -11,6 +11,7 @@
     "array": ":Attribute måste vara en array.",
     "ascii": ":Attribute:an får bara innehålla enbyte alfanumeriska tecken och symboler.",
     "attached": "Denna :attribute är redan bifogad.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute måste vara ett datum innan :date.",
     "before_or_equal": ":Attribute måste vara ett datum före eller samma dag som :date.",
     "between.array": ":Attribute måste innehålla mellan :min - :max objekt.",

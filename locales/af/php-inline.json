@@ -11,6 +11,7 @@
     "array": "Hierdie veld moet 'n array wees.",
     "ascii": "Hierdie veld moet slegs enkelgreep alfanumeriese karakters en simbole bevat.",
     "attached": "Hierdie veld is reeds aangeheg.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dit moet 'n datum voor :date wees.",
     "before_or_equal": "Dit moet 'n datum gelyk of voor :date wees.",
     "between.array": "Hierdie inhoud moet tussen :min en :max items bevat.",

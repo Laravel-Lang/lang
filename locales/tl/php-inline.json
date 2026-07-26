@@ -11,6 +11,7 @@
     "array": "Ang patlang na ito ay dapat na isang array.",
     "ascii": "Ang field na ito ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Ang patlang na ito ay nakalakip.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ito ay dapat na isang petsa bago :date.",
     "before_or_equal": "Ito ay dapat na isang petsa bago o katumbas ng :date.",
     "between.array": "Ang nilalamang ito ay dapat may pagitan ng :min at :max na mga item.",

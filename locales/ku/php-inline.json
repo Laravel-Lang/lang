@@ -11,6 +11,7 @@
     "array": "Ev qad divê array be.",
     "ascii": "Divê ev qad tenê tîpên alfan-hejmarî û sembolên yek-byte hebe.",
     "attached": "Ev qad jixwe ve girêdayî ye.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Divê ev zevî dîrokek berî :date be.",
     "before_or_equal": "Divê ev zevî dîrokek berî :date an wekhev be.",
     "between.array": "Divê ev qad di navbera :min û :max hêmanan de hebe.",

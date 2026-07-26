@@ -11,6 +11,7 @@
     "array": "Ele be agble sia nanye ƒuƒoƒo.",
     "ascii": "Ele be ŋɔŋlɔdzesi kple dzesi siwo nye byte ɖeka koe nanɔ agble sia me.",
     "attached": "Wotsɔ agble sia kpe ɖe eŋu xoxo.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ele be agble sia nanye ŋkeke si do ŋgɔ na :date.",
     "before_or_equal": "Ele be agble sia nanye ŋkeke si do ŋgɔ na :date alo wòasɔ kple :date.",
     "between.array": "Ele be nu siwo ade :min va ɖo :max nanɔ agble sia me.",

@@ -11,6 +11,7 @@
     "array": ":attribute массив булырга тиеш.",
     "ascii": ":attribute кырда бер байтак хәреф саннары һәм символлары булырга тиеш.",
     "attached": "Бу :attribute инде бәйләнгән.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute датага кадәр :date көн булырга тиеш.",
     "before_or_equal": ":attribute датага кадәр яки :dateгә тигез булырга тиеш.",
     "between.array": ":attributeда :min-:max әйбер булырга тиеш.",

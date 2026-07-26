@@ -11,6 +11,7 @@
     "array": "La :attribute devas esti tabelo.",
     "ascii": "La :attribute-kampo devas enhavi nur unubajtajn alfanombrajn signojn kaj simbolojn.",
     "attached": "Ĉi tiu :attribute jam estas alfiksita.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "La :attribute devas esti dato antaŭ :date.",
     "before_or_equal": "La :attribute devas esti dato antaŭ aŭ egala al :date.",
     "between.array": "La :attribute devas havi inter :min kaj :max erojn.",

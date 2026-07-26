@@ -11,6 +11,7 @@
     "array": ":attribute هڪ صف هجڻ گهرجي.",
     "ascii": ":attribute فيلڊ ۾ صرف سنگل بائيٽ الفانمياتي اکرن ۽ علامتن تي مشتمل هجڻ گھرجي.",
     "attached": "هي :attribute اڳ ۾ ئي ڳنڍيل آهي.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute کي :date کان اڳ جي تاريخ هجڻ گهرجي.",
     "before_or_equal": ":attribute کي :date کان اڳ يا برابر جي تاريخ هجڻ گهرجي.",
     "between.array": ":attribute ۾ :min ۽ :max شيون هجڻ گهرجن.",

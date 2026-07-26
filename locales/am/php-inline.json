@@ -11,6 +11,7 @@
     "array": "ይህ መስክ ድርድር መሆን አለበት።",
     "ascii": "ይህ መስክ ባለአንድ ባይት ፊደል ቁጥራዊ ቁምፊዎችን እና ምልክቶችን ብቻ መያዝ አለበት።",
     "attached": "ይህ መስክ አስቀድሞ ተያይዟል።",
+    "base64": "This field must be a valid Base64 string.",
     "before": "ይህ መስክ ከ:date በፊት ያለ ቀን መሆን አለበት።",
     "before_or_equal": "ይህ መስክ ከ:date በፊት ወይም እኩል የሆነ ቀን መሆን አለበት።",
     "between.array": "ይህ መስክ ከ:min እስከ :max ንጥሎች ሊኖሩት ይገባል።",

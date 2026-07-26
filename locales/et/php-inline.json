@@ -11,6 +11,7 @@
     "array": "See väli peab olema massiiv.",
     "ascii": "See väli peab sisaldama ainult ühebaidiseid tähtnumbrilisi märke ja sümboleid.",
     "attached": "See väli on juba lisatud.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "See peab olema Kuupäev enne :date.",
     "before_or_equal": "See peab olema kuupäev enne või võrdne :date.",
     "between.array": "See sisu peab koosnema :min kuni :max elemendist.",

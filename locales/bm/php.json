@@ -11,6 +11,7 @@
     "array": ":attribute ka kan ka kɛ sɛrɛkili ye.",
     "ascii": "Foro :attribute ka kan ka kɛ ni alfanumɛriki taamasiyɛnw ni taamasiyɛnw dɔrɔn ye minnu bɛ kɛ bayt kelen kɔnɔ.",
     "attached": "Nin :attribute in bɛ nɔrɔ a la kaban.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute ka kan ka kɛ don ye ka kɔn :date ɲɛ.",
     "before_or_equal": ":attribute ka kan ka kɛ don ye ka kɔn :date ɲɛ walima ka bɛn o ma.",
     "between.array": "Fɛn :attribute ka kan ka kɛ ni fɛn :min ni :max cɛ.",

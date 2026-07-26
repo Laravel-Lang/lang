@@ -11,6 +11,7 @@
     "array": "Ba :attribute esengeli ezala array.",
     "ascii": "Esika ya :attribute esengeli kozala kaka na bilembo mpe bilembo ya alphanumérique ya octet moko.",
     "attached": ":attribute oyo esi ekangami.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Esengeli ete :attribute ezala dati liboso ya :date.",
     "before_or_equal": ":attribute esengeli kozala dati liboso to ekokani na :date.",
     "between.array": "Ba :attribute esengeli kozala na biloko entre :min na :max.",

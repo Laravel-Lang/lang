@@ -11,6 +11,7 @@
     "array": "ʻO ka :attribute pono he papa.",
     "ascii": "Pono e loaʻa i ka māla :attribute nā huaʻōlelo alphanumeric a me nā hōʻailona hoʻokahi-byte.",
     "attached": "Ua hoʻopili ʻia kēia :attribute.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Pono ka lā :attribute ma mua o ka :date.",
     "before_or_equal": "Pono ka lā :attribute ma mua a i ʻole like me :date.",
     "between.array": "Pono ka :attribute ma waena o :min a :max mau mea.",

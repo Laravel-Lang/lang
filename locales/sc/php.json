@@ -11,6 +11,7 @@
     "array": ":Attribute depet èssere un'array.",
     "ascii": ":Attribute depet cuntènnere isceti caràteres alfanumèricos a baiti ùnicu e sìmbulos.",
     "attached": "Custu :attribute est giai atzetadu.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute depet èssere una data chi benit prima de :date.",
     "before_or_equal": ":Attribute depet èssere una data a innantis o uguale a :date.",
     "between.array": ":Attribute depet èssere intre :min - :max elementos.",

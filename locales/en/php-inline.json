@@ -11,6 +11,7 @@
     "array": "This field must contain an array.",
     "ascii": "The value must only contain single-byte alphanumeric characters and symbols.",
     "attached": "This file is already attached.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "This must be a date before :date.",
     "before_or_equal": "This must be a date before or equal to :date.",
     "between.array": "The value must have between :min and :max items.",

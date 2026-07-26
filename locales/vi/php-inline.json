@@ -11,6 +11,7 @@
     "array": "Trường này phải là dạng mảng.",
     "ascii": "Trường này chỉ được chứa các ký tự chữ số và ký hiệu một byte.",
     "attached": "Trường này đã được đính kèm.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Trường này phải là một ngày trước ngày :date.",
     "before_or_equal": "Trường này phải là thời gian bắt đầu trước hoặc đúng bằng :date.",
     "between.array": "Trường này phải có từ :min - :max phần tử.",

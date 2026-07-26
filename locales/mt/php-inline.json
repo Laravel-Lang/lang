@@ -11,6 +11,7 @@
     "array": "Dan il-qasam għandu jkun firxa.",
     "ascii": "Dan il-qasam għandu jkun fih biss karattri u simboli alfanumeriċi b'byte wieħed.",
     "attached": "Dan il-qasam huwa diġà mehmuż.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dan il-field għandu jkun data qabel l-:date.",
     "before_or_equal": "Dan il-qasam irid ikun data qabel jew ugwali għal :date.",
     "between.array": "Dan il-field għandu jkollu bejn :min u :max oġġett.",

@@ -11,6 +11,7 @@
     "array": "Dirreen kun tarree ta'uu qaba.",
     "ascii": "Dirreen kun arfiilee fi mallattoolee qubee lakkoofsaa baayitii tokkoo qofa qabaachuu qaba.",
     "attached": "Dirreen kun duraanuu maxxaneera.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dirreen kun guyyaa :date dura ta'uu qaba.",
     "before_or_equal": "Dirreen kun guyyaa :date dura ykn walqixa ta'uu qaba.",
     "between.array": "Dirreen kun wantoota :min hanga :max gidduutti qabaachuu qaba.",

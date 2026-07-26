@@ -11,6 +11,7 @@
     "array": "Ní mór an réimse seo a bheith ina sraith.",
     "ascii": "Ní mór go mbeadh sa réimse seo ach carachtair agus siombailí alfa-uimhriúla aon bheart.",
     "attached": "Tá an réimse seo ceangailte cheana féin.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Caithfidh dáta roimh :date a bheith sa réimse seo.",
     "before_or_equal": "Caithfidh dáta roimh nó cothrom le :date a bheith sa réimse seo.",
     "between.array": "Caithfidh idir :min agus :max mír a bheith sa réimse seo.",

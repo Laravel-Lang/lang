@@ -11,6 +11,7 @@
     "array": ":attribute ਇੱਕ ਐਰੇ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     "ascii": ":attribute ਖੇਤਰ ਵਿੱਚ ਸਿਰਫ਼ ਸਿੰਗਲ-ਬਾਈਟ ਅੱਖਰ ਅਤੇ ਚਿੰਨ੍ਹ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
     "attached": "ਇਹ :attribute ਪਹਿਲਾਂ ਹੀ ਨੱਥੀ ਹੈ।",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute :date ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਮਿਤੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
     "before_or_equal": ":attribute :date ਤੋਂ ਪਹਿਲਾਂ ਜਾਂ ਬਰਾਬਰ ਦੀ ਮਿਤੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
     "between.array": ":attribute ਵਿੱਚ :min ਤੋਂ :max ਆਈਟਮਾਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।",

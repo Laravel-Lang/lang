@@ -11,6 +11,7 @@
     "array": "Ɛsɛ sɛ :attribute no yɛ nhyehyɛe.",
     "ascii": "Ɛsɛ sɛ :attribute field no kura alphanumeric nkyerɛwde ne agyiraehyɛde ahorow a ɛwɔ baiti biako nkutoo.",
     "attached": "Wɔde :attribute yi abata ho dedaw.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Ɛsɛ sɛ :attribute no yɛ date a edi :date anim.",
     "before_or_equal": "Ɛsɛ sɛ :attribute no yɛ da a edi :date anim anaasɛ ɛne no yɛ pɛ.",
     "between.array": "Ɛsɛ sɛ :attribute no nya nneɛma a efi :min kosi :max.",

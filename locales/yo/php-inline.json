@@ -11,6 +11,7 @@
     "array": "Aaye yìí gbọ́dọ̀ ní àkójọpọ̀ (array).",
     "ascii": "Iye náà gbọ́dọ̀ ní àwọn àmì alphanumeric baiti-kan ṣoṣo àti àwọn aami.",
     "attached": "Fáìlì yìí ti somọ́ tẹ́lẹ̀.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Yìí gbọ́dọ̀ jẹ́ ọjọ́ kan kí :date tó dé.",
     "before_or_equal": "Yìí gbọ́dọ̀ jẹ́ ọjọ́ kí :date tó dé tàbí dọ́gba mọ́ ọn.",
     "between.array": "Iye náà gbọ́dọ̀ ní láàárin :min sí :max nǹkan.",

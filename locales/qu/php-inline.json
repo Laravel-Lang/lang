@@ -11,6 +11,7 @@
     "array": "Kay pampaqa matriz nisqa kanan tiyan.",
     "ascii": "Kay pampaqa huk byte alfanumérico qillqakunalla, chikukunallayuqmi kanan.",
     "attached": "Kay chakraqa k’askasqañam kachkan.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Kay pampaqa :date watamanta ñawpaq p’unchaw kanan tiyan.",
     "before_or_equal": "Kay pampaqa :date p'unchawmanta ñawpaq utaq kaqlla p'unchaw kanan tiyan.",
     "between.array": "Kay pampaqa :minmanta :maxkama imayuqmi kanan.",

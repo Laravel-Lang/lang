@@ -11,6 +11,7 @@
     "array": "Aquest camp ha de ser una matriu.",
     "ascii": "Aquest camp només ha de contenir caràcters i símbols alfanumèrics d'un sol byte.",
     "attached": "Aquest camp ja està adjunt.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Això ha de ser una data anterior a :date.",
     "before_or_equal": "Això ha de ser una data anterior o igual a :date.",
     "between.array": "Aquest contingut ha de tenir entre :min i :max elements.",

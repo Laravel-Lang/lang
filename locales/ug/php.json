@@ -11,6 +11,7 @@
     "array": ":Attribute چوقۇم بۇرۇن بۇلىشى كېرەك.",
     "ascii": ":Attribute دە پەقەت بىرلا بايىتلىق ھەرپ-بەلگىلەر ۋە بەلگىلەر بولۇشى كېرەك.",
     "attached": "بۇ :attribute ئاللىقاچان باغلانغان.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute چوقۇم :date دىن بۇرۇن بۇلىشى كېرەك.",
     "before_or_equal": ":Attribute چوقۇم :date غا تەڭ ياكى بۇرۇن بۇلىشى كېرەك.",
     "between.array": ":Attribute چوقۇم  :min - :max بۆلەك ئارلىقىدا بۇلىشى كېرەك.",

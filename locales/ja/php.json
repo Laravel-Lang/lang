@@ -11,6 +11,7 @@
     "array": ":attributeには、配列を指定してください。",
     "ascii": ":attributeには、英数字と記号のみ使用可能です。",
     "attached": "この:attributeはすでに添付されています。",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attributeには、:dateより前の日付を指定してください。",
     "before_or_equal": ":attributeには、:date以前の日付を指定してください。",
     "between.array": ":attributeの項目は、:min個から:max個にしてください。",

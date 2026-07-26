@@ -11,6 +11,7 @@
     "array": "Esika oyo esengeli kozala array.",
     "ascii": "Esika oyo esengeli kozala kaka na bilembo mpe bilembo ya alphanumérique ya octet moko.",
     "attached": "Esika oyo esi ekangami.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Esika oyo esengeli kozala dati liboso ya :date.",
     "before_or_equal": "Esika oyo esengeli kozala dati liboso to ekokana na :date.",
     "between.array": "Esika oyo esengeli kozala na biloko kati na :min tii :max.",

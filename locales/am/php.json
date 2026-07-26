@@ -11,6 +11,7 @@
     "array": ":attribute ድርድር መሆን አለበት።",
     "ascii": "የ :attribute መስክ ነጠላ ባይት ፊደል ቁጥራዊ ቁምፊዎችን እና ምልክቶችን ብቻ መያዝ አለበት።",
     "attached": "ይህ :attribute አስቀድሞ ተያይዟል።",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attributeቱ ከ:date በፊት ያለ ቀን መሆን አለባቸው።",
     "before_or_equal": ":attributeቱ ከ:date በፊት ወይም እኩል የሆነ ቀን መሆን አለባቸው።",
     "between.array": ":attribute ቱ በ:min እና በ:max እቃዎች መካከል ሊኖራቸው ይገባል።",

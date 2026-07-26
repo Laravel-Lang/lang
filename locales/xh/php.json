@@ -11,6 +11,7 @@
     "array": "I-:attribute kufuneka ibe luluhlu.",
     "ascii": "Indawo ye-:attribute kufuneka iqulathe kuphela amagama e-alphanumeric kunye neesimboli zebhayithi enye.",
     "attached": "Le :attribute sele iqhotyoshelwe.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "I-:attribute kufuneka ibe ngumhla ophambi kwe-:date.",
     "before_or_equal": "I-:attribute kufuneka ibe ngumhla ophambi okanye olingana no-:date.",
     "between.array": "I-:attribute kufuneka ibe phakathi kwe-:min kunye ne-:max yezinto.",

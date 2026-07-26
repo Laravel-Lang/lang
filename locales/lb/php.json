@@ -11,6 +11,7 @@
     "array": "Déi :attribute muss eng Array sinn.",
     "ascii": "Den :attribute Feld däerf nëmmen Single-Byte alphanumeresch Zeechen a Symboler enthalen.",
     "attached": "Dës :attribute ass scho befestegt.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Den :attribute muss en Datum virum :date sinn.",
     "before_or_equal": "Den :attribute muss en Datum virum oder gläich wéi :date sinn.",
     "between.array": "Déi :attribute mussen tëscht :min an :max Artikelen hunn.",

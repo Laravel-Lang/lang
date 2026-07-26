@@ -11,6 +11,7 @@
     "array": "Custu campu depet èssere un'array.",
     "ascii": "Custu campu depet cuntènnere isceti caràteres alfanumèricos a baiti ùnicu e sìmbulos.",
     "attached": "Custu campu est giai atzetadu.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Custa depet èssere una data a innantis de :date.",
     "before_or_equal": "Custa depet èssere una data a innantis o uguale a :date.",
     "between.array": "Custu cuntenutu depet tènnere intre :min e :max elementos.",

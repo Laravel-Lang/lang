@@ -11,6 +11,7 @@
     "array": "Бұл өріс массив болуы керек.",
     "ascii": "Бұл өрісте тек бір байтты әріптік-сандық таңбалар мен белгілер болуы керек.",
     "attached": "Бұл өріс қазірдің өзінде бекітілген.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Бұл :date-ге дейінгі күн болуы керек.",
     "before_or_equal": "Бұл :date жылға дейінгі немесе оған тең күн болуы керек.",
     "between.array": "This content must have between :min and :max items.",

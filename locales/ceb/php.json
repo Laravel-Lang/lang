@@ -11,6 +11,7 @@
     "array": "Ang :attribute kinahanglan usa ka array.",
     "ascii": "Ang :attribute ka field kinahanglan lang adunay single-byte alphanumeric nga mga karakter ug simbolo.",
     "attached": "Kini nga :attribute gilakip na.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Ang :attribute kinahanglan nga usa ka petsa sa wala pa ang :date.",
     "before_or_equal": "Ang :attribute kinahanglan usa ka petsa sa wala pa o katumbas sa :date.",
     "between.array": "Ang :attribute kinahanglan adunay tali sa :min ug :max nga mga butang.",

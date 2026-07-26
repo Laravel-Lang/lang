@@ -11,6 +11,7 @@
     "array": "Polje mora biti lista.",
     "ascii": "To polje sme vsebovati samo enobajtne alfanumerične znake in simbole.",
     "attached": "To polje je že pritrjeno.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Datum mora biti pred :date.",
     "before_or_equal": "Datum mora biti pred ali enak :date.",
     "between.array": "Polje mora imeti od :min do :max elementov.",

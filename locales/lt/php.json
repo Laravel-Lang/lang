@@ -11,6 +11,7 @@
     "array": "Laukas :attribute turi būti masyvas.",
     "ascii": ":Attribute turi būti tik vieno baito raidiniai ir skaitmeniniai simboliai ir simboliai.",
     "attached": "Šis :attribute jau yra pridėtas.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Laukas :attribute turi būti data prieš :date.",
     "before_or_equal": "Lauko :attribute reikšmė privalo būti data lygi arba ankstesnė negu :date.",
     "between.array": "Elementų skaičius lauke :attribute turi turėti nuo :min iki :max.",

@@ -11,6 +11,7 @@
     "array": "Ce champ doit être un tableau.",
     "ascii": "Ce champ ne doit contenir que des caractères alphanumériques et des symboles codés sur un octet.",
     "attached": "Ce champ est déjà attaché.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ce champ doit être une date antérieure au :date.",
     "before_or_equal": "Ce champ doit être une date antérieure ou égale au :date.",
     "between.array": "Le tableau doit contenir entre :min et :max éléments.",

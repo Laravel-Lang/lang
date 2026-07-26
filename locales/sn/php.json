@@ -11,6 +11,7 @@
     "array": "Iyo :attribute inofanira kunge iri hurongwa.",
     "ascii": ":Attribute inofanira kungova nezviratidzo zve single-byte alphanumeric uye mamaki (symbols).",
     "attached": ":Attribute yatobatanidzwa.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute inofanira kuva zuva risati rasvika :date.",
     "before_or_equal": ":Attribute inofanira kuva zuva risati rasvika kana rakaenzana ne:date.",
     "between.array": ":Attribute inofanira kuva nezvinhu zviri pakati pe:min ne:max.",

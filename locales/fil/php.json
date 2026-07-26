@@ -11,6 +11,7 @@
     "array": "Dapat na isang array ang :attribute.",
     "ascii": "Ang :attribute ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Ang :attribute na ito ay nakakabit na.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Ang :attribute ay dapat na isang petsa bago ang :date.",
     "before_or_equal": "Ang :attribute ay dapat na isang petsa bago ang o katumbas ng :date.",
     "between.array": "Ang :attribute ay dapat na nasa pagitan ng :min at :max (na) item.",

@@ -11,6 +11,7 @@
     "array": "Dole ne wannan filin ya zama tsararru.",
     "ascii": "Dole ne wannan filin ya ƙunshi haruffa da alamomin haruffan baiti ɗaya kawai.",
     "attached": "An riga an haɗa wannan filin.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dole ne wannan filin ya zama kwanan wata kafin :date.",
     "before_or_equal": "Dole ne wannan filin ya zama kwanan wata kafin ko kuma yayi daidai da :date.",
     "between.array": "Dole ne wannan filin ya kasance tsakanin abubuwa :min zuwa :max.",

@@ -11,6 +11,7 @@
     "array": "Aaye :attribute gbọ́dọ̀ jẹ́ àkójọpọ̀ (array).",
     "ascii": "Aaye :attribute gbọ́dọ̀ ní àwọn àmì alphanumeric baiti-kan ṣoṣo àti àwọn aami.",
     "attached": ":Attribute ti somọ́ tẹ́lẹ̀.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Aaye :attribute gbọ́dọ̀ jẹ́ ọjọ́ kan kí :date tó dé.",
     "before_or_equal": "Aaye :attribute gbọ́dọ̀ jẹ́ ọjọ́ kí :date tó dé tàbí dọ́gba mọ́ ọn.",
     "between.array": "Aaye :attribute gbọ́dọ̀ ní láàárin :min sí :max nǹkan.",

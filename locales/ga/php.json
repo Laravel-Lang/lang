@@ -11,6 +11,7 @@
     "array": "Caithfidh an :attribute a bheith ina sraith.",
     "ascii": "Ní mór ach carachtair agus siombailí alfa-uimhriúla aon bheart a bheith sa réimse :attribute.",
     "attached": "Tá an :attribute seo ceangailte cheana féin.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Caithfidh an :attribute a bheith ina dháta roimh :date.",
     "before_or_equal": "Caithfidh an :attribute a bheith ina dháta roimh nó cothrom le :date.",
     "between.array": "Caithfidh idir :min agus :max mír a bheith sna :attribute gcinn.",

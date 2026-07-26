@@ -11,6 +11,7 @@
     "array": "Me he huānga tēnei āpure.",
     "ascii": "Me mau i tenei mara nga tohu-a-paita-arepa me nga tohu anake.",
     "attached": "Kua āpiti kē tēnei āpure.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Me noho tenei mara i mua i te :date.",
     "before_or_equal": "Me noho tenei mara i mua i te :date ranei.",
     "between.array": "Me :min ki te :max nga mea kei tenei mara.",

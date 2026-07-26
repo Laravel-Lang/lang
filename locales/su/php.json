@@ -11,6 +11,7 @@
     "array": ":attribute kedah janten susunan.",
     "ascii": "Widang :attribute ngan kedah ngandung karakter sareng simbol alfanumerik bait tunggal.",
     "attached": ":attribute ieu parantos napel.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute kedah janten tanggal sateuacan :date.",
     "before_or_equal": ":attribute kedah janten tanggal sateuacan atanapi sami sareng :date.",
     "between.array": ":attribute kedah gaduh antara :min sareng :max barang.",

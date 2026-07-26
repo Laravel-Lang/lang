@@ -11,6 +11,7 @@
     "array": ":Attribute لازماً کسی رینج پر مشتمل ہو۔",
     "ascii": ":Attribute میں صرف سنگل بائٹ حروف عددی حروف اور علامتیں ہونی چاہئیں۔",
     "attached": "اس :attribute پہلے سے ہی ہے کے ساتھ منسلک.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute لازماً :date سے پہلے کی کوئی تاریخ ہو۔",
     "before_or_equal": "اس :attribute ہونا ضروری ہے ایک تاریخ سے پہلے یا اس کے برابر :date.",
     "between.array": ":Attribute لازماً :min اور :max آئٹمز کے درمیان ہو۔",

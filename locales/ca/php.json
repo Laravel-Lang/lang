@@ -11,6 +11,7 @@
     "array": ":Attribute ha de ser una matriu.",
     "ascii": "El :attribute només ha de contenir caràcters i símbols alfanumèrics d'un sol byte.",
     "attached": "Aquest :attribute ja té.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute ha de ser una data anterior a :date.",
     "before_or_equal": ":Attribute ha de ser una data anterior o igual a :date.",
     "between.array": ":Attribute ha de tenir entre :min - :max ítems.",

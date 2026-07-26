@@ -11,6 +11,7 @@
     "array": "Ity saha ity dia tokony ho laharan-kira.",
     "ascii": "Ity saha ity dia tsy maintsy misy tarehin-tsoratra sy marika alfanumerik-byte tokana.",
     "attached": "Ity saha ity dia efa miraikitra.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ity saha ity dia tokony ho daty alohan'ny :date.",
     "before_or_equal": "Ity saha ity dia tsy maintsy daty mialoha na mitovy amin'ny :date.",
     "between.array": "Ity saha ity dia tsy maintsy manana singa :min ka hatramin'ny :max.",

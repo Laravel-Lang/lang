@@ -11,6 +11,7 @@
     "array": "De :attribute moat in array wêze.",
     "ascii": "It fjild fan :attribute moat allinich single-byte alfanumerike tekens en symboalen befetsje.",
     "attached": "Dizze :attribute is al taheakke.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "De :attribute moat in datum wêze foar :date.",
     "before_or_equal": "De :attribute moat in datum wêze foar of gelyk oan :date.",
     "between.array": "De :attribute moatte tusken :min en :max items hawwe.",

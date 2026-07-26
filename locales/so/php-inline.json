@@ -11,6 +11,7 @@
     "array": "Goobtani waa in ay noqotaa hannaan.",
     "ascii": "Goobtani waa in ay ka kooban tahay hal-byte xarfo iyo calaamado alif tiro ah.",
     "attached": "Goobtan mar horeba way ku xidhan tahay.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Goobtani waa inay noqotaa taariikh ka hor :date.",
     "before_or_equal": "Goobtani waa inay noqotaa taariikh ka horeysa ama la mid ah :date.",
     "between.array": "Goobtani waa inay lahaataa inta u dhaxaysa :min iyo :max shay.",

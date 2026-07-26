@@ -11,6 +11,7 @@
     "array": ":Attribute ir jābūt sakārtotam.",
     "ascii": ":Attribute drīkst saturēt tikai viena baita burtciparu rakstzīmes un simbolus.",
     "attached": "Šis :attribute jau ir pievienots.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute ir jābūt ar datumu pirms :date.",
     "before_or_equal": ":Attribute ir jābūt ar datumu pirms vai vienādu ar :date.",
     "between.array": ":Attribute jābūt no :min līdz :max vienībām.",

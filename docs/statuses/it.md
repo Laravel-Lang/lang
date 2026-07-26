@@ -4,7 +4,7 @@ editLink: false
 
 # it
 
-##### All missed: 10
+##### All missed: 12
 
 
 ### json
@@ -110,6 +110,44 @@ Unable to verify passkey. Please try again.
 
 ### php-inline
 
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+base64
+
+</td><td width="50%">
+
+This field must be a valid Base64 string.
+
+</td></tr>
+<tr><td width="50%">
+
+encoding
+
+</td><td width="50%">
+
+This field must be encoded in :encoding.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
 ##### Missing: 1
 
 <table width="100%">
@@ -124,11 +162,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-encoding
+base64
 
 </td><td width="50%">
 
-This field must be encoded in :encoding.
+The :attribute field must be a valid Base64 string.
 
 </td></tr>
 </table>

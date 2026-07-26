@@ -11,6 +11,7 @@
     "array": ":attribute ଟି ଏକ ଆରେ ହେବା ଜରୁରୀ |",
     "ascii": ":attribute ଟି କ୍ଷେତ୍ର କେବଳ ଏକକ-ବାଇଟ୍ ବର୍ଣ୍ଣମାଳା ଅକ୍ଷର ଏବଂ ପ୍ରତୀକ ଧାରଣ କରିବା ଜରୁରୀ |",
     "attached": "ଏହି :attribute ଟି ସଂଲଗ୍ନ ହୋଇସାରିଛି |",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute ଟି :date ପୂର୍ବରୁ ଏକ ତାରିଖ ହେବା ଜରୁରୀ |",
     "before_or_equal": ":attribute ଟି ପୂର୍ବରୁ କିମ୍ବା :date ସହିତ ସମାନ ତାରିଖ ହେବା ଜରୁରୀ |",
     "between.array": ":attribute ରେ :min ରୁ :max ଆଇଟମ୍ ମଧ୍ୟରେ ରହିବା ଜରୁରୀ |",

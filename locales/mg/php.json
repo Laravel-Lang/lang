@@ -11,6 +11,7 @@
     "array": "Ny :attribute dia tokony ho array.",
     "ascii": "Ny saha :attribute dia tsy maintsy misy tarehin-tsoratra sy marika alfanumerika tokana tokana.",
     "attached": "Ity :attribute ity dia efa miraikitra.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Ny :attribute dia tokony ho daty alohan'ny :date.",
     "before_or_equal": "Ny :attribute dia tsy maintsy daty mialoha na mitovy amin'ny :date.",
     "between.array": "Ny :attribute dia tsy maintsy manana singa :min ka hatramin'ny :max.",

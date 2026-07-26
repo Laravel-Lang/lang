@@ -11,6 +11,7 @@
     "array": "Dit fjild moat in array wêze.",
     "ascii": "Dit fjild moat allinich single-byte alfanumerike tekens en symboalen befetsje.",
     "attached": "Dit fjild is al taheakke.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Dit fjild moat in datum wêze foar :date.",
     "before_or_equal": "Dit fjild moat in datum wêze foar of gelyk oan :date.",
     "between.array": "Dit fjild moat tusken :min en :max items hawwe.",

@@ -11,6 +11,7 @@
     "array": ":Attribute უნდა იყოს მასივი.",
     "ascii": ":Attribute უნდა შეიცავდეს მხოლოდ ერთ ბაიტიან ალფაციფრულ სიმბოლოებს და სიმბოლოებს.",
     "attached": "ეს :attribute უკვე ერთვის.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute უნდა იყოს თარიღი :date-მდე.",
     "before_or_equal": ":Attribute უნდა იყოს თარიღი :date-მდე ან მისი ტოლი.",
     "between.array": ":Attribute-ის რაოდენობა უნდა იყოს :min-დან :max-მდე.",

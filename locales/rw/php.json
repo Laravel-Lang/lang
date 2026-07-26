@@ -11,6 +11,7 @@
     "array": ":attribute igomba kuba umurongo.",
     "ascii": "Umwanya :attribute ugomba kuba urimo gusa-byte inyuguti ninyuguti.",
     "attached": "Iyi :attribute yamaze kumugereka.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute igomba kuba itariki mbere ya :date.",
     "before_or_equal": ":attribute igomba kuba itariki mbere cyangwa ingana na :date.",
     "between.array": ":attribute igomba kuba ifite ibintu biri hagati ya :min na :max.",

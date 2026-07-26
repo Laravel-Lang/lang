@@ -11,6 +11,7 @@
     "array": ":Attribute peab olema massiiv.",
     "ascii": ":Attribute peab sisaldama ainult ühebaidiseid tähtnumbrilisi märke ja sümboleid.",
     "attached": "See :attribute on juba lisatud.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute peab olema kuupäev enne :date.",
     "before_or_equal": ":Attribute peab olema kuupäev enne või samastuma :date.",
     "between.array": ":Attribute peab olema :min ja :max kirje vahel.",

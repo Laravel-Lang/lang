@@ -11,6 +11,7 @@
     "array": "Rhaid i :attribute fod yn array.",
     "ascii": "Rhaid i'r :attribute gynnwys nodau a symbolau alffaniwmerig un beit yn unig.",
     "attached": "Mae hyn yn :attribute eisoes ynghlwm.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Rhaid i :attribute fod yn ddyddiad sydd cyn :date.",
     "before_or_equal": "Y :attribute rhaid iddo fod yn ddyddiad cyn neu yn hafal i :date.",
     "between.array": "Rhaid i :attribute fod rhwng :min a :max eitem.",

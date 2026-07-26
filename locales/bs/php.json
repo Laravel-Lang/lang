@@ -11,6 +11,7 @@
     "array": "Polje :attribute mora biti niz.",
     "ascii": ":Attribute mora sadržavati samo jednobajtne alfanumeričke znakove i simbole.",
     "attached": "Ovaj :attribute je već spojen.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Polje :attribute mora biti datum prije :date.",
     "before_or_equal": "Polje :attribute mora biti datum prije ili jednak :date.",
     "between.array": "Polje :attribute mora sadržati između :min i :max stavki.",

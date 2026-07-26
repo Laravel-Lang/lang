@@ -11,6 +11,7 @@
     "array": "Ogige a ga-abụrịrị n'usoro.",
     "ascii": "Ogige a ga-enwerịrị naanị mkpụrụedemede na akara nke otu-byte.",
     "attached": "Agbanyelarị mpaghara a.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ogige a ga-abụrịrị ụbọchị tupu :date.",
     "before_or_equal": "Ogige a ga-abụrịrị ụbọchị tupu ma ọ bụ hà nhata :date.",
     "between.array": "Ogige a ga-enwerịrị ihe dị n'agbata :min na :max.",

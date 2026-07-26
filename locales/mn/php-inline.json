@@ -11,6 +11,7 @@
     "array": "Энэ талбар нь массив байх естой.",
     "ascii": "Энэ талбарт зөвхөн нэг байт үсэг, тоон тэмдэгт, тэмдэг байх ёстой.",
     "attached": "Энэ талбар нь аль хэдийн хавсаргасан байна.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Энэ нь өмнө нь өдөр байх естой :date.",
     "before_or_equal": "Энэ нь өмнө буюу тэнцүү байх естой :date.",
     "between.array": "This content must have between :min and :max items.",

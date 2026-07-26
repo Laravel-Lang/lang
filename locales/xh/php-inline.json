@@ -11,6 +11,7 @@
     "array": "Lo mmandla kufuneka ube luluhlu.",
     "ascii": "Lo mmandla mawuqulathe kuphela i-byte enye yealphanumeric kunye neempawu.",
     "attached": "Lo mmandla sele uncanyathiselwe.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Lo mmandla kufuneka ube ngumhla ophambi kwe-:date.",
     "before_or_equal": "Lo mmandla kufuneka ube ngumhla ongaphambi okanye olingana no-:date.",
     "between.array": "Lo mmandla kufuneka ube phakathi kwe-:min kunye ne-:max yezinto.",

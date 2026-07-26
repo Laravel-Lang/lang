@@ -11,6 +11,7 @@
     "array": "Ĉi tiu kampo devas esti tabelo.",
     "ascii": "Ĉi tiu kampo devas enhavi nur unubajtajn alfanombrajn signojn kaj simbolojn.",
     "attached": "Ĉi tiu kampo jam estas alfiksita.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Ĉi tiu kampo devas esti dato antaŭ la :datea.",
     "before_or_equal": "Ĉi tiu kampo devas esti dato antaŭ aŭ egala al :date.",
     "between.array": "Ĉi tiu kampo devas havi inter :min kaj :max erojn.",

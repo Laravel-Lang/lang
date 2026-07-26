@@ -11,6 +11,7 @@
     "array": "ಈ  :attribute ಒಂದು ಶ್ರೇಣಿಯಾಗಿರಬೇಕು .",
     "ascii": ":Attribute ಏಕ-ಬೈಟ್ ಆಲ್ಫಾನ್ಯೂಮರಿಕ್ ಅಕ್ಷರಗಳು ಮತ್ತು ಚಿಹ್ನೆಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರಬೇಕು.",
     "attached": "ಈ :attribute ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "ಈ  :attribute ದಿನಾಂಕವು  :date ಮುಂಚಿನ  ದಿನಾಂಕವಾಗಿರಬೇಕು.",
     "before_or_equal": "ಈ  :attribute ದಿನಾಂಕವು  :date ಮುಂಚಿನ  ಅಥವಾ ಸಮನಾದ ದಿನಾಂಕವಾಗಿರಬೇಕು.",
     "between.array": "ಈ  :attribute ನಲ್ಲಿ   :min ಮತ್ತು :max ಐಟಂಗಳ ನಡುವೆ ಇರಬೇಕು.",

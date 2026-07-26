@@ -11,6 +11,7 @@
     "array": "配列である必要があります。",
     "ascii": "半角英数字と記号のみ使用可能です。",
     "attached": "すでに添付されています。",
+    "base64": "This field must be a valid Base64 string.",
     "before": ":date より前の日付を指定してください。",
     "before_or_equal": ":date 以前の日付を指定してください。",
     "between.array": ":min ~ :max 個である必要があります。",

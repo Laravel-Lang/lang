@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 64
+##### All missed: 66
 
 
 ### json
@@ -128,7 +128,7 @@ Verify your email address
 
 ### php-inline
 
-##### Missing: 40
+##### Missing: 41
 
 <table width="100%">
 <tr><th width="50%">
@@ -156,6 +156,15 @@ any_of
 </td><td width="50%">
 
 This field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+This field must only contain the following keys: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -508,7 +517,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 13
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -520,6 +529,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+The :attribute field must only contain the following keys: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 base64

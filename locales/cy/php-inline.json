@@ -9,6 +9,7 @@
     "alpha_num": "Y maes hwn mai dim ond yn cynnwys llythrennau a rhifau.",
     "any_of": "Mae'r maes hwn yn annilys.",
     "array": "Mae hyn yn maes rhaid i fod yn arae.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Rhaid i'r maes hwn gynnwys nodau a symbolau alffaniwmerig un beit yn unig.",
     "attached": "Mae'r maes hwn eisoes yn ynghlwm.",
     "base64": "This field must be a valid Base64 string.",

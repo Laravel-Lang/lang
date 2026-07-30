@@ -9,6 +9,7 @@
     "alpha_num": "Lo camp :attribute a de conténer solament de letras e nombres.",
     "any_of": "Lo camp :attribute es invalid.",
     "array": "Lo camp :attribute deu èsser un tablèu.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Lo camp :attribute deu conténer sonque de caractèrs alfanumerics e de simbòls en octet unic.",
     "attached": ":Attribute es ja estacat.",
     "base64": "The :attribute field must be a valid Base64 string.",

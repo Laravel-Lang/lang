@@ -9,6 +9,7 @@
     "alpha_num": "Dole ne :attribute ɗin ya ƙunshi haruffa da lambobi kawai.",
     "any_of": "Filin :attribute ba shi da inganci.",
     "array": "Dole ne :attribute ɗin ya zama tsararru.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Filin :attribute dole ne ya ƙunshi haruffa da alamomin haruffan byte guda ɗaya kawai.",
     "attached": "Wannan :attribute an riga an haɗa shi.",
     "base64": "The :attribute field must be a valid Base64 string.",

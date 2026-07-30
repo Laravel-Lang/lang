@@ -9,6 +9,7 @@
     "alpha_num": "Kay pampapiqa qillqakuna, yupaykunallam kanan.",
     "any_of": "Kay chakraqa mana allinchu.",
     "array": "Kay pampaqa matriz nisqa kanan tiyan.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Kay pampaqa huk byte alfanumérico qillqakunalla, chikukunallayuqmi kanan.",
     "attached": "Kay chakraqa k’askasqañam kachkan.",
     "base64": "This field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "دا ساحه باید یوازې لیکونه او شمیرې ولري.",
     "any_of": "دا ډګر ناباوره دی.",
     "array": "دا ساحه باید یو صف وي.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "دا ساحه باید یوازې د واحد بایټ الفانومیریک حروف او سمبولونه ولري.",
     "attached": "دا ساحه لا دمخه تړل شوې ده.",
     "base64": "This field must be a valid Base64 string.",

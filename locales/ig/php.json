@@ -9,6 +9,7 @@
     "alpha_num": ":attribute ahụ ga-enwerịrị naanị mkpụrụedemede na ọnụọgụ.",
     "any_of": "Ubi :attribute abaghị uru.",
     "array": ":attribute ahụ ga-abụrịrị nhazi.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Oghere :attribute ahụ ga-enwerịrị naanị mkpụrụedemede na akara mkpụrụedemede otu-byte.",
     "attached": "Ejikwala :attribute a.",
     "base64": "The :attribute field must be a valid Base64 string.",

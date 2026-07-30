@@ -9,6 +9,7 @@
     "alpha_num": ":attribute ຕ້ອງມີຕົວອັກສອນ ແລະຕົວເລກເທົ່ານັ້ນ.",
     "any_of": "ສະຫນາມ :attribute ແມ່ນບໍ່ຖືກຕ້ອງ.",
     "array": ":attribute ຕ້ອງເປັນອາເຣ.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "ຊ່ອງຂໍ້ມູນ :attribute ຈະຕ້ອງມີຕົວອັກສອນ ແລະ ຕົວເລກທີ່ເປັນຕົວເລກຂອງໄບໄບດຽວເທົ່ານັ້ນ.",
     "attached": ":attribute ອັນນີ້ຕິດຢູ່ແລ້ວ.",
     "base64": "The :attribute field must be a valid Base64 string.",

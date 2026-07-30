@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute талбарт латин үсэг болон тоо оруулах боломжтой.",
     "any_of": ":attribute талбар буруу байна.",
     "array": ":Attribute талбар массив байх шаардлагатай.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute нь зөвхөн нэг байт үсэг, тоон тэмдэгтүүдийг агуулсан байх ёстой.",
     "attached": "Энэ нь :attribute аль хэдийн хавсаргасан байна.",
     "base64": "The :attribute field must be a valid Base64 string.",

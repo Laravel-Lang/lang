@@ -9,6 +9,7 @@
     "alpha_num": "ئەم بوارە تەنها دەبێت پیت و ژمارە لەخۆبگرێت.",
     "any_of": "ئەم بوارە نادروستە.",
     "array": "ئەم بوارە دەبێت ڕیزبەندییەک بێت.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "ئەم بوارە تەنها دەبێت پیت و هێما ئەلفوبێی ژمارەیی تاکە بایت لەخۆبگرێت.",
     "attached": "ئەم بوارە پێشتر هاوپێچ کراوە.",
     "base64": "This field must be a valid Base64 string.",

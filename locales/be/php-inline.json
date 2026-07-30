@@ -9,6 +9,7 @@
     "alpha_num": "Гэта поле можа ўтрымліваць толькі літары і лічбы.",
     "any_of": "Гэта поле несапраўднае.",
     "array": "Гэта поле павінна быць масівам.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Гэта поле павінна ўтрымліваць толькі аднабайтавыя літары і лічбы.",
     "attached": "Гэта поле ўжо прымацавана.",
     "base64": "This field must be a valid Base64 string.",

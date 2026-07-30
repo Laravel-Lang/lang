@@ -9,6 +9,7 @@
     "alpha_num": ":attributeには、英数字('A-Z','a-z','0-9')が使用できます。",
     "any_of": ":attributeは、有効ではありません。",
     "array": ":attributeには、配列を指定してください。",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attributeには、英数字と記号のみ使用可能です。",
     "attached": "この:attributeはすでに添付されています。",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute უნდა შეიცავდეს მხოლოდ ასოებს და რიცხვებს.",
     "any_of": ":attribute ველი არასწორია.",
     "array": ":Attribute უნდა იყოს მასივი.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute უნდა შეიცავდეს მხოლოდ ერთ ბაიტიან ალფაციფრულ სიმბოლოებს და სიმბოლოებს.",
     "attached": "ეს :attribute უკვე ერთვის.",
     "base64": "The :attribute field must be a valid Base64 string.",

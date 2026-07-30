@@ -9,6 +9,7 @@
     "alpha_num": "Aaye :attribute gbọ́dọ̀ ní lẹ́tà àti nọ́mbà nìkan.",
     "any_of": "Aaye :attribute ko wulo.",
     "array": "Aaye :attribute gbọ́dọ̀ jẹ́ àkójọpọ̀ (array).",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Aaye :attribute gbọ́dọ̀ ní àwọn àmì alphanumeric baiti-kan ṣoṣo àti àwọn aami.",
     "attached": ":Attribute ti somọ́ tẹ́lẹ̀.",
     "base64": "The :attribute field must be a valid Base64 string.",

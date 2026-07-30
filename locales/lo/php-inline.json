@@ -9,6 +9,7 @@
     "alpha_num": "ຊ່ອງຂໍ້ມູນນີ້ຕ້ອງມີຕົວອັກສອນ ແລະຕົວເລກເທົ່ານັ້ນ.",
     "any_of": "ພາກສະຫນາມນີ້ແມ່ນບໍ່ຖືກຕ້ອງ.",
     "array": "ຊ່ອງຂໍ້ມູນນີ້ຕ້ອງເປັນ array.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "ຊ່ອງຂໍ້ມູນນີ້ຈະຕ້ອງມີຕົວອັກສອນ ແລະ ຕົວເລກທີ່ເປັນຕົວເລກດຽວໄບຕ໌ເທົ່ານັ້ນ.",
     "attached": "ຊ່ອງນີ້ຕິດຢູ່ແລ້ວ.",
     "base64": "This field must be a valid Base64 string.",

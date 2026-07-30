@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute માત્ર અક્ષરો તથા આંકડાઓનો જ સમાવેશ કરી શકે.",
     "any_of": ":attribute ક્ષેત્ર અમાન્ય છે.",
     "array": ":Attribute ગોઠવણીમાં હોવું જોઈએ.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute માં ફક્ત સિંગલ-બાઈટ આલ્ફાન્યૂમેરિક અક્ષરો અને પ્રતીકો હોવા જોઈએ.",
     "attached": "આ :attribute પહેલેથી જ જોડાયેલ છે.",
     "base64": "The :attribute field must be a valid Base64 string.",

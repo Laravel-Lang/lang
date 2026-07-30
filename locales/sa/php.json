@@ -9,6 +9,7 @@
     "alpha_num": "१० मध्ये केवलं अक्षराणि सङ्ख्याः च भवितुमर्हन्ति ।",
     "any_of": "१० क्षेत्रं अमान्यं भवति ।",
     "array": "१० एकः सरणी भवितुमर्हति।",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute क्षेत्रे केवलं एकबाइट्-अक्षर-संख्या-वर्णाः चिह्नानि च भवितुमर्हन्ति ।",
     "attached": "एतत् १० पूर्वमेव संलग्नम् अस्ति ।",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "只能由字母和数字组成。",
     "any_of": "该字段无效。",
     "array": "必须是一个数组。",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "该字段只能包含单字节字母数字字符和符号。",
     "attached": "此字段已附加。",
     "base64": "This field must be a valid Base64 string.",

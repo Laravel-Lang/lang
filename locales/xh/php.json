@@ -9,6 +9,7 @@
     "alpha_num": "I-:attribute kufuneka iqulathe kuphela oonobumba kunye namanani.",
     "any_of": "Intsimi ye-:attribute ayisebenzi.",
     "array": "I-:attribute kufuneka ibe luluhlu.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Indawo ye-:attribute kufuneka iqulathe kuphela amagama e-alphanumeric kunye neesimboli zebhayithi enye.",
     "attached": "Le :attribute sele iqhotyoshelwe.",
     "base64": "The :attribute field must be a valid Base64 string.",

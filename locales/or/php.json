@@ -9,6 +9,7 @@
     "alpha_num": ":attribute ଟି କେବଳ ଅକ୍ଷର ଏବଂ ସଂଖ୍ୟା ଧାରଣ କରିବା ଜରୁରୀ |",
     "any_of": ":attribute କ୍ଷେତ୍ର ଅବ alid ଧ ଅଟେ |",
     "array": ":attribute ଟି ଏକ ଆରେ ହେବା ଜରୁରୀ |",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute ଟି କ୍ଷେତ୍ର କେବଳ ଏକକ-ବାଇଟ୍ ବର୍ଣ୍ଣମାଳା ଅକ୍ଷର ଏବଂ ପ୍ରତୀକ ଧାରଣ କରିବା ଜରୁରୀ |",
     "attached": "ଏହି :attribute ଟି ସଂଲଗ୍ନ ହୋଇସାରିଛି |",
     "base64": "The :attribute field must be a valid Base64 string.",

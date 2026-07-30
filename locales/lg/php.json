@@ -9,6 +9,7 @@
     "alpha_num": "Ezo :attribute zirina okubaamu ennukuta n’ennamba zokka.",
     "any_of": "Ennimiro :attribute si ntuufu.",
     "array": ":attribute zirina okuba nga za array.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Ennimiro :attribute erina okubaamu ennukuta n'obubonero bwa byte emu byokka.",
     "attached": "Ono :attribute yagattibwa dda.",
     "base64": "The :attribute field must be a valid Base64 string.",

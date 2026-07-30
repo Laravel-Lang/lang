@@ -9,6 +9,7 @@
     "alpha_num": "Pono nā leka a me nā helu wale nō i loko o kēia kahua.",
     "any_of": "ʻAʻole kūpono kēia kahua.",
     "array": "Pono kēia kahua i kahi laha.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Pono e loaʻa i kēia kahua nā huaʻōlelo alphanumeric pākahi-byte a me nā hōʻailona.",
     "attached": "Ua hoʻopili ʻia kēia kahua.",
     "base64": "This field must be a valid Base64 string.",

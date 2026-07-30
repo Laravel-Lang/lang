@@ -9,6 +9,7 @@
     "alpha_num": "Ang :attribute kinahanglan lang adunay mga letra ug numero.",
     "any_of": "Dili husto ang :attribute nga uma.",
     "array": "Ang :attribute kinahanglan usa ka array.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Ang :attribute ka field kinahanglan lang adunay single-byte alphanumeric nga mga karakter ug simbolo.",
     "attached": "Kini nga :attribute gilakip na.",
     "base64": "The :attribute field must be a valid Base64 string.",

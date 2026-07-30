@@ -9,6 +9,7 @@
     "alpha_num": "Dan il-qasam għandu jkun fih biss ittri u numri.",
     "any_of": "Dan il-qasam huwa invalidu.",
     "array": "Dan il-qasam għandu jkun firxa.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Dan il-qasam għandu jkun fih biss karattri u simboli alfanumeriċi b'byte wieħed.",
     "attached": "Dan il-qasam huwa diġà mehmuż.",
     "base64": "This field must be a valid Base64 string.",

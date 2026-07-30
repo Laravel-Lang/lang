@@ -9,6 +9,7 @@
     "alpha_num": "Tsy maintsy misy litera sy isa ihany io saha io.",
     "any_of": "Tsy manan-kery ity saha ity.",
     "array": "Ity saha ity dia tokony ho laharan-kira.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Ity saha ity dia tsy maintsy misy tarehin-tsoratra sy marika alfanumerik-byte tokana.",
     "attached": "Ity saha ity dia efa miraikitra.",
     "base64": "This field must be a valid Base64 string.",

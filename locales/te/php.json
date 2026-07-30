@@ -9,6 +9,7 @@
     "alpha_num": ":attribute తప్పనిసరిగా అక్షరాలు మరియు సంఖ్యలను మాత్రమే కలిగి ఉండాలి.",
     "any_of": ":attribute ఫీల్డ్ చెల్లదు.",
     "array": ":attribute తప్పనిసరిగా శ్రేణి అయి ఉండాలి.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute ఫీల్డ్ తప్పనిసరిగా సింగిల్-బైట్ ఆల్ఫాన్యూమరిక్ అక్షరాలు మరియు చిహ్నాలను మాత్రమే కలిగి ఉండాలి.",
     "attached": "ఈ :attribute ఇప్పటికే జోడించబడింది.",
     "base64": "The :attribute field must be a valid Base64 string.",

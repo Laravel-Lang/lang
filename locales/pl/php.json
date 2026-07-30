@@ -9,6 +9,7 @@
     "alpha_num": "Pole :attribute może zawierać jedynie litery i cyfry.",
     "any_of": "Pole :attribute ma nieprawidłową wartość.",
     "array": "Pole :attribute musi być tablicą.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Pole :attribute może zawierać tylko jednobajtowe znaki alfanumeryczne i symbole.",
     "attached": "Pole :attribute jest już załączone.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Поле :attribute можа мець толькі літары і лічбы.",
     "any_of": ":attribute поле несапраўднае.",
     "array": "Поле :attribute павінна быць масівам.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute павінны ўтрымліваць толькі аднабайтавыя літары і сімвалы.",
     "attached": "Гэты нумар :attribute ўжо прымацаваны.",
     "base64": "The :attribute field must be a valid Base64 string.",

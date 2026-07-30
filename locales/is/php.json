@@ -9,6 +9,7 @@
     "alpha_num": "Reiturinn :attribute má aðeins innihalda bókstafi og tölur.",
     "any_of": ":attribute reiturinn er ógildur.",
     "array": "Reiturinn :attribute verður að vera fylki.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute má aðeins innihalda einsbæta alfanumeríska stafi og tákn.",
     "attached": "Þetta :attribute er nú þegar fylgir.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Bu alan yalnızca harfler ve sayılar içerebilir.",
     "any_of": "Bu alan geçersiz.",
     "array": "Bu alan bir dizi olmalı.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Bu alan yalnızca tek baytlık alfasayısal karakterler ve simgeler içermelidir.",
     "attached": "Bu alan zaten tanımlı.",
     "base64": "This field must be a valid Base64 string.",

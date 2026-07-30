@@ -9,6 +9,7 @@
     "alpha_num": "A(z) :attribute kizárólag betűket és számokat tartalmazhat!",
     "any_of": "A :attribute mező érvénytelen.",
     "array": "A(z) :attribute egy tömb kell, hogy legyen!",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "A :attribute csak egybájtos alfanumerikus karaktereket és szimbólumokat tartalmazhat.",
     "attached": "Ezt a :attribute-at már csatolták.",
     "base64": "The :attribute field must be a valid Base64 string.",

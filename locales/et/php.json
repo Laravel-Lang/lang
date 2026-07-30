@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute võib sisaldada vaid tähti ja numbreid.",
     "any_of": ":attribute väli on kehtetu.",
     "array": ":Attribute peab olema massiiv.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute peab sisaldama ainult ühebaidiseid tähtnumbrilisi märke ja sümboleid.",
     "attached": "See :attribute on juba lisatud.",
     "base64": "The :attribute field must be a valid Base64 string.",

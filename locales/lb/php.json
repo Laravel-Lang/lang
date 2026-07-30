@@ -9,6 +9,7 @@
     "alpha_num": "Déi :attribute däerf nëmmen Buschtawen an Zuelen enthalen.",
     "any_of": "Den :attribute Feld ass ongëlteg.",
     "array": "Déi :attribute muss eng Array sinn.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Den :attribute Feld däerf nëmmen Single-Byte alphanumeresch Zeechen a Symboler enthalen.",
     "attached": "Dës :attribute ass scho befestegt.",
     "base64": "The :attribute field must be a valid Base64 string.",

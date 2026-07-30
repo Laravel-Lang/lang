@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute باید فقط حروف الفبا و اعداد باشد.",
     "any_of": "فیلد :attribute معتبر نیست.",
     "array": ":Attribute باید آرایه باشد.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute تنها میتواند شامل کاراکترها و نمادهای الفبایی تک بایتی باشد.",
     "attached": "این :attribute قبلاً پیوست شده است.",
     "base64": "The :attribute field must be a valid Base64 string.",

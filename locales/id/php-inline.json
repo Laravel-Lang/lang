@@ -9,6 +9,7 @@
     "alpha_num": "Isian ini hanya boleh berisi huruf dan angka.",
     "any_of": "Bidang ini tidak valid.",
     "array": "Isian harus berisi sebuah array.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Bidang ini hanya boleh berisi karakter dan simbol alfanumerik byte tunggal.",
     "attached": "Isian ini sudah dilampirkan.",
     "base64": "This field must be a valid Base64 string.",

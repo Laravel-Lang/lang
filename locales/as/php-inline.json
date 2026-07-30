@@ -9,6 +9,7 @@
     "alpha_num": "এই ক্ষেত্ৰত কেৱল আখৰ আৰু সংখ্যা থাকিব লাগিব।",
     "any_of": "এই ক্ষেত্ৰখন অবৈধ।",
     "array": "এই ক্ষেত্ৰখন এটা এৰে হ'ব লাগিব।",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "এই ক্ষেত্ৰত কেৱল একক-বাইট আলফানিউমেৰিক আখৰ আৰু চিহ্ন থাকিব লাগিব।",
     "attached": "এই ক্ষেত্ৰখন ইতিমধ্যে সংলগ্ন কৰা হৈছে।",
     "base64": "This field must be a valid Base64 string.",

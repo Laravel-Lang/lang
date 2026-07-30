@@ -9,6 +9,7 @@
     "alpha_num": "Полето :attribute може да содржи само букви и броеви.",
     "any_of": "Полето :attribute е невалидно.",
     "array": "Полето :attribute мора да биде низа.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute мора да содржи само алфанумерички знаци и симболи од еден бајт.",
     "attached": "Оваа :attribute е веќе прикачен.",
     "base64": "The :attribute field must be a valid Base64 string.",

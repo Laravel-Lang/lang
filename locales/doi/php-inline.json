@@ -9,6 +9,7 @@
     "alpha_num": "इस फील्ड च सिर्फ अक्षर ते नंबर गै होन चाहिदे न।",
     "any_of": "एह् फील्ड अमान्य ऐ।",
     "array": "एह् फील्ड इक सरणी होनी चाहिदी।",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "इस फील्ड च सिर्फ इक-बाइट अल्फान्यूमेरिक वर्ण ते चिह् न होन चाहिदे न.",
     "attached": "एह् फील्ड पैह्लें गै जुड़े दा ऐ।",
     "base64": "This field must be a valid Base64 string.",

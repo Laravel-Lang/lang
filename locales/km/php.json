@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute អាចមានតែអក្សរ និងលេខ។",
     "any_of": "វាលទាំង :attribute មិនមានសុពលភាពទេ។",
     "array": ":Attribute ត្រូវតែជា សំណុំ។",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute ត្រូវតែមានតួអក្សរ និងនិមិត្តសញ្ញាលេខមួយបៃប៉ុណ្ណោះ។",
     "attached": ":Attribute ត្រូវបានភ្ជាប់រួចទៅហើយ។",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Detta fält får endast innehålla bokstäver och siffror.",
     "any_of": "Detta fält är ogiltigt.",
     "array": "Detta fält måste vara en array.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Detta fält får endast innehålla enbyte alfanumeriska tecken och symboler.",
     "attached": "Detta fält är redan bifogat.",
     "base64": "This field must be a valid Base64 string.",

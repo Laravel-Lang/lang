@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute dine harplardan we sanlardan durmalydyr.",
     "any_of": ":attribute meýdan nädogry.",
     "array": ":Attribute ýygyndy bolmalydyr.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute-de diňe bir baýtly harp sanlary we nyşanlary bolmaly.",
     "attached": "Bu :attribute eýýäm birikdirildi.",
     "base64": "The :attribute field must be a valid Base64 string.",

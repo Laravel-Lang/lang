@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute inofanira kunge iine mavara nenhamba chete.",
     "any_of": "Iyo :attribute munda haina basa.",
     "array": "Iyo :attribute inofanira kunge iri hurongwa.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute inofanira kungova nezviratidzo zve single-byte alphanumeric uye mamaki (symbols).",
     "attached": ":Attribute yatobatanidzwa.",
     "base64": "The :attribute field must be a valid Base64 string.",

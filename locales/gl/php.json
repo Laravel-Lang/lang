@@ -9,6 +9,7 @@
     "alpha_num": "O :attribute só debe conter letras e números.",
     "any_of": "O campo :attribute non é válido.",
     "array": "O :attribute debe ser un array.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "O :attribute só debe conter caracteres e símbolos alfanuméricos dun só byte.",
     "attached": "Este :attribute xa está conectado.",
     "base64": "The :attribute field must be a valid Base64 string.",

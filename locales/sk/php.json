@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute musí obsahovať len písmená a číslice.",
     "any_of": ":attribute poľa je neplatné.",
     "array": ":Attribute musí byť pole.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Číslo :attribute musí obsahovať iba alfanumerické znaky a symboly bez interpunkcie.",
     "attached": "Tento :attribute je už pripojený.",
     "base64": "The :attribute field must be a valid Base64 string.",

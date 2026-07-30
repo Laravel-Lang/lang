@@ -9,6 +9,7 @@
     "alpha_num": "እዚ ዓውዲ ፊደላትን ቁጽርታትን ጥራይ ክሕዝ ኣለዎ።",
     "any_of": "እዚ ዓውዲ እዚ ትኽክል ኣይኮነን።",
     "array": "እዚ ዓውዲ እዚ ስርርዕ ክኸውን ኣለዎ።",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "እዚ ዓውዲ እዚ ሓደ ባይት ዘለዎም ፊደላትን ምልክታትን ጥራይ ክሕዝ ኣለዎ።",
     "attached": "እዚ ዓውዲ እዚ ድሮ ተተሓሒዙ ኣሎ።",
     "base64": "This field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Sɛbɛnw ni nimɔrɔw dɔrɔn ka kan ka sɔrɔ :attribute kɔnɔ.",
     "any_of": "Foro :attribute tɛ baara la.",
     "array": ":attribute ka kan ka kɛ sɛrɛkili ye.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Foro :attribute ka kan ka kɛ ni alfanumɛriki taamasiyɛnw ni taamasiyɛnw dɔrɔn ye minnu bɛ kɛ bayt kelen kɔnɔ.",
     "attached": "Nin :attribute in bɛ nɔrɔ a la kaban.",
     "base64": "The :attribute field must be a valid Base64 string.",

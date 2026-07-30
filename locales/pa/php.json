@@ -9,6 +9,7 @@
     "alpha_num": ":attribute ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ ਅਤੇ ਨੰਬਰ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
     "any_of": ":attribute ਖੇਤਰ ਅਵੈਧ ਹੈ.",
     "array": ":attribute ਇੱਕ ਐਰੇ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute ਖੇਤਰ ਵਿੱਚ ਸਿਰਫ਼ ਸਿੰਗਲ-ਬਾਈਟ ਅੱਖਰ ਅਤੇ ਚਿੰਨ੍ਹ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
     "attached": "ਇਹ :attribute ਪਹਿਲਾਂ ਹੀ ਨੱਥੀ ਹੈ।",
     "base64": "The :attribute field must be a valid Base64 string.",

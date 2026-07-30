@@ -9,6 +9,7 @@
     "alpha_num": "Šajā laukā var būt tikai burti un cipari.",
     "any_of": "Šis lauks nav derīgs.",
     "array": "Šim laukam jābūt masīvam.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Šajā laukā drīkst būt tikai viena baita burtciparu rakstzīmes un simboli.",
     "attached": "Šis lauks jau ir pievienots.",
     "base64": "This field must be a valid Base64 string.",

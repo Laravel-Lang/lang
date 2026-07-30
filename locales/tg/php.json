@@ -9,6 +9,7 @@
     "alpha_num": "Қиммати :attribute метавонад танҳо дорои ҳарфҳои алифо ва ададҳо бошад",
     "any_of": ":attribute майдони нодуруст аст.",
     "array": "Қиммати :attribute бояд, ки массив бошад.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute бояд танҳо аломатҳо ва аломатҳои алифбои рақамиро дар бар гирад.",
     "attached": "Ин :attribute аллакай прикреплен.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": ":attribute тамгалар менен сандарды гана камтышы керек.",
     "any_of": ":attribute талаа жараксыз.",
     "array": ":attribute массив болушу керек.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute талаасында бир байт алфавиттик-сандык символдор жана символдор гана болушу керек.",
     "attached": "Бул :attribute мурунтан эле тиркелген.",
     "base64": "The :attribute field must be a valid Base64 string.",

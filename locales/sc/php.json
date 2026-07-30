@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute podet cuntènnere isceti lìteras e nùmeros.",
     "any_of": "Su campu :attribute no est bàlidu.",
     "array": ":Attribute depet èssere un'array.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute depet cuntènnere isceti caràteres alfanumèricos a baiti ùnicu e sìmbulos.",
     "attached": "Custu :attribute est giai atzetadu.",
     "base64": "The :attribute field must be a valid Base64 string.",

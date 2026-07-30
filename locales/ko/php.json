@@ -9,6 +9,7 @@
     "alpha_num": ":attribute은(는) 문자와 숫자만 포함할 수 있습니다.",
     "any_of": ":attribute은(는) 유효하지 않습니다.",
     "array": ":attribute은(는) 배열이어야 합니다.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute은 1바이트 영숫자 문자와 기호만 포함해야 합니다.",
     "attached": ":attribute은(는) 이미 첨부되어 있습니다.",
     "base64": ":attribute은(는) 유효한 Base64 문자열이어야 합니다.",

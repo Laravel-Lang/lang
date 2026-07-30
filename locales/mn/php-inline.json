@@ -9,6 +9,7 @@
     "alpha_num": "Энэ талбар нь зөвхөн захидал болон дугааруудыг агуулж болох юм.",
     "any_of": "Энэ талбар буруу байна.",
     "array": "Энэ талбар нь массив байх естой.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Энэ талбарт зөвхөн нэг байт үсэг, тоон тэмдэгт, тэмдэг байх ёстой.",
     "attached": "Энэ талбар нь аль хэдийн хавсаргасан байна.",
     "base64": "This field must be a valid Base64 string.",

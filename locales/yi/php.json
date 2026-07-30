@@ -9,6 +9,7 @@
     "alpha_num": "די :attribute מוזן בלויז אַנטהאַלטן אותיות און נומערן.",
     "any_of": "די :attribute פעלד איז פאַרקריפּלט.",
     "array": "די :attribute מוזן זיין אַ מענגע.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "די :attribute פעלד מוזן בלויז אַנטהאַלטן איין-ביטע אַלפאַנומעריק אותיות און סימבאָלס.",
     "attached": "דעם :attribute איז שוין אַטאַטשט.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": ":attribute में खाली अक्षर आ संख्या होखे के चाहीं.",
     "any_of": ":attribute फील्ड अमान्य बा।",
     "array": ":attribute के एगो सरणी होखे के चाहीं।",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute फील्ड में खाली सिंगल-बाइट अल्फान्यूमेरिक वर्ण आ चिन्ह होखे के चाहीं।",
     "attached": "ई :attribute पहिलहीं से संलग्न बा।",
     "base64": "The :attribute field must be a valid Base64 string.",

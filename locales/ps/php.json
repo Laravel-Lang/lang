@@ -9,6 +9,7 @@
     "alpha_num": "شمیرې او متره :attribute یوازې خطونه او شمیرې.",
     "any_of": ":attribute ډګر ناباوره دی.",
     "array": "دا باید وي :attribute ًمیټرکس.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute باید یوازې د واحد بایټ الفانومریک حروف او سمبولونه ولري.",
     "attached": "دا :attribute لا دمخه ضمیمه شوی.",
     "base64": "The :attribute field must be a valid Base64 string.",

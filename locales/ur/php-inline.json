@@ -9,6 +9,7 @@
     "alpha_num": "اس میدان میں کر سکتے ہیں صرف حروف اور نمبر.",
     "any_of": "یہ فیلڈ غلط ہے۔",
     "array": "اس میدان میں ہونا ضروری ہے ایک سرنی.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "اس فیلڈ میں صرف سنگل بائٹ حروف اور علامتیں ہونی چاہئیں۔",
     "attached": "اس میدان میں پہلے سے ہی ہے کے ساتھ منسلک.",
     "base64": "This field must be a valid Base64 string.",

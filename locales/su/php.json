@@ -9,6 +9,7 @@
     "alpha_num": ":attribute ngan kedah ngandung hurup sareng angka.",
     "any_of": "Bidang :attribute henteu leres.",
     "array": ":attribute kedah janten susunan.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Widang :attribute ngan kedah ngandung karakter sareng simbol alfanumerik bait tunggal.",
     "attached": ":attribute ieu parantos napel.",
     "base64": "The :attribute field must be a valid Base64 string.",

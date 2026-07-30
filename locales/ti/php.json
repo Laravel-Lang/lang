@@ -9,6 +9,7 @@
     "alpha_num": "እተን :attribute ፊደላትን ቁጽርታትን ጥራይ ክሕዛ ኣለወን።",
     "any_of": "እቲ :attribute ዝብል ዓውዲ ትኽክል ኣይኮነን።",
     "array": "እቶም :attribute ስርርዕ ክኾኑ ኣለዎም።",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "እቲ :attribute ዓውዲ ሓደ ባይት ዘለዎም ፊደላትን ምልክታትን ጥራይ ክሕዝ ኣለዎ።",
     "attached": "እዚ :attribute ድሮ ተተሓሒዙ ኣሎ።",
     "base64": "The :attribute field must be a valid Base64 string.",

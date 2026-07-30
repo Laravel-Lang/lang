@@ -9,6 +9,7 @@
     "alpha_num": "Polje :attribute može sadržati samo slova i brojeve.",
     "any_of": "Polje :attribute je nevažeće.",
     "array": "Polje :attribute mora biti niz.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute mora sadržavati samo jednobajtne alfanumeričke znakove i simbole.",
     "attached": "Ovaj :attribute je već spojen.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Pole może zawierać jedynie litery i cyfry.",
     "any_of": "To pole ma nieprawidłową wartość.",
     "array": "Pole musi być tablicą.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "To pole może zawierać tylko jednobajtowe znaki alfanumeryczne i symbole.",
     "attached": "Pole jest już załączone.",
     "base64": "This field must be a valid Base64 string.",

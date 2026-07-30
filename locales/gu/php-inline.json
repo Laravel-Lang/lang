@@ -9,6 +9,7 @@
     "alpha_num": "આ ફીલ્ડમાં માત્ર અક્ષરો અને સંખ્યાઓ હોવા જોઈએ.",
     "any_of": "આ ક્ષેત્ર અમાન્ય છે.",
     "array": "આ ક્ષેત્ર એરે હોવું આવશ્યક છે.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "આ ફીલ્ડમાં માત્ર સિંગલ-બાઈટ આલ્ફાન્યૂમેરિક અક્ષરો અને પ્રતીકો હોવા જોઈએ.",
     "attached": "આ ફીલ્ડ પહેલેથી જ જોડાયેલ છે.",
     "base64": "This field must be a valid Base64 string.",

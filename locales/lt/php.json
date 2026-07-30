@@ -9,6 +9,7 @@
     "alpha_num": "Laukas :attribute gali turėti tik raides ir skaičius.",
     "any_of": ":attribute laukų neteisingas.",
     "array": "Laukas :attribute turi būti masyvas.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute turi būti tik vieno baito raidiniai ir skaitmeniniai simboliai ir simboliai.",
     "attached": "Šis :attribute jau yra pridėtas.",
     "base64": "The :attribute field must be a valid Base64 string.",

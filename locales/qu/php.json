@@ -9,6 +9,7 @@
     "alpha_num": "Chay :attribute nisqapiqa letrakunalla, yupaykunalla kanan tiyan.",
     "any_of": ":attribute chakraqa manam allinchu.",
     "array": "Chay :attributeqa huk matrizmi kanan.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute pampaqa huk byte alfanumérico qillqakunalla, siñalkunallayuqmi kanan.",
     "attached": "Kay :attributeqa k’askasqañam kachkan.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "ဤအကွက်တွင် စာလုံးများနှင့် နံပါတ်များသာ ပါဝင်ရပါမည်။",
     "any_of": "ဒီကွက်လပ်သည်မမှန်ကန်ပါ",
     "array": "ဤအကွက်သည် ခင်းကျင်းမှုတစ်ခု ဖြစ်ရပါမည်။",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "ဤအကွက်တွင် single-byte အက္ခရာဂဏန်းစာလုံးများနှင့် သင်္ကေတများသာ ပါဝင်ရပါမည်။",
     "attached": "ဤအကွက်ကို ပူးတွဲပြီးဖြစ်သည်။",
     "base64": "This field must be a valid Base64 string.",

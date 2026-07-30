@@ -9,6 +9,7 @@
     "alpha_num": "Ово поље може садржати само слова и бројеве.",
     "any_of": "Ово поље је неважеће.",
     "array": "Ово поље мора садржати неких низ ставки.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Ово поље мора да садржи само једнобајтне алфанумеричке знакове и симболе.",
     "attached": "Ово поље је већ причвршћено.",
     "base64": "This field must be a valid Base64 string.",

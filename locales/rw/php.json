@@ -9,6 +9,7 @@
     "alpha_num": ":attribute igomba kuba irimo inyuguti nimibare gusa.",
     "any_of": "Umurima :attribute ntutemewe.",
     "array": ":attribute igomba kuba umurongo.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Umwanya :attribute ugomba kuba urimo gusa-byte inyuguti ninyuguti.",
     "attached": "Iyi :attribute yamaze kumugereka.",
     "base64": "The :attribute field must be a valid Base64 string.",

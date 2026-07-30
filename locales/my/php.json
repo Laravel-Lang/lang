@@ -9,6 +9,7 @@
     "alpha_num": ":attribute တွင် အက္ခရာများနှင့် ဂဏန်းများသာ ပါဝင်ရပါမည်။",
     "any_of": ":attribute လယ်ပြင်သည်မမှန်ကန်ပါ။",
     "array": ":attribute သည် array တစ်ခုဖြစ်ရမည်။",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "အကွက် :attribute တွင် single-byte အက္ခရာဂဏန်းစာလုံးများနှင့် သင်္ကေတများသာ ပါဝင်ရပါမည်။",
     "attached": "ဒီ :attribute က တွဲပြီးသွားပြီ။",
     "base64": "The :attribute field must be a valid Base64 string.",

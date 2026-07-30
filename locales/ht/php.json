@@ -9,6 +9,7 @@
     "alpha_num": ":attribute dwe gen sèlman lèt ak chif.",
     "any_of": ":attribute pa valab.",
     "array": ":attribute dwe yon tablo (aray).",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute dwe gen sèlman karaktè ak senbòl alfanimerik yon sèl byte.",
     "attached": ":attribute sa a deja atache.",
     "base64": "The :attribute field must be a valid Base64 string.",

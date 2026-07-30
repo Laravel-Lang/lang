@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute শুধুমাত্র বর্ণ ও সংখ্যা থাকতে পারে।",
     "any_of": ":Attribute ক্ষেত্রটি অবৈধ।",
     "array": ":Attribute একটি অ্যারে হতে হবে।",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute টিতে শুধুমাত্র একক-বাইট বর্ণসংখ্যার অক্ষর এবং প্রতীক থাকতে হবে।",
     "attached": "এই :attribute ইতিমধ্যে সংযুক্ত করা হয়।",
     "base64": "The :attribute field must be a valid Base64 string.",

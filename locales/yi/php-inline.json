@@ -9,6 +9,7 @@
     "alpha_num": "דאס פעלד מוזן בלויז אַנטהאַלטן אותיות און נומערן.",
     "any_of": "דאס פעלד איז פאַרקריפּלט.",
     "array": "דעם פעלד מוזן זיין אַ מענגע.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "דעם פעלד מוזן בלויז אַנטהאַלטן איין-ביטע אַלפאַנומעריק אותיות און סימבאָלס.",
     "attached": "דאס פעלד איז שוין אַטאַטשט.",
     "base64": "This field must be a valid Base64 string.",

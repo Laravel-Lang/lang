@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute मध्ये फक्त अक्षरे आणि संख्या वैध आहेत.",
     "any_of": ":attribute फील्ड अवैध आहे.",
     "array": ":Attribute साठी फक्त सूची वैध आहे.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute मध्ये फक्त सिंगल-बाइट अल्फान्यूमेरिक वर्ण आणि चिन्हे असणे आवश्यक आहे.",
     "attached": "या :attribute आधीच संलग्न आहे.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "L-:attribute għandu jkun fihom biss ittri u numri.",
     "any_of": "L-:attribute qasam mhuwiex validu.",
     "array": "L-:attribute għandhom ikunu firxa.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Il-qasam :attribute għandu jkun fih biss karattri u simboli alfanumeriċi b'byte wieħed.",
     "attached": "Din l-:attribute hija diġà mehmuża.",
     "base64": "The :attribute field must be a valid Base64 string.",

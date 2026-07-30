@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute var tikai saturēt burtus un numurus.",
     "any_of": ":attribute lauks nav derīgs.",
     "array": ":Attribute ir jābūt sakārtotam.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute drīkst saturēt tikai viena baita burtciparu rakstzīmes un simbolus.",
     "attached": "Šis :attribute jau ir pievienots.",
     "base64": "The :attribute field must be a valid Base64 string.",

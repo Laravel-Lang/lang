@@ -4,7 +4,7 @@ editLink: false
 
 # xh
 
-##### All missed: 34
+##### All missed: 36
 
 
 ### json
@@ -317,7 +317,7 @@ Yemen
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -329,6 +329,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+This field must only contain the following keys: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 base64
@@ -346,7 +355,7 @@ This field must be a valid Base64 string.
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -358,6 +367,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+The :attribute field must only contain the following keys: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 base64

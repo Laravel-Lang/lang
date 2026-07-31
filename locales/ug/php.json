@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute پەقەت ھەرىپ ۋە سان-سىفىرلاردىن تۈزىلىشى كېرەك.",
     "any_of": ":attribute مەيدان ئىناۋەتسىز.",
     "array": ":Attribute چوقۇم بۇرۇن بۇلىشى كېرەك.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute دە پەقەت بىرلا بايىتلىق ھەرپ-بەلگىلەر ۋە بەلگىلەر بولۇشى كېرەك.",
     "attached": "بۇ :attribute ئاللىقاچان باغلانغان.",
     "base64": "The :attribute field must be a valid Base64 string.",

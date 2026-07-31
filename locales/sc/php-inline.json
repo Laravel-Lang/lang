@@ -9,6 +9,7 @@
     "alpha_num": "Custu campu depet cuntènnere isceti lìteras e nùmeros.",
     "any_of": "Custu campu no est bàlidu.",
     "array": "Custu campu depet èssere un'array.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Custu campu depet cuntènnere isceti caràteres alfanumèricos a baiti ùnicu e sìmbulos.",
     "attached": "Custu campu est giai atzetadu.",
     "base64": "This field must be a valid Base64 string.",

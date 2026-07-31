@@ -9,6 +9,7 @@
     "alpha_num": "Divê :attribute tenê tîp û hejmaran hebin.",
     "any_of": ":attribute zevî betal e.",
     "array": "Divê :attribute array be.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Di qada :attribute de divê tenê tîp û sembolên alfanumerîkî yên yek-byte hebin.",
     "attached": "Ev :attribute jixwe ve girêdayî ye.",
     "base64": "The :attribute field must be a valid Base64 string.",

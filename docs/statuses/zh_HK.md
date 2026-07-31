@@ -4,7 +4,7 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 33
+##### All missed: 35
 
 
 ### json
@@ -290,7 +290,7 @@ We will send an invoice download link to the email addresses that you specify be
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -302,6 +302,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+This field must only contain the following keys: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 base64
@@ -328,7 +337,7 @@ This field must be encoded in :encoding.
 
 ### php
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -340,6 +349,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+The :attribute field must only contain the following keys: :values.
+
+</td></tr>
 <tr><td width="50%">
 
 base64

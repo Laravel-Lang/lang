@@ -9,6 +9,7 @@
     "alpha_num": "Ang patlang na ito ay maaari lamang maglaman ng mga titik at numero.",
     "any_of": "Ang patlang na ito ay hindi wasto.",
     "array": "Ang patlang na ito ay dapat na isang array.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Ang field na ito ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Ang patlang na ito ay nakalakip.",
     "base64": "This field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute yalnız hərflərdən və rəqəmlərdən ibarət olmalıdır.",
     "any_of": ":Attribute sahəsi etibarsızdır.",
     "array": ":Attribute massiv olmalıdır.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute yalnız bir baytlıq alfasayısal simvol və simvollar olmalıdır.",
     "attached": "Bu :attribute artıq əlavə olunur.",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Trường :attribute chỉ có thể chứa chữ cái và số.",
     "any_of": "Trường :attribute không hợp lệ.",
     "array": "Trường :attribute phải là dạng mảng.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Trường :attribute chỉ được chứa các ký tự chữ số và ký hiệu một byte.",
     "attached": "Trường :attribute đã được đính kèm.",
     "base64": "The :attribute field must be a valid Base64 string.",

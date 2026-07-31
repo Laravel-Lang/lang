@@ -9,6 +9,7 @@
     "alpha_num": "Ní mór ach litreacha agus uimhreacha a bheith sna :attribute gcinn.",
     "any_of": "Tá an :attribute réimse neamhbhailí.",
     "array": "Caithfidh an :attribute a bheith ina sraith.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Ní mór ach carachtair agus siombailí alfa-uimhriúla aon bheart a bheith sa réimse :attribute.",
     "attached": "Tá an :attribute seo ceangailte cheana féin.",
     "base64": "The :attribute field must be a valid Base64 string.",

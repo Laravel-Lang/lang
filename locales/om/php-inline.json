@@ -9,6 +9,7 @@
     "alpha_num": "Dirreen kun qubee fi lakkoofsota qofa qabaachuu qaba.",
     "any_of": "Dirreen kun seera qabeessa miti.",
     "array": "Dirreen kun tarree ta'uu qaba.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Dirreen kun arfiilee fi mallattoolee qubee lakkoofsaa baayitii tokkoo qofa qabaachuu qaba.",
     "attached": "Dirreen kun duraanuu maxxaneera.",
     "base64": "This field must be a valid Base64 string.",

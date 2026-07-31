@@ -9,6 +9,7 @@
     "alpha_num": "Lo mmandla kufuneka ube nonobumba kunye namanani kuphela.",
     "any_of": "Le ntsimi ayisebenzi.",
     "array": "Lo mmandla kufuneka ube luluhlu.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Lo mmandla mawuqulathe kuphela i-byte enye yealphanumeric kunye neempawu.",
     "attached": "Lo mmandla sele uncanyathiselwe.",
     "base64": "This field must be a valid Base64 string.",

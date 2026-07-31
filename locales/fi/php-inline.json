@@ -9,6 +9,7 @@
     "alpha_num": "Tämä kenttä voi sisältää vain kirjaimia ja numeroita.",
     "any_of": "Tämä kenttä on virheellinen.",
     "array": "Tämän kentän täytyy olla taulukko.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Tämä kenttä saa sisältää vain yksitavuisia aakkosnumeerisia merkkejä ja symboleja.",
     "attached": "Tämä kenttä on jo kiinnitetty.",
     "base64": "This field must be a valid Base64 string.",

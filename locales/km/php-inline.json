@@ -9,6 +9,7 @@
     "alpha_num": "វាលនេះអាចមានតែអក្សរ និងលេខ។",
     "any_of": "វាលនេះមិនត្រឹមត្រូវទេ។",
     "array": "វាលនេះត្រូវតែជា សំណុំ។",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "វាលនេះត្រូវតែមានតួអក្សរ និងនិមិត្តសញ្ញាលេខមួយបៃប៉ុណ្ណោះ។",
     "attached": "វាលនេះត្រូវបានភ្ជាប់រួចទៅហើយ។",
     "base64": "This field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "I-:attribute kufanele ibe nezinhlamvu nezinombolo kuphela.",
     "any_of": "Insimu eyi-:attribute ayivumelekile.",
     "array": "I-:attribute kufanele ibe yilungu elifanayo.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Inkambu engu-:attribute kufanele ibe nezinhlamvu ze-alphanumeric zebhayithi eyodwa kuphela namasimbuli.",
     "attached": "Lokhu okungu-:attribute sekuvele kunamathiselwe.",
     "base64": "The :attribute field must be a valid Base64 string.",

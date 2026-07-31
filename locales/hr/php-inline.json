@@ -9,6 +9,7 @@
     "alpha_num": "Ovo polje mora sadržavati samo slova i brojeve.",
     "any_of": "Ovo polje nije valjano.",
     "array": "Ovo polje mora biti niz.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Ovo polje smije sadržavati samo slova, brojeve i simbole veličine jednog bajta.",
     "attached": "Ovo polje je već pričvršćeno.",
     "base64": "This field must be a valid Base64 string.",

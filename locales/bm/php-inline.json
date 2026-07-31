@@ -9,6 +9,7 @@
     "alpha_num": "Nin foro in ka kan ka kɛ lɛtɛrɛw ni nimɔrɔw dɔrɔn de ye.",
     "any_of": "Nin foro in tɛ baara la.",
     "array": "Nin foro in ka kan ka kɛ sɛrɛkili ye.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Nin foro in ka kan ka kɛ ni alfanumɛriki taamasiyɛnw ni taamasiyɛnw ye minnu bɛ kɛ bayt kelen dɔrɔn ye.",
     "attached": "O foro in nɔrɔlen bɛ kaban.",
     "base64": "This field must be a valid Base64 string.",

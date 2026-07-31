@@ -9,6 +9,7 @@
     "alpha_num": "Hierdie veld mag slegs letters en syfers bevat.",
     "any_of": "Hierdie veld is ongeldig.",
     "array": "Hierdie veld moet 'n array wees.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Hierdie veld moet slegs enkelgreep alfanumeriese karakters en simbole bevat.",
     "attached": "Hierdie veld is reeds aangeheg.",
     "base64": "This field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Այս դաշտը պետք է պարունակի միայն տառեր և թվեր։",
     "any_of": "Այս դաշտը անվավեր է:",
     "array": "Այս դաշտը պետք է լինի զանգված։",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Այս դաշտը պետք է պարունակի միայն մեկ բայթանոց տառային թվային նիշեր և նշաններ:",
     "attached": "Այս դաշտը արդեն կցված է։",
     "base64": "This field must be a valid Base64 string.",

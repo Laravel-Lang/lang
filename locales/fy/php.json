@@ -9,6 +9,7 @@
     "alpha_num": "De :attribute moat allinich letters en sifers befetsje.",
     "any_of": "It fjild :attribute fjild is unjildich.",
     "array": "De :attribute moat in array wêze.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "It fjild fan :attribute moat allinich single-byte alfanumerike tekens en symboalen befetsje.",
     "attached": "Dizze :attribute is al taheakke.",
     "base64": "The :attribute field must be a valid Base64 string.",

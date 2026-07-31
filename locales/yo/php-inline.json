@@ -9,6 +9,7 @@
     "alpha_num": "Iye náà gbọ́dọ̀ ní lẹ́tà àti nọ́mbà nìkan.",
     "any_of": "Aaye yìí kò wulo.",
     "array": "Aaye yìí gbọ́dọ̀ ní àkójọpọ̀ (array).",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Iye náà gbọ́dọ̀ ní àwọn àmì alphanumeric baiti-kan ṣoṣo àti àwọn aami.",
     "attached": "Fáìlì yìí ti somọ́ tẹ́lẹ̀.",
     "base64": "This field must be a valid Base64 string.",

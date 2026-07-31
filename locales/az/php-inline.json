@@ -9,6 +9,7 @@
     "alpha_num": "Bu sahədə yalnız məktublar və nömrələr ola bilər.",
     "any_of": "Bu sahə etibarsızdır.",
     "array": "Bu sahə bir sıra olmalıdır.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Bu sahədə yalnız bir baytlıq alfasayısal simvol və simvollar olmalıdır.",
     "attached": "Bu sahə artıq əlavə olunur.",
     "base64": "This field must be a valid Base64 string.",

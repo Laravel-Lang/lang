@@ -9,6 +9,7 @@
     "alpha_num": "Ɛsɛ sɛ nkyerɛwde ne nɔma nkutoo na ɛwɔ :attribute no mu.",
     "any_of": ":attribute field no nyɛ adwuma.",
     "array": "Ɛsɛ sɛ :attribute no yɛ nhyehyɛe.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Ɛsɛ sɛ :attribute field no kura alphanumeric nkyerɛwde ne agyiraehyɛde ahorow a ɛwɔ baiti biako nkutoo.",
     "attached": "Wɔde :attribute yi abata ho dedaw.",
     "base64": "The :attribute field must be a valid Base64 string.",

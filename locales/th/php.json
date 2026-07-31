@@ -9,6 +9,7 @@
     "alpha_num": "ข้อมูล :attribute ต้องเป็นตัวอักษรภาษาอังกฤษ ตัวเลข เท่านั้น",
     "any_of": "ช่องข้อมูล :attribute ไม่ถูกต้อง",
     "array": "ข้อมูล :attribute ต้องเป็น array เท่านั้น",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute ต้องมีอักขระและสัญลักษณ์ที่เป็นตัวอักษรและตัวเลขคละกันแบบไบต์เดี่ยวเท่านั้น",
     "attached": "ข้อมูล :attribute นี้ถูกแนบแล้ว",
     "base64": "The :attribute field must be a valid Base64 string.",

@@ -9,6 +9,7 @@
     "alpha_num": "Šis laukas gali turėti tik raides ir skaičius.",
     "any_of": "Šis laukas neteisingas.",
     "array": "Šis laukas turi būti masyvas.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Šiame lauke turi būti tik vieno baito raidiniai ir skaitmeniniai simboliai ir simboliai.",
     "attached": "Šis laukas jau yra pridėtas.",
     "base64": "This field must be a valid Base64 string.",

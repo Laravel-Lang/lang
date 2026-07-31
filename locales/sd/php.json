@@ -9,6 +9,7 @@
     "alpha_num": ":attribute ۾ صرف اکر ۽ انگ شامل ٿيڻ گهرجن.",
     "any_of": ":attribute فيلڊ غلط آهي.",
     "array": ":attribute هڪ صف هجڻ گهرجي.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":attribute فيلڊ ۾ صرف سنگل بائيٽ الفانمياتي اکرن ۽ علامتن تي مشتمل هجڻ گھرجي.",
     "attached": "هي :attribute اڳ ۾ ئي ڳنڍيل آهي.",
     "base64": "The :attribute field must be a valid Base64 string.",

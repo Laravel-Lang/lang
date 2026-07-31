@@ -9,6 +9,7 @@
     "alpha_num": "Feumaidh dìreach litrichean is àireamhan a bhith anns an :attribute.",
     "any_of": "Tha an :attribute raon neo-dhligheach.",
     "array": "Feumaidh an :attribute a bhith na raon.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Feumaidh an raon :attribute a bhith anns an raon :attribute a-mhàin caractaran agus samhlaidhean alfaimigeach aon-byte.",
     "attached": "Tha an :attribute seo ceangailte mu thràth.",
     "base64": "The :attribute field must be a valid Base64 string.",

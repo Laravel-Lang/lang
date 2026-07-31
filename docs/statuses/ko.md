@@ -23,11 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-base64
+array_keys
 
 </td><td width="50%">
 
-This field must be a valid Base64 string.
+This field must only contain the following keys: :values.
 
 </td></tr>
 </table>
@@ -52,11 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-base64
+array_keys
 
 </td><td width="50%">
 
-The :attribute field must be a valid Base64 string.
+The :attribute field must only contain the following keys: :values.
 
 </td></tr>
 </table>

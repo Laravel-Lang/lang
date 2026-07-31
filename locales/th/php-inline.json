@@ -9,6 +9,7 @@
     "alpha_num": "ช่องข้อมูลนี้มีได้เฉพาะตัวอักษรและตัวเลข",
     "any_of": "ช่องข้อมูลนี้ไม่ถูกต้อง",
     "array": "ช่องข้อมูลนี้ต้องเป็นอาเรย์",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "ฟิลด์นี้ต้องมีอักขระและสัญลักษณ์ที่เป็นตัวอักษรและตัวเลขคละกันแบบไบต์เดี่ยวเท่านั้น",
     "attached": "ช่องข้อมูลนี้อยู่แล้วมาเกี่ยวข้อง",
     "base64": "This field must be a valid Base64 string.",

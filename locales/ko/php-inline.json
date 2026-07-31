@@ -9,6 +9,7 @@
     "alpha_num": "이 필드는 문자와 숫자만 포함할 수 있습니다.",
     "any_of": "이 필드는 유효하지 않습니다.",
     "array": "이 필드는 배열이어야 합니다.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "이 필드에는 1바이트 영숫자 문자 및 기호만 포함해야 합니다.",
     "attached": "이 필드는 이미 첨부되어 있습니다.",
     "base64": "이 필드는 유효한 Base64 문자열이어야 합니다.",

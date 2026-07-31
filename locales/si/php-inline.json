@@ -9,6 +9,7 @@
     "alpha_num": "මෙම ක්ෂේත්‍රය පමණක් විය හැක අඩංගු ලිපි සහ අංක.",
     "any_of": "මෙම ක්ෂේත්රය අවලංගුය.",
     "array": "මේ ක්ෂේත්‍රය විය යුතුය රැසක්.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "මෙම ක්ෂේත්‍රයේ අඩංගු විය යුත්තේ තනි-බයිට් අක්ෂරාංක අක්ෂර සහ සංකේත පමණි.",
     "attached": "මේ ක්ෂේත්‍රය මේ වන විටත් අමුණා ඇත.",
     "base64": "This field must be a valid Base64 string.",

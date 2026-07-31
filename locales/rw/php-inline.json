@@ -9,6 +9,7 @@
     "alpha_num": "Uyu murima ugomba kuba urimo inyuguti nimibare gusa.",
     "any_of": "Uyu murima ntutemewe.",
     "array": "Uyu murima ugomba kuba umurongo.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Uyu murima ugomba kuba urimo gusa-byte inyuguti ninyuguti.",
     "attached": "Uyu murima umaze kwomekwa.",
     "base64": "This field must be a valid Base64 string.",

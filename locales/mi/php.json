@@ -9,6 +9,7 @@
     "alpha_num": "Ko te :attribute me mau reta me nga nama anake.",
     "any_of": "Ko te :attribute mara he he.",
     "array": "Ko te :attribute me he huinga.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Ko te āpure :attribute me whai tohu-paita-a-paita anake me nga tohu.",
     "attached": "Kua piri kē tenei :attribute.",
     "base64": "The :attribute field must be a valid Base64 string.",

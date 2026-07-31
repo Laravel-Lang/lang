@@ -9,6 +9,7 @@
     "alpha_num": "Þetta sviði getur aðeins innihalda bréf og tölur.",
     "any_of": "Þessi reitur er ógildur.",
     "array": "Þetta sviði verður að vera fylki.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "Þessi reitur má aðeins innihalda eins-bæta tölustafi og tákn.",
     "attached": "Þetta sviði er nú þegar fylgir.",
     "base64": "This field must be a valid Base64 string.",

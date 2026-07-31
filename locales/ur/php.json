@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute میں صرف حروفِ تہجی و اعداد شامل ہو سکتے ہیں۔",
     "any_of": ":attribute فیلڈ غلط ہے۔",
     "array": ":Attribute لازماً کسی رینج پر مشتمل ہو۔",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute میں صرف سنگل بائٹ حروف عددی حروف اور علامتیں ہونی چاہئیں۔",
     "attached": "اس :attribute پہلے سے ہی ہے کے ساتھ منسلک.",
     "base64": "The :attribute field must be a valid Base64 string.",

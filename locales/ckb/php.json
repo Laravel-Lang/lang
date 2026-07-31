@@ -9,6 +9,7 @@
     "alpha_num": "ئەو ١٠ یە تەنها دەبێت پیت و ژمارەی تێدابێت.",
     "any_of": "مەیدانی ١٠ نادروستە.",
     "array": "١٠ ەکە دەبێت ڕیزبەندییەک بێت.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "مەیدانی ١٠ تەنها دەبێت پیت و هێمای ئەلفوبێی ژمارەیی تاکە بایت لەخۆبگرێت.",
     "attached": "ئەم ١٠ یە پێشتر هاوپێچ کراوە.",
     "base64": "The :attribute field must be a valid Base64 string.",

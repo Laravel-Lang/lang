@@ -9,7 +9,7 @@
     "alpha_num": "Este campo solo puede contener letras y números.",
     "any_of": "Este campo no es válido.",
     "array": "Este campo debe ser un array (colección).",
-    "array_keys": "This field must only contain the following keys: :values.",
+    "array_keys": "Este campo solo debe contener las siguientes claves: :values.",
     "ascii": "Este campo solo debe contener caracteres alfanuméricos y símbolos de un solo byte.",
     "attached": "Este campo ya se adjuntó.",
     "base64": "Este campo debe ser una cadena Base64 válida.",

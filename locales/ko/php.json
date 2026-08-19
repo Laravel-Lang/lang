@@ -44,7 +44,7 @@
     "enum": ":attribute의 값이 잘못되었습니다.",
     "exists": ":attribute이(가) 존재하지 않습니다.",
     "extensions": ":attribute 필드에는 다음 확장자 중 하나가 있어야 합니다. :values.",
-    "failed": "제출된 인증 정보가 레코드와 일치하지 않습니다.",
+    "failed": "아이디나 이메일 또는 비밀번호가 올바르지 않습니다. 입력한 정보를 다시 확인해 주세요.",
     "file": ":attribute은(는) 파일이어야 합니다.",
     "filled": ":attribute 필드는 값이 있어야 합니다.",
     "gt.array": ":attribute의 항목 수는 :value개 보다 많아야 합니다.",

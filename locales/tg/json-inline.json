@@ -12,5 +12,5 @@
     "The :attribute must contain at least one number.": "Ин майдон бояд ҳадди ақал як рақам дошта бошад.",
     "The :attribute must contain at least one symbol.": "Ин майдон бояд ҳадди ақал як аломати махсус дошта бошад.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "Ин майдон бояд ҳадди ақал як ҳарфи калон ва як ҳарфи хурд дошта бошад.",
-    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ин қимат дар ихроҷи маълумот пайдо шудааст. Лутфан қимати дигар интихоб кунед."
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ин қимат дар маълумоти ифшошуда дида шудааст. Лутфан қимати дигар интихоб кунед."
 }

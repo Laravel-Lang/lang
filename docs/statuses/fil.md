@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 12
+##### All missed: 15
 
 
 ### php
@@ -47,7 +47,7 @@ The :attribute field must be a valid Base64 string.
 
 ### json
 
-##### Missing: 8
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -97,6 +97,24 @@ Passkey verification session expired. Please try again.
 </td></tr>
 <tr><td width="50%">
 
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
 Unable to register passkey. Please try again.
 
 </td><td width="50%">
@@ -129,6 +147,15 @@ Unable to verify passkey. Please try again.
 </td><td width="50%">
 
 Unable to verify passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td><td width="50%">
+
+Unable to write the encrypted environment file.
 
 </td></tr>
 </table>

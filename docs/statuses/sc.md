@@ -4,12 +4,12 @@ editLink: false
 
 # sc
 
-##### All missed: 16
+##### All missed: 19
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,6 +68,24 @@ Reset your password
 </td></tr>
 <tr><td width="50%">
 
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
 Unable to register passkey. Please try again.
 
 </td><td width="50%">
@@ -100,6 +118,15 @@ Unable to verify passkey. Please try again.
 </td><td width="50%">
 
 Unable to verify passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td><td width="50%">
+
+Unable to write the encrypted environment file.
 
 </td></tr>
 <tr><td width="50%">

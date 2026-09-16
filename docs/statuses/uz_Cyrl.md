@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 15
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,6 +77,24 @@ Passkey verification session expired. Please try again.
 </td></tr>
 <tr><td width="50%">
 
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
 Togo
 
 </td><td width="50%">
@@ -118,6 +136,15 @@ Unable to verify passkey. Please try again.
 </td><td width="50%">
 
 Unable to verify passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td><td width="50%">
+
+Unable to write the encrypted environment file.
 
 </td></tr>
 </table>

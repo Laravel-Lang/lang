@@ -4,7 +4,7 @@ editLink: false
 
 # de_AT
 
-##### All missed: 1172
+##### All missed: 1175
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 871
+##### Missing: 874
 
 <table width="100%">
 <tr><th width="50%">
@@ -6471,6 +6471,24 @@ The default payment method cannot be removed.
 </td></tr>
 <tr><td width="50%">
 
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
 The file was deleted!
 
 </td><td width="50%">
@@ -7160,6 +7178,15 @@ Unable to verify passkey. Please try again.
 </td><td width="50%">
 
 Unable to verify passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td><td width="50%">
+
+Unable to write the encrypted environment file.
 
 </td></tr>
 <tr><td width="50%">

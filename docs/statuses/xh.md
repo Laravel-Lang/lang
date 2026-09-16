@@ -4,12 +4,12 @@ editLink: false
 
 # xh
 
-##### All missed: 36
+##### All missed: 39
 
 
 ### json
 
-##### Missing: 32
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -266,6 +266,24 @@ Tajikistan
 </td></tr>
 <tr><td width="50%">
 
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
 Unable to register passkey. Please try again.
 
 </td><td width="50%">
@@ -298,6 +316,15 @@ Unable to verify passkey. Please try again.
 </td><td width="50%">
 
 Unable to verify passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td><td width="50%">
+
+Unable to write the encrypted environment file.
 
 </td></tr>
 <tr><td width="50%">

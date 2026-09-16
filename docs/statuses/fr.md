@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 16
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,6 +68,24 @@ Reset your password
 </td></tr>
 <tr><td width="50%">
 
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
 Unable to register passkey. Please try again.
 
 </td><td width="50%">
@@ -100,6 +118,15 @@ Unable to verify passkey. Please try again.
 </td><td width="50%">
 
 Unable to verify passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td><td width="50%">
+
+Unable to write the encrypted environment file.
 
 </td></tr>
 <tr><td width="50%">
@@ -166,7 +193,7 @@ This field must be encoded in :encoding.
 
 ### php
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -194,15 +221,6 @@ base64
 </td><td width="50%">
 
 The :attribute field must be a valid Base64 string.
-
-</td></tr>
-<tr><td width="50%">
-
-encoding
-
-</td><td width="50%">
-
-The :attribute field must be encoded in :encoding.
 
 </td></tr>
 </table>

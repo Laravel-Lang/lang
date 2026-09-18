@@ -98,7 +98,7 @@
     "not_in": "Il valore selezionato per :attribute non è valido.",
     "not_regex": "Il formato di :attribute non è valido.",
     "numeric": ":Attribute deve essere un numero.",
-    "password": "Il campo :attribute non è corretto.",
+    "password": "La password fornita non è corretta.",
     "password.letters": ":Attribute deve contenere almeno un carattere.",
     "password.mixed": ":Attribute deve contenere almeno un carattere maiuscolo ed un carattere minuscolo.",
     "password.numbers": ":Attribute deve contenere almeno un numero.",

@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 18
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +59,6 @@ Passkey verification session expired. Please try again.
 </td></tr>
 <tr><td width="50%">
 
-Reset your password
-
-</td><td width="50%">
-
-Reset your password
-
-</td></tr>
-<tr><td width="50%">
-
 The existing encrypted environment file is not in readable format. Use --force to overwrite it.
 
 </td><td width="50%">
@@ -127,15 +118,6 @@ Unable to write the encrypted environment file.
 </td><td width="50%">
 
 Unable to write the encrypted environment file.
-
-</td></tr>
-<tr><td width="50%">
-
-Verify your email address
-
-</td><td width="50%">
-
-Verify your email address
 
 </td></tr>
 </table>
@@ -146,7 +128,7 @@ Verify your email address
 
 ### php-inline
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -158,24 +140,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-array_keys
-
-</td><td width="50%">
-
-This field must only contain the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-base64
-
-</td><td width="50%">
-
-This field must be a valid Base64 string.
-
-</td></tr>
 <tr><td width="50%">
 
 encoding
@@ -183,44 +147,6 @@ encoding
 </td><td width="50%">
 
 This field must be encoded in :encoding.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-array_keys
-
-</td><td width="50%">
-
-The :attribute field must only contain the following keys: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-base64
-
-</td><td width="50%">
-
-The :attribute field must be a valid Base64 string.
 
 </td></tr>
 </table>

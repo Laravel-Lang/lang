@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # nb
 
 ##### All missed: 15
-
 
 ### json
 
@@ -199,4 +198,3 @@ The :attribute field must be a valid Base64 string.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

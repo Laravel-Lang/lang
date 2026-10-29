@@ -1,10 +1,11 @@
 ---
-
-## editLink: false
+editLink: false
+---
 
 # uz_Latn
 
 ##### All missed: 69
+
 
 ### json
 
@@ -684,3 +685,4 @@ The :attribute field is required when :other is declined.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
+

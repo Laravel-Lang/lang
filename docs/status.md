@@ -1,6 +1,6 @@
 ---
-
-## editLink: false
+editLink: false
+---
 
 # Completion Status
 
@@ -520,7 +520,7 @@
 
 </td><td width="12%">
 
-[zh_CN&nbsp;❗](statuses/zh_CN.md)
+[zh_CN&nbsp;✔](statuses/zh_CN.md)
 
 </td><td width="12%">
 

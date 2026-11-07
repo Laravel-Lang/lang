@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # sk
 
 ##### All missed: 3
-
 
 ### json
 
@@ -33,8 +32,6 @@ Belize
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php-inline
 
@@ -71,4 +68,3 @@ This field must be a valid Base64 string.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

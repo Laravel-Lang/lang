@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # pl
 
 ##### All missed: 3
-
 
 ### json
 
@@ -51,4 +50,3 @@ Unable to write the encrypted environment file.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

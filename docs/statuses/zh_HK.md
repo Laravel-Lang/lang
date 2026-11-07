@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # zh_HK
 
 ##### All missed: 38
-
 
 ### json
 
@@ -313,8 +312,6 @@ We will send an invoice download link to the email addresses that you specify be
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php-inline
 
 ##### Missing: 3
@@ -360,8 +357,6 @@ This field must be encoded in :encoding.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php
 
 ##### Missing: 3
@@ -406,4 +401,3 @@ The :attribute field must be encoded in :encoding.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

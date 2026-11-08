@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Ennek a mezőnek érvényes szerepkörnek kell lennie.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ennek a mezőnek legalább :length karakterből kell állnia, és legalább egy számot kell tartalmaznia.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ennek a mezőnek legalább :length karakterből kell állnia, és tartalmaznia kell legalább egy speciális karaktert és egy számot.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ennek a mezőnek legalább :length karakterből kell állnia, és tartalmaznia kell legalább egy speciális karaktert.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ennek a mezőnek legalább :length karakterből kell állnia, és tartalmaznia kell legalább egy nagybetűt és egy számot.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ennek a mezőnek legalább :length karakterből kell állnia, és tartalmaznia kell legalább egy nagybetűt és egy speciális karaktert.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ennek a mezőnek legalább :length karakterből kell állnia, és tartalmaznia kell legalább egy nagybetűt, egy számot és egy speciális karaktert.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ennek a mezőnek legalább :length karakterből kell állnia, és tartalmaznia kell legalább egy nagybetűt.",
+    "The :attribute must be at least :length characters.": "Ennek a mezőnek legalább :length karakterből kell állnia.",
+    "The :attribute must contain at least one letter.": "Ennek a mezőnek legalább egy betűt kell tartalmaznia.",
+    "The :attribute must contain at least one number.": "Ennek a mezőnek legalább egy számot kell tartalmaznia.",
+    "The :attribute must contain at least one symbol.": "Ennek a mezőnek legalább egy szimbólumot kell tartalmaznia.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ennek a mezőnek legalább egy nagybetűt és egy kisbetűt kell tartalmaznia.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Az adott mező adatszivárgásban jelent meg. Kérjük, válasszon másik mezőt."
+}

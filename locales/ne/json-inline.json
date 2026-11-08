@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "यो क्षेत्र एक मान्य भूमिका हुनुपर्छ।",
+    "The :attribute must be at least :length characters and contain at least one number.": "यो क्षेत्र कम्तिमा :length वर्णको हुनुपर्छ र कम्तिमा एक संख्या समावेश हुनुपर्छ।",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "यो क्षेत्र कम्तिमा :length वर्णको हुनुपर्छ र कम्तिमा एक विशेष वर्ण र एक संख्या समावेश हुनुपर्छ।",
+    "The :attribute must be at least :length characters and contain at least one special character.": "यो क्षेत्र कम्तिमा :length वर्णहरू हुनुपर्छ र कम्तिमा एक विशेष वर्ण समावेश गर्नुपर्छ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "यो क्षेत्र कम्तिमा :length वर्णको हुनुपर्छ र कम्तिमा एउटा ठूला अक्षर र एउटा नम्बर समावेश गर्नुपर्छ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "यो क्षेत्र कम्तिमा :length वर्णको हुनुपर्छ र कम्तिमा एउटा ठूलो अक्षर र एउटा विशेष क्यारेक्टर समावेश गर्नुपर्छ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "यो क्षेत्र कम्तिमा :length वर्णको हुनुपर्छ र कम्तिमा एउटा ठूला अक्षर, एउटा संख्या र एउटा विशेष वर्ण समावेश गर्नुपर्छ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "यो क्षेत्र कम्तिमा :length वर्णको हुनुपर्छ र कम्तिमा एउटा ठूला अक्षर समावेश गर्नुपर्छ।",
+    "The :attribute must be at least :length characters.": "यो क्षेत्र कम्तिमा :length वर्ण हुनुपर्छ।",
+    "The :attribute must contain at least one letter.": "यो क्षेत्रमा कम्तिमा एउटा अक्षर हुनुपर्छ।",
+    "The :attribute must contain at least one number.": "यो फिल्डमा कम्तिमा एउटा नम्बर हुनुपर्छ।",
+    "The :attribute must contain at least one symbol.": "यो फिल्डमा कम्तिमा एउटा प्रतीक हुनुपर्छ।",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "यो फिल्डमा कम्तिमा एउटा ठूलो र एउटा सानो अक्षर हुनु पर्छ।",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "दिइएको फिल्ड डाटा चुहावटमा देखा परेको छ। कृपया फरक क्षेत्र छान्नुहोस्।"
+}

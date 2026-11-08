@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "ಈ ಕ್ಷೇತ್ರವು ಮಾನ್ಯವಾದ ಪಾತ್ರವಾಗಿರಬೇಕು.",
+    "The :attribute must be at least :length characters and contain at least one number.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳಾಗಿರಬೇಕು ಮತ್ತು ಕನಿಷ್ಠ ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳಾಗಿರಬೇಕು ಮತ್ತು ಕನಿಷ್ಠ ಒಂದು ವಿಶೇಷ ಅಕ್ಷರ ಮತ್ತು ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳಾಗಿರಬೇಕು ಮತ್ತು ಕನಿಷ್ಠ ಒಂದು ವಿಶೇಷ ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳಾಗಿರಬೇಕು ಮತ್ತು ಕನಿಷ್ಠ ಒಂದು ದೊಡ್ಡ ಅಕ್ಷರ ಮತ್ತು ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳಾಗಿರಬೇಕು ಮತ್ತು ಕನಿಷ್ಠ ಒಂದು ದೊಡ್ಡಕ್ಷರ ಮತ್ತು ಒಂದು ವಿಶೇಷ ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳಾಗಿರಬೇಕು ಮತ್ತು ಕನಿಷ್ಠ ಒಂದು ದೊಡ್ಡಕ್ಷರ, ಒಂದು ಸಂಖ್ಯೆ ಮತ್ತು ಒಂದು ವಿಶೇಷ ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳಾಗಿರಬೇಕು ಮತ್ತು ಕನಿಷ್ಠ ಒಂದು ದೊಡ್ಡಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must be at least :length characters.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ :length ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must contain at least one letter.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ ಒಂದು ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must contain at least one number.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must contain at least one symbol.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಠ ಒಂದು ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "ಈ ಕ್ಷೇತ್ರವು ಕನಿಷ್ಟ ಒಂದು ದೊಡ್ಡಕ್ಷರ ಮತ್ತು ಒಂದು ಸಣ್ಣ ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "ನೀಡಿರುವ ಕ್ಷೇತ್ರವು ಡೇಟಾ ಸೋರಿಕೆಯಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡಿದೆ. ದಯವಿಟ್ಟು ಬೇರೆ ಕ್ಷೇತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+}

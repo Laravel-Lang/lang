@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Sehemu hii lazima iwe jukumu halali.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Sehemu hii lazima iwe na angalau herufi :length na iwe na angalau nambari moja.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Sehemu hii lazima iwe na angalau herufi :length na iwe na angalau herufi moja maalum na nambari moja.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Sehemu hii lazima iwe na angalau herufi :length na iwe na angalau herufi moja maalum.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Sehemu hii lazima iwe na angalau herufi :length na iwe na angalau herufi kubwa moja na nambari moja.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Sehemu hii lazima iwe na angalau herufi :length na iwe na angalau herufi kubwa moja na herufi moja maalum.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Sehemu hii lazima iwe na angalau herufi :length na iwe na angalau herufi kubwa moja, nambari moja na herufi moja maalum.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Sehemu hii lazima iwe na angalau herufi :length na iwe na angalau herufi kubwa moja.",
+    "The :attribute must be at least :length characters.": "Sehemu hii lazima iwe angalau vibambo :length.",
+    "The :attribute must contain at least one letter.": "Sehemu hii lazima iwe na angalau herufi moja.",
+    "The :attribute must contain at least one number.": "Sehemu hii lazima iwe na angalau nambari moja.",
+    "The :attribute must contain at least one symbol.": "Sehemu hii lazima iwe na angalau ishara moja.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Sehemu hii lazima iwe na angalau herufi moja kubwa na ndogo moja.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Sehemu uliyopewa imeonekana katika uvujaji wa data. Tafadhali chagua uga tofauti."
+}

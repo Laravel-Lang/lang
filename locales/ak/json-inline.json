@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Ɛsɛ sɛ saa afuw yi yɛ dwumadi a ɛfata.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length na anyɛ yiye koraa no, nɔma biako na ɛwom.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length na anyɛ yiye koraa no, nkyerɛwde soronko biako ne nɔma biako na ɛwom.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length na anyɛ yiye koraa no, nkyerɛwde soronko biako na ɛwom.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length na anyɛ yiye koraa no, nkyerɛwde akɛse biako ne nɔma biako wom.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length na anyɛ yiye koraa no, nkyerɛwde akɛse biako ne nkyerɛwde soronko biako na ɛwom.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length na anyɛ yiye koraa no, nkyerɛwde akɛse biako, nɔma biako, ne nkyerɛwde soronko biako na ɛwom.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length na anyɛ yiye koraa no, nkyerɛwde akɛse biako na ɛwom.",
+    "The :attribute must be at least :length characters.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi yɛ nkyerɛwde :length.",
+    "The :attribute must contain at least one letter.": "Anyɛ yiye koraa no, ɛsɛ sɛ nkyerɛwde biako na ɛwɔ saa afuw yi mu.",
+    "The :attribute must contain at least one number.": "Anyɛ yiye koraa no, ɛsɛ sɛ nɔma biako na ɛwɔ saa afuw yi mu.",
+    "The :attribute must contain at least one symbol.": "Anyɛ yiye koraa no, ɛsɛ sɛ saa afuw yi kura agyiraehyɛde biako.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Anyɛ yiye koraa no, ɛsɛ sɛ nkyerɛwde akɛse biako ne nkyerɛwde nketewa biako na ɛwɔ saa afuw yi mu.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Field a wɔde ama no ada adi wɔ data leak mu. Yɛsrɛ sɛ paw afuw foforo."
+}

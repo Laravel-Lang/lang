@@ -1,0 +1,89 @@
+{
+    "name": "laravel-lang/lang",
+    "description": "List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "languages",
+        "lpm",
+        "lang"
+    ],
+    "authors": [
+        {
+            "name": "Laravel-Lang Team",
+            "homepage": "https://github.com/Laravel-Lang"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Laravel-Lang/lang/issues",
+        "source": "https://github.com/Laravel-Lang/lang"
+    },
+    "funding": [
+        {
+            "type": "boosty",
+            "url": "https://boosty.to/dragon-code"
+        },
+        {
+            "type": "yoomoney",
+            "url": "https://yoomoney.ru/to/410012608840929"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "ext-json": "*",
+        "laravel-lang/publisher": "^16.0"
+    },
+    "require-dev": {
+        "dragon-code/codestyler": "^6.0",
+        "laravel-lang/status-generator": "^2.11",
+        "phpunit/phpunit": "^11.0 || ^12.0",
+        "symfony/var-dumper": "^7.0"
+    },
+    "conflict": {
+        "laravel/framework": "<11.0.7"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "LaravelLang\\Lang\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/package-versions-deprecated": true,
+            "ergebnis/composer-normalize": true,
+            "laravel/pint": true,
+            "php-http/discovery": true,
+            "symfony/thanks": true
+        },
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelLang\\Lang\\ServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "post-update-cmd": [
+            "codestyle pint 8.2",
+            "codestyle editorconfig",
+            "codestyle npm",
+            "composer normalize"
+        ],
+        "format": [
+            "vendor/bin/lang sync",
+            "@style"
+        ],
+        "style": "vendor/bin/pint --parallel",
+        "test": "vendor/bin/phpunit --colors=always"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "This must be a valid role.",
+    "The :attribute must be at least :length characters and contain at least one number.": "The string must be at least :length characters and contain at least one number.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "The string must be at least :length characters and contain at least one special character and one number.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "The string must be at least :length characters and contain at least one special character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "The string must be at least :length characters and contain at least one uppercase character and one number.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "The string must be at least :length characters and contain at least one uppercase character and one special character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "The string must be at least :length characters and contain at least one uppercase character, one number, and one special character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "The string must be at least :length characters and contain at least one uppercase character.",
+    "The :attribute must be at least :length characters.": "The string must be at least :length characters.",
+    "The :attribute must contain at least one letter.": "The string must contain at least one letter.",
+    "The :attribute must contain at least one number.": "The string must contain at least one number.",
+    "The :attribute must contain at least one symbol.": "The string must contain at least one symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "The string must contain at least one uppercase and one lowercase letter.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given string has appeared in a data leak. Please choose a different one."
+}

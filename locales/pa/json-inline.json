@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "ਇਹ ਖੇਤਰ ਇੱਕ ਵੈਧ ਭੂਮਿਕਾ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
+    "The :attribute must be at least :length characters and contain at least one number.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਅੱਖਰ ਅਤੇ ਇੱਕ ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵੱਡੇ ਅੱਖਰ ਅਤੇ ਇੱਕ ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵੱਡੇ ਅੱਖਰ ਅਤੇ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵੱਡੇ ਅੱਖਰ, ਇੱਕ ਨੰਬਰ, ਅਤੇ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵੱਡਾ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must be at least :length characters.": "ਇਹ ਖੇਤਰ ਘੱਟੋ-ਘੱਟ :length ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must contain at least one letter.": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must contain at least one number.": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must contain at least one symbol.": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਚਿੰਨ੍ਹ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵੱਡੇ ਅਤੇ ਇੱਕ ਛੋਟੇ ਅੱਖਰ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "ਦਿੱਤਾ ਗਿਆ ਖੇਤਰ ਇੱਕ ਡਾਟਾ ਲੀਕ ਵਿੱਚ ਪ੍ਰਗਟ ਹੋਇਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਕੋਈ ਵੱਖਰਾ ਖੇਤਰ ਚੁਣੋ।"
+}

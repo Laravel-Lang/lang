@@ -1,0 +1,418 @@
+---
+editLink: false
+---
+
+# xh
+
+##### All missed: 39
+
+
+### json
+
+##### Missing: 35
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+Bhutan
+
+</td><td width="50%">
+
+Bhutan
+
+</td></tr>
+<tr><td width="50%">
+
+Botswana
+
+</td><td width="50%">
+
+Botswana
+
+</td></tr>
+<tr><td width="50%">
+
+Brazil
+
+</td><td width="50%">
+
+Brazil
+
+</td></tr>
+<tr><td width="50%">
+
+Burundi
+
+</td><td width="50%">
+
+Burundi
+
+</td></tr>
+<tr><td width="50%">
+
+Fiji
+
+</td><td width="50%">
+
+Fiji
+
+</td></tr>
+<tr><td width="50%">
+
+Grenada
+
+</td><td width="50%">
+
+Grenada
+
+</td></tr>
+<tr><td width="50%">
+
+Honduras
+
+</td><td width="50%">
+
+Honduras
+
+</td></tr>
+<tr><td width="50%">
+
+Invalid credential format.
+
+</td><td width="50%">
+
+Invalid credential format.
+
+</td></tr>
+<tr><td width="50%">
+
+Iran, Islamic Republic Of
+
+</td><td width="50%">
+
+Iran
+
+</td></tr>
+<tr><td width="50%">
+
+Jordan
+
+</td><td width="50%">
+
+Jordan
+
+</td></tr>
+<tr><td width="50%">
+
+Kazakhstan
+
+</td><td width="50%">
+
+Kazakhstan
+
+</td></tr>
+<tr><td width="50%">
+
+Lesotho
+
+</td><td width="50%">
+
+Lesotho
+
+</td></tr>
+<tr><td width="50%">
+
+Macao
+
+</td><td width="50%">
+
+Macao
+
+</td></tr>
+<tr><td width="50%">
+
+Malawi
+
+</td><td width="50%">
+
+Malawi
+
+</td></tr>
+<tr><td width="50%">
+
+Mayotte
+
+</td><td width="50%">
+
+Mayotte
+
+</td></tr>
+<tr><td width="50%">
+
+Moldova
+
+</td><td width="50%">
+
+Moldova
+
+</td></tr>
+<tr><td width="50%">
+
+Montenegro
+
+</td><td width="50%">
+
+Montenegro
+
+</td></tr>
+<tr><td width="50%">
+
+Niue
+
+</td><td width="50%">
+
+Niue
+
+</td></tr>
+<tr><td width="50%">
+
+Oman
+
+</td><td width="50%">
+
+Oman
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey not recognized. It may have been removed from your account.
+
+</td><td width="50%">
+
+Passkey not recognized. It may have been removed from your account.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey registration session expired. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Passkey verification session expired. Please try again.
+
+</td><td width="50%">
+
+Passkey verification session expired. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Peru
+
+</td><td width="50%">
+
+Peru
+
+</td></tr>
+<tr><td width="50%">
+
+South Sudan
+
+</td><td width="50%">
+
+South Sudan
+
+</td></tr>
+<tr><td width="50%">
+
+Sudan
+
+</td><td width="50%">
+
+Sudan
+
+</td></tr>
+<tr><td width="50%">
+
+Suriname
+
+</td><td width="50%">
+
+Suriname
+
+</td></tr>
+<tr><td width="50%">
+
+Tajikistan
+
+</td><td width="50%">
+
+Tajikistan
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td><td width="50%">
+
+The existing encrypted environment file is not in readable format. Use --force to overwrite it.
+
+</td></tr>
+<tr><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td><td width="50%">
+
+The existing encryption key is required to update the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to register passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to register this passkey.
+
+</td><td width="50%">
+
+Unable to register this passkey.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to sign in with this account.
+
+</td><td width="50%">
+
+Unable to sign in with this account.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to verify passkey. Please try again.
+
+</td><td width="50%">
+
+Unable to verify passkey. Please try again.
+
+</td></tr>
+<tr><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td><td width="50%">
+
+Unable to write the encrypted environment file.
+
+</td></tr>
+<tr><td width="50%">
+
+Yemen
+
+</td><td width="50%">
+
+Yemen
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+This field must only contain the following keys: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+base64
+
+</td><td width="50%">
+
+This field must be a valid Base64 string.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+array_keys
+
+</td><td width="50%">
+
+The :attribute field must only contain the following keys: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+base64
+
+</td><td width="50%">
+
+The :attribute field must be a valid Base64 string.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+

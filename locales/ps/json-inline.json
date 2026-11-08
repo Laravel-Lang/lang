@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "دا ساحه باید د اعتبار وړ رول ولري.",
+    "The :attribute must be at least :length characters and contain at least one number.": "دا ساحه باید لږترلږه :length حروف وي او لږترلږه یو شمیر ولري.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "دا ساحه باید لږ تر لږه :length حروف ولري او لږترلږه یو ځانګړی کرکټر او یوه شمیره ولري.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "دا ساحه باید لږترلږه :length حروف وي او لږترلږه یو ځانګړی کرکټر ولري.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "دا ساحه باید لږترلږه :length حروف وي او لږترلږه یو لوی توری او یوه شمیره ولري.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "دا ساحه باید لږ تر لږه :length حروف ولري او لږترلږه یو لوی توری او یو ځانګړی کرکټر ولري.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "دا ساحه باید لږ تر لږه :length حروف ولري او لږترلږه یو لوی توری، یوه شمیره، او یو ځانګړی کرکټر ولري.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "دا ساحه باید لږترلږه :length حروف وي او لږترلږه یو لوی توری ولري.",
+    "The :attribute must be at least :length characters.": "دا ساحه باید لږترلږه :length حروف وي.",
+    "The :attribute must contain at least one letter.": "دا ساحه باید لږترلږه یو لیک ولري.",
+    "The :attribute must contain at least one number.": "دا ساحه باید لږترلږه یوه شمیره ولري.",
+    "The :attribute must contain at least one symbol.": "دا ساحه باید لږترلږه یو سمبول ولري.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "دا ساحه باید لږترلږه یو لوی او یو کوچنی توری ولري.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "ورکړل شوی ساحه د معلوماتو لیک کې ښکاره شوې. مهرباني وکړئ یو بل ساحه غوره کړئ."
+}

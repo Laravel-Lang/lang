@@ -1,0 +1,7 @@
+# $schema: https://raw.githubusercontent.com/TheDragonCode/github-preview-updater/refs/heads/main/resources/schema.json
+
+package:
+  dev: true
+
+data:
+  title: 'Laravel Localizations'

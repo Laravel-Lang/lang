@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "វាលនេះត្រូវតែជាតួនាទីត្រឹមត្រូវ។",
+    "The :attribute must be at least :length characters and contain at least one number.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ ហើយមានលេខយ៉ាងតិចមួយ។",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ ហើយមានយ៉ាងហោចណាស់តួអក្សរពិសេសមួយ និងលេខមួយ។",
+    "The :attribute must be at least :length characters and contain at least one special character.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ ហើយមានយ៉ាងហោចណាស់តួអក្សរពិសេសមួយ។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ ហើយមានយ៉ាងហោចណាស់តួអក្សរធំមួយ និងលេខមួយ។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ ហើយមានយ៉ាងហោចណាស់តួអក្សរធំមួយ និងតួអក្សរពិសេសមួយ។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ ហើយមានយ៉ាងហោចណាស់តួអក្សរធំមួយ លេខមួយ និងតួអក្សរពិសេសមួយ។",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ ហើយមានតួអក្សរធំយ៉ាងតិចមួយ។",
+    "The :attribute must be at least :length characters.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់ :length តួអក្សរ។",
+    "The :attribute must contain at least one letter.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់អក្សរមួយ។",
+    "The :attribute must contain at least one number.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់លេខមួយ។",
+    "The :attribute must contain at least one symbol.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់និមិត្តសញ្ញាមួយ។",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "វាលនេះត្រូវតែមានយ៉ាងហោចណាស់អក្សរធំមួយ និងអក្សរតូចមួយ។",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "វាលដែលបានផ្តល់ឱ្យបានលេចឡើងនៅក្នុងការលេចធ្លាយទិន្នន័យ។ សូមជ្រើសរើសកន្លែងផ្សេង។"
+}

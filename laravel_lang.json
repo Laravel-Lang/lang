@@ -1,0 +1,315 @@
+{
+    "plugins": [
+        {
+            "vendor": "laravel/breeze",
+            "version": "dev-master",
+            "files": [
+                {
+                    "source": "breeze/master/breeze.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/breeze",
+            "version": "^2.0",
+            "files": [
+                {
+                    "source": "breeze/2.x/breeze.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/cashier",
+            "version": "dev-master",
+            "files": [
+                {
+                    "source": "cashier/stripe/master/stripe.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/cashier",
+            "version": "^15.0",
+            "files": [
+                {
+                    "source": "cashier/stripe/15.x/stripe.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/fortify",
+            "version": "dev-master",
+            "files": [
+                {
+                    "source": "fortify/master/fortify.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/fortify",
+            "version": "^1.0",
+            "files": [
+                {
+                    "source": "fortify/1.x/fortify.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/jetstream",
+            "version": "dev-master",
+            "files": [
+                {
+                    "source": "jetstream/master/jetstream.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "jetstream/extended.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/jetstream",
+            "version": "^5.0",
+            "files": [
+                {
+                    "source": "jetstream/5.x/jetstream.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "jetstream/extended.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/framework",
+            "version": "dev-master",
+            "files": [
+                {
+                    "source": "framework/master/framework.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/extended.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/master/auth.php",
+                    "target": "{locale}/auth.php"
+                },
+                {
+                    "source": "framework/master/pagination.php",
+                    "target": "{locale}/pagination.php"
+                },
+                {
+                    "source": "framework/master/passwords.php",
+                    "target": "{locale}/passwords.php"
+                },
+                {
+                    "source": "framework/master/validation.php",
+                    "target": "{locale}/validation.php"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/framework",
+            "version": "^11.0",
+            "files": [
+                {
+                    "source": "framework/11.x/framework.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/extended.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/11.x/auth.php",
+                    "target": "{locale}/auth.php"
+                },
+                {
+                    "source": "framework/11.x/pagination.php",
+                    "target": "{locale}/pagination.php"
+                },
+                {
+                    "source": "framework/11.x/passwords.php",
+                    "target": "{locale}/passwords.php"
+                },
+                {
+                    "source": "framework/11.x/validation.php",
+                    "target": "{locale}/validation.php"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/framework",
+            "version": "^12.0",
+            "files": [
+                {
+                    "source": "framework/12.x/framework.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/extended.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/12.x/auth.php",
+                    "target": "{locale}/auth.php"
+                },
+                {
+                    "source": "framework/12.x/pagination.php",
+                    "target": "{locale}/pagination.php"
+                },
+                {
+                    "source": "framework/12.x/passwords.php",
+                    "target": "{locale}/passwords.php"
+                },
+                {
+                    "source": "framework/12.x/validation.php",
+                    "target": "{locale}/validation.php"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/framework",
+            "version": "^13.0",
+            "files": [
+                {
+                    "source": "framework/13.x/framework.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/extended.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "framework/13.x/auth.php",
+                    "target": "{locale}/auth.php"
+                },
+                {
+                    "source": "framework/13.x/pagination.php",
+                    "target": "{locale}/pagination.php"
+                },
+                {
+                    "source": "framework/13.x/passwords.php",
+                    "target": "{locale}/passwords.php"
+                },
+                {
+                    "source": "framework/13.x/validation.php",
+                    "target": "{locale}/validation.php"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/nova-dusk-suite",
+            "files": [
+                {
+                    "source": "nova/dusk-suite/master/dusk-suite.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "nova/dusk-suite/master/en.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/nova-log-viewer",
+            "version": "dev-main || ^0.1.0",
+            "files": [
+                {
+                    "source": "nova/log-viewer/main/log-viewer.json",
+                    "target": "vendor/nova/{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/nova",
+            "version": "^4.0",
+            "files": [
+                {
+                    "source": "nova/4.x/nova.json",
+                    "target": "vendor/nova/{locale}.json"
+                },
+                {
+                    "source": "nova/4.x/validation.php",
+                    "target": "vendor/nova/{locale}/validation.php"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/nova",
+            "version": "^5.0",
+            "files": [
+                {
+                    "source": "nova/5.x/nova.json",
+                    "target": "vendor/nova/{locale}.json"
+                },
+                {
+                    "source": "nova/5.x/validation.php",
+                    "target": "vendor/nova/{locale}/validation.php"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/passkeys",
+            "version": "dev-main || 0.*",
+            "files": [
+                {
+                    "source": "passkeys/main/passkeys.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "passkeys/extended.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/spark-paddle",
+            "files": [
+                {
+                    "source": "spark/spark-paddle.json",
+                    "target": "spark/{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/spark-stripe",
+            "files": [
+                {
+                    "source": "spark/spark-stripe.json",
+                    "target": "spark/{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/ui",
+            "version": "dev-master",
+            "files": [
+                {
+                    "source": "ui/master/ui.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/ui",
+            "version": "^4.0",
+            "files": [
+                {
+                    "source": "ui/4.x/ui.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        }
+    ]
+}

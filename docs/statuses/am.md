@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # am
 
 ##### All missed: 15
-
 
 ### json
 
@@ -124,8 +123,6 @@ Unable to write the encrypted environment file.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php-inline
 
 ##### Missing: 2
@@ -162,8 +159,6 @@ This field must be a valid Base64 string.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php
 
 ##### Missing: 2
@@ -199,4 +194,3 @@ The :attribute field must be a valid Base64 string.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

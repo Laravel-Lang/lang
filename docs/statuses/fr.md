@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # fr
 
 ##### All missed: 12
-
 
 ### json
 
@@ -124,8 +123,6 @@ Unable to write the encrypted environment file.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php-inline
 
 ##### Missing: 1
@@ -152,4 +149,3 @@ This field must be encoded in :encoding.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

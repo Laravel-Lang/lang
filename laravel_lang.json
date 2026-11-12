@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/Laravel-Lang/mona/main/resources/laravel-lang.schema.json",
     "plugins": [
         {
             "vendor": "laravel/breeze",

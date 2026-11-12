@@ -1,21 +1,4 @@
 * text=auto
 
-.aiassistant/ export-ignore
-.junie/ export-ignore
-
 .github/ export-ignore
-tests/ export-ignore
-
-app/ export-ignore
-docs/ export-ignore
-excludes/ export-ignore
-
-.editorconfig export-ignore
-.env.example export-ignore
 .gitattributes export-ignore
-.gitignore export-ignore
-
-biome.json export-ignore
-pint.json export-ignore
-
-phpunit.xml export-ignore

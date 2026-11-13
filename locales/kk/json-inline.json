@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Бұл өріс жарамды рөл болуы керек.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Бұл өріс кемінде :length таңбадан тұруы және кемінде бір санды қамтуы керек.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Бұл өріс кемінде :length таңба болуы керек және кемінде бір арнайы таңба мен бір санды қамтуы керек.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Бұл өріс кемінде :length таңбадан тұруы және кемінде бір арнайы таңбаны қамтуы керек.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Бұл өріс кемінде :length таңба болуы керек және кемінде бір бас әріп пен бір санды қамтуы керек.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Бұл өріс кемінде :length таңба болуы керек және кемінде бір бас әріп пен бір арнайы таңбадан тұруы керек.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Бұл өріс кемінде :length таңба болуы керек және кемінде бір бас әріп, бір сан және бір арнайы таңба болуы керек.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Бұл өріс кемінде :length таңба болуы керек және кемінде бір бас әріптен тұруы керек.",
+    "The :attribute must be at least :length characters.": "Бұл өріс кемінде :length таңба болуы керек.",
+    "The :attribute must contain at least one letter.": "Бұл өрісте кемінде бір әріп болуы керек.",
+    "The :attribute must contain at least one number.": "Бұл өрісте кемінде бір сан болуы керек.",
+    "The :attribute must contain at least one symbol.": "Бұл өрісте кемінде бір таңба болуы керек.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Бұл өрісте кемінде бір бас әріп және бір кіші әріп болуы керек.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Берілген өріс деректер ағып кетуінде пайда болды. Басқа өрісті таңдаңыз."
+}

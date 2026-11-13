@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Ова поле мора да биде валидна улога.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ова поле мора да содржи најмалку :length знаци и да содржи најмалку еден број.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ова поле мора да содржи најмалку :length знаци и да содржи најмалку еден посебен знак и еден број.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ова поле мора да содржи најмалку :length знаци и да содржи најмалку еден посебен знак.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ова поле мора да има најмалку :length знаци и да содржи најмалку еден голем знак и еден број.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ова поле мора да содржи најмалку :length знаци и да содржи најмалку еден голем знак и еден посебен знак.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ова поле мора да содржи најмалку :length знаци и да содржи најмалку еден голем знак, еден број и еден посебен знак.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ова поле мора да содржи најмалку :length знаци и да содржи најмалку еден голем знак.",
+    "The :attribute must be at least :length characters.": "Ова поле мора да има најмалку :length знаци.",
+    "The :attribute must contain at least one letter.": "Ова поле мора да содржи најмалку една буква.",
+    "The :attribute must contain at least one number.": "Ова поле мора да содржи најмалку еден број.",
+    "The :attribute must contain at least one symbol.": "Ова поле мора да содржи најмалку еден симбол.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ова поле мора да содржи најмалку една голема и една мала буква.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Даденото поле се појави во протекување податоци. Изберете друго поле."
+}

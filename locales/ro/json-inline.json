@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Acest câmp trebuie să fie un rol valid.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Acest câmp trebuie să aibă cel puțin :length caractere și să conțină cel puțin un număr.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Acest câmp trebuie să aibă cel puțin :length caractere și să conțină cel puțin un caracter special și un număr.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Acest câmp trebuie să aibă cel puțin :length caractere și să conțină cel puțin un caracter special.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Acest câmp trebuie să aibă cel puțin :length caractere și să conțină cel puțin un caracter majuscul și un număr.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Acest câmp trebuie să aibă cel puțin :length caractere și să conțină cel puțin un caracter majuscul și un caracter special.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Acest câmp trebuie să aibă cel puțin :length caractere și să conțină cel puțin un caracter majuscul, un număr și un caracter special.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Acest câmp trebuie să aibă cel puțin :length caractere și să conțină cel puțin un caracter majuscule.",
+    "The :attribute must be at least :length characters.": "Acest câmp trebuie să aibă cel puțin :length caractere.",
+    "The :attribute must contain at least one letter.": "Acest câmp trebuie să conțină cel puțin o literă.",
+    "The :attribute must contain at least one number.": "Acest câmp trebuie să conţină cel puţin un număr.",
+    "The :attribute must contain at least one symbol.": "Acest câmp trebuie să conțină cel puțin un simbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Acest câmp trebuie să conțină cel puțin o literă mare și o literă mică.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Acest câmp a apărut într-o scurgere de date. Vă rugăm să alegeți un alt câmp."
+}

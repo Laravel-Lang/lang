@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Hierdie veld moet 'n geldige rol wees.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Hierdie veld moet ten minste :length karakters bevat en ten minste een nommer bevat.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Hierdie veld moet ten minste :length karakters wees en ten minste een spesiale karakter en een nommer bevat.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Hierdie veld moet ten minste :length karakters wees en ten minste een spesiale karakter bevat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Hierdie veld moet ten minste :length karakters wees en ten minste een hoofletter en een nommer bevat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Hierdie veld moet ten minste :length karakters wees en ten minste een hoofletter en een spesiale karakter bevat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Hierdie veld moet ten minste :length karakters wees en ten minste een hoofletter, een nommer en een spesiale karakter bevat.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Hierdie veld moet ten minste :length karakters wees en ten minste een hoofletterkarakter bevat.",
+    "The :attribute must be at least :length characters.": "Hierdie veld moet ten minste :length karakters wees.",
+    "The :attribute must contain at least one letter.": "Hierdie veld moet ten minste een letter bevat.",
+    "The :attribute must contain at least one number.": "Hierdie veld moet ten minste een nommer bevat.",
+    "The :attribute must contain at least one symbol.": "Hierdie veld moet ten minste een simbool bevat.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Hierdie veld moet ten minste een hoofletter en een kleinletter bevat.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Die gegewe veld het in 'n datalek verskyn. Kies asseblief 'n ander veld."
+}

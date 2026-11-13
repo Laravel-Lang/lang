@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Iyi ndima inofanira kuve basa rinoshanda.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Iyi ndima inofanira kuva nemavara angangoita :length uye ive nenhamba imwe zvirinani.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Iyi ndima inofanira kuva nemavara angangoita :length uye ive nerimwe chiratidzo chakakosha nerimwe nhamba zvirinani.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Iyi ndima inofanira kuva nemavara angangoita :length uye ive nerimwe chiratidzo chakakosha zvirinani.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Iyi ndima inofanira kuva nemavara angangoita :length uye ive nerimwe bhii guru (uppercase) nerimwe nhamba zvirinani.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Iyi ndima inofanira kuva nemavara angangoita :length uye ive nerimwe bhii guru (uppercase) nerimwe chiratidzo chakakosha zvirinani.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Iyi ndima inofanira kuva nemavara angangoita :length uye ive nerimwe bhii guru (uppercase), imwe nhamba, nerimwe chiratidzo chakakosha zvirinani.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Iyi ndima inofanira kuva nemavara angangoita :length uye ive nerimwe bhii guru (uppercase) zvirinani.",
+    "The :attribute must be at least :length characters.": "Iyi ndima inofanira kuva nemavara angangoita :length.",
+    "The :attribute must contain at least one letter.": "Iyi ndima inofanira kuva nerimwe tsamba zvirinani.",
+    "The :attribute must contain at least one number.": "Iyi ndima inofanira kuva nerimwe nhamba zvirinani.",
+    "The :attribute must contain at least one symbol.": "Iyi ndima inofanira kuva nerimwe chiratidzo zvirinani.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Iyi ndima inofanira kuva nerimwe tsamba huru (uppercase) nerimwe tsamba diki (lowercase) zvirinani.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Kukosha kwapiwa kwawanikwa muruzivo rwakaburitswa. Ndapota sarudza rimwe."
+}

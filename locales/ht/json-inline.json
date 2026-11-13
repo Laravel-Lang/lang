@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Chan sa a dwe yon wòl valab.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Chan sa a dwe gen omwen :length karaktè epi gen omwen yon chif.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Chan sa a dwe gen omwen :length karaktè epi gen omwen yon karaktè espesyal ak yon chif.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Chan sa a dwe gen omwen :length karaktè epi gen omwen yon karaktè espesyal.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Chan sa a dwe gen omwen :length karaktè epi gen omwen yon lèt majiskil ak yon chif.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Chan sa a dwe gen omwen :length karaktè epi gen omwen yon lèt majiskil ak yon karaktè espesyal.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Chan sa a dwe gen omwen :length karaktè epi gen omwen yon lèt majiskil, yon chif, ak yon karaktè espesyal.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Chan sa a dwe gen omwen :length karaktè epi gen omwen yon lèt majiskil.",
+    "The :attribute must be at least :length characters.": "Chan sa a dwe gen omwen :length karaktè.",
+    "The :attribute must contain at least one letter.": "Chan sa a dwe gen omwen yon lèt.",
+    "The :attribute must contain at least one number.": "Chan sa a dwe gen omwen yon chif.",
+    "The :attribute must contain at least one symbol.": "Chan sa a dwe gen omwen yon senbòl.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Chan sa a dwe gen omwen yon lèt majiskil ak yon lèt miniskil.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Chan sa a parèt nan yon fwit done. Tanpri chwazi yon lòt chan."
+}

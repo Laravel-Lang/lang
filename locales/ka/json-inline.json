@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "ეს ველი უნდა იყოს სწორი როლი.",
+    "The :attribute must be at least :length characters and contain at least one number.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან და შეიცავდეს მინიმუმ ერთ რიცხვს.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან და შეიცავდეს მინიმუმ ერთ სპეციალურ სიმბოლოს და ერთ რიცხვს.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან და შეიცავდეს მინიმუმ ერთ სპეციალურ სიმბოლოს.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან და შეიცავდეს მინიმუმ ერთ დიდ ასოს და ერთ რიცხვს.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან და შეიცავდეს მინიმუმ ერთ დიდ და ერთ სპეციალურ სიმბოლოს.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან და შეიცავდეს მინიმუმ ერთ დიდ, ერთ რიცხვს და ერთ სპეციალურ სიმბოლოს.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან და შეიცავდეს მინიმუმ ერთ დიდ ასოს.",
+    "The :attribute must be at least :length characters.": "ეს ველი უნდა შედგებოდეს მინიმუმ :length სიმბოლოსგან.",
+    "The :attribute must contain at least one letter.": "ეს ველი უნდა შეიცავდეს მინიმუმ ერთ ასოს.",
+    "The :attribute must contain at least one number.": "ეს ველი უნდა შეიცავდეს მინიმუმ ერთ რიცხვს.",
+    "The :attribute must contain at least one symbol.": "ეს ველი უნდა შეიცავდეს მინიმუმ ერთ სიმბოლოს.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "ეს ველი უნდა შეიცავდეს მინიმუმ ერთ დიდ და ერთ პატარა ასოს.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "მოცემული ველი გამოჩნდა მონაცემთა გაჟონვაში. გთხოვთ, აირჩიოთ სხვა ველი."
+}

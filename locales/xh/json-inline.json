@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Lo mmandla kufuneka ube yindima esebenzayo.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Lo mmandla kufuneka ube nonobumba abali-:length kwaye uqulathe inani elinye ubuncinane.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Lo mmandla kufuneka ubenamagama ali-:length ubuncinci kwaye uqulathe ubuncinci unobumba omnye kunye nenani elinye.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Lo mmandla kufuneka ubuncinci ubenamagama ali-:length kwaye uqulathe ubuncinci umbhalo omnye.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Lo mmandla kufuneka ube nonobumba abali-:length kwaye uqulathe ubuncinci unobumba omnye omkhulu kunye nenani elinye.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Lo mmandla kufuneka ube nonobumba abali-:length kwaye uqulathe nonobumba omnye omkhulu kunye nonobumba omnye.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Lo mmandla kufuneka ube nonobumba abali-:length kwaye uqulathe nonobumba omnye omkhulu, inani elinye, kunye nonobumba omnye.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Lo mmandla kufuneka ube nonobumba abali-:length kwaye uqulathe nonobumba omnye omkhulu.",
+    "The :attribute must be at least :length characters.": "Lo mmandla kufuneka ube namagama ali-:length ubuncinane.",
+    "The :attribute must contain at least one letter.": "Lo mmandla kufuneka ube nonobumba omnye ubuncinane.",
+    "The :attribute must contain at least one number.": "Lo mmandla kufuneka uqulathe ubuncinane inani elinye.",
+    "The :attribute must contain at least one symbol.": "Lo mmandla kufuneka uqulathe ubuncinci isimboli enye.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Lo mmandla kufuneka ubuncinci ube nonobumba omkhulu omnye kunye nonobumba omncinci omnye.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ummandla onikiweyo uvele kwidatha evuzayo. Nceda khetha indawo eyahlukileyo."
+}

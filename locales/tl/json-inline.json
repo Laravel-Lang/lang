@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Dapat ay isang wastong tungkulin ang field na ito.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ang field na ito ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang numero.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ang field na ito ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang espesyal na character at isang numero.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ang field na ito ay dapat na hindi bababa sa :length character at naglalaman ng kahit isang espesyal na character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ang field na ito ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang uppercase na character at isang numero.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ang field na ito ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang uppercase na character at isang espesyal na character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ang field na ito ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang uppercase na character, isang numero, at isang espesyal na character.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ang field na ito ay dapat na hindi bababa sa :length character at naglalaman ng hindi bababa sa isang uppercase na character.",
+    "The :attribute must be at least :length characters.": "Dapat na hindi bababa sa :length character ang field na ito.",
+    "The :attribute must contain at least one letter.": "Ang field na ito ay dapat maglaman ng hindi bababa sa isang titik.",
+    "The :attribute must contain at least one number.": "Ang field na ito ay dapat maglaman ng kahit isang numero.",
+    "The :attribute must contain at least one symbol.": "Ang field na ito ay dapat maglaman ng kahit isang simbolo.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ang field na ito ay dapat maglaman ng hindi bababa sa isang malaking titik at isang maliit na titik.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Ang ibinigay na field ay lumabas sa isang data leak. Mangyaring pumili ng ibang field."
+}

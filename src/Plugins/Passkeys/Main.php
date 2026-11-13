@@ -16,7 +16,6 @@ class Main extends Plugin
     {
         return [
             'passkeys/main/passkeys.json' => '{locale}.json',
-            'passkeys/extended.json'      => '{locale}.json',
         ];
     }
 }

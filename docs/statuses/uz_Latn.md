@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # uz_Latn
 
 ##### All missed: 69
-
 
 ### json
 
@@ -150,8 +149,6 @@ Verify your email address
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php-inline
 
@@ -540,8 +537,6 @@ This field must be uppercase.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php
 
 ##### Missing: 14
@@ -685,4 +680,3 @@ The :attribute field is required when :other is declined.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

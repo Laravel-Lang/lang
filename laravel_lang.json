@@ -127,32 +127,6 @@
         },
         {
             "vendor": "laravel/framework",
-            "version": "^11.0",
-            "files": [
-                {
-                    "source": "framework/11.x/framework.json",
-                    "target": "{locale}.json"
-                },
-                {
-                    "source": "framework/11.x/auth.php",
-                    "target": "{locale}/auth.php"
-                },
-                {
-                    "source": "framework/11.x/pagination.php",
-                    "target": "{locale}/pagination.php"
-                },
-                {
-                    "source": "framework/11.x/passwords.php",
-                    "target": "{locale}/passwords.php"
-                },
-                {
-                    "source": "framework/11.x/validation.php",
-                    "target": "{locale}/validation.php"
-                }
-            ]
-        },
-        {
-            "vendor": "laravel/framework",
             "version": "^12.0",
             "files": [
                 {

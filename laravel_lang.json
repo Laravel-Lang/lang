@@ -220,15 +220,6 @@
             ]
         },
         {
-            "vendor": "laravel/spark-stripe",
-            "files": [
-                {
-                    "source": "spark/spark-stripe.json",
-                    "target": "spark/{locale}.json"
-                }
-            ]
-        },
-        {
             "vendor": "laravel/ui",
             "version": "dev-master",
             "files": [

@@ -178,16 +178,6 @@
             ]
         },
         {
-            "vendor": "laravel/nova-log-viewer",
-            "version": "dev-main || ^0.1.0",
-            "files": [
-                {
-                    "source": "nova/log-viewer/main/log-viewer.json",
-                    "target": "vendor/nova/{locale}.json"
-                }
-            ]
-        },
-        {
             "vendor": "laravel/nova",
             "version": "^4.0",
             "files": [

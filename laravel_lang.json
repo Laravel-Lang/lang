@@ -36,7 +36,7 @@
             "version": "^16.0",
             "files": [
                 {
-                    "source": "cashier/stripe/15.x/stripe.json",
+                    "source": "cashier/stripe/16.x/stripe.json",
                     "target": "{locale}.json"
                 }
             ]

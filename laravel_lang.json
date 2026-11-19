@@ -220,15 +220,6 @@
             ]
         },
         {
-            "vendor": "laravel/spark-paddle",
-            "files": [
-                {
-                    "source": "spark/spark-paddle.json",
-                    "target": "spark/{locale}.json"
-                }
-            ]
-        },
-        {
             "vendor": "laravel/spark-stripe",
             "files": [
                 {

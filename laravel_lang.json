@@ -178,19 +178,6 @@
             ]
         },
         {
-            "vendor": "laravel/nova-dusk-suite",
-            "files": [
-                {
-                    "source": "nova/dusk-suite/master/dusk-suite.json",
-                    "target": "{locale}.json"
-                },
-                {
-                    "source": "nova/dusk-suite/master/en.json",
-                    "target": "{locale}.json"
-                }
-            ]
-        },
-        {
             "vendor": "laravel/nova-log-viewer",
             "version": "dev-main || ^0.1.0",
             "files": [

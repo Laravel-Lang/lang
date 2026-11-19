@@ -33,6 +33,16 @@
         },
         {
             "vendor": "laravel/cashier",
+            "version": "^16.0",
+            "files": [
+                {
+                    "source": "cashier/stripe/15.x/stripe.json",
+                    "target": "{locale}.json"
+                }
+            ]
+        },
+        {
+            "vendor": "laravel/cashier",
             "version": "^15.0",
             "files": [
                 {

@@ -108,10 +108,6 @@
                     "target": "{locale}.json"
                 },
                 {
-                    "source": "framework/extended.json",
-                    "target": "{locale}.json"
-                },
-                {
                     "source": "framework/master/auth.php",
                     "target": "{locale}/auth.php"
                 },
@@ -135,10 +131,6 @@
             "files": [
                 {
                     "source": "framework/11.x/framework.json",
-                    "target": "{locale}.json"
-                },
-                {
-                    "source": "framework/extended.json",
                     "target": "{locale}.json"
                 },
                 {
@@ -168,10 +160,6 @@
                     "target": "{locale}.json"
                 },
                 {
-                    "source": "framework/extended.json",
-                    "target": "{locale}.json"
-                },
-                {
                     "source": "framework/12.x/auth.php",
                     "target": "{locale}/auth.php"
                 },
@@ -195,10 +183,6 @@
             "files": [
                 {
                     "source": "framework/13.x/framework.json",
-                    "target": "{locale}.json"
-                },
-                {
-                    "source": "framework/extended.json",
                     "target": "{locale}.json"
                 },
                 {

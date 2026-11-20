@@ -25,7 +25,7 @@
     "contains": "Во ова поле недостасува задолжителна вредност.",
     "date": "Ова не е валиден датум.",
     "date_equals": "Ова мора да биде датум еднаков на :date.",
-    "date_format": "Oва не одговара на форматот :format.",
+    "date_format": "Ова не одговара на форматот :format.",
     "decimal": "Ова поле мора да има :decimal децимални места.",
     "declined": "Оваа вредност мора да се одбие.",
     "declined_if": "This value must be declined when :other is :value.",

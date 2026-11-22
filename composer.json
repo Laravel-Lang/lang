@@ -3,9 +3,10 @@
     "description": "Translations by native speakers for the Laravel ecosystem",
     "license": "MIT",
     "keywords": [
-        "laravel",
-        "languages",
-        "lang"
+        "laravel-lang",
+        "i18n",
+        "localization",
+        "translations"
     ],
     "authors": [
         {
@@ -14,15 +15,15 @@
         },
         {
             "name": "Andrey Helldar",
-            "email": "helldar@dragon-code.pro",
-            "homepage": "https://dragon-code.pro"
+            "email": "helldar@dragon-code.pro"
         }
     ],
+    "homepage": "https://laravel-lang.com",
     "support": {
         "source": "https://github.com/Laravel-Lang/mona"
     },
     "require": {
-        "require": "^8.3",
+        "php": "^8.3",
         "laravel-lang/publisher": "self.version"
     },
     "minimum-stability": "stable",
@@ -30,6 +31,5 @@
     "config": {
         "preferred-install": "dist",
         "sort-packages": true
-    },
-    "homepage": "https://laravel-lang.com"
+    }
 }

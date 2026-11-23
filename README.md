@@ -9,19 +9,19 @@
 [![Stable Version][badge_stable]][link_packagist]
 [![Total Downloads][badge_downloads]][link_packagist]
 [![Github Workflow Status][badge_build]][link_build]
-[![License][badge_license]](https://laravel-lang.com/license.html)
+[![License][badge_license]](https://laravel-lang.com/20.x/license)
 
 
 ## Documentation
 
 
-See the [documentation](https://laravel-lang.com/packages-lang.html) for detailed installation.
+See the [documentation](https://laravel-lang.com/20.x/packages#translation-packs) for detailed installation.
 
 
 ## Contributing
 
 
-Please see [CONTRIBUTING](https://laravel-lang.com/contributions.html) for details.
+Please see [CONTRIBUTING](https://laravel-lang.com/20.x/contributing) for details.
 
 
 ## Support Us
@@ -33,7 +33,7 @@ Please see [CONTRIBUTING](https://laravel-lang.com/contributions.html) for detai
 ## License
 
 
-This package is licensed under the [MIT License](https://laravel-lang.com/license.html).
+This package is licensed under the [MIT License](https://laravel-lang.com/20.x/license).
 
 [badge_build]: https://img.shields.io/github/actions/workflow/status/laravel-lang/lang/tests.yml?branch=main&style=flat-square
 [badge_downloads]: https://img.shields.io/packagist/dt/laravel-lang/lang.svg?style=flat-square

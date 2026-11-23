@@ -24,6 +24,7 @@
     },
     "require": {
         "php": "^8.3",
+        "laravel-lang/library": "self.version",
         "laravel-lang/publisher": "self.version"
     },
     "minimum-stability": "stable",

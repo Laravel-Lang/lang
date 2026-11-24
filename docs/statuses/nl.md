@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # nl
 
 ##### All missed: 5
-
 
 ### json
 
@@ -52,8 +51,6 @@ Unable to write the encrypted environment file.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php-inline
 
 ##### Missing: 1
@@ -81,8 +78,6 @@ This field must only contain the following keys: :values.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php
 
 ##### Missing: 1
@@ -109,4 +104,3 @@ The :attribute field must only contain the following keys: :values.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

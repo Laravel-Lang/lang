@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # de_AT
 
 ##### All missed: 1175
-
 
 ### json-inline
 
@@ -150,8 +149,6 @@ The given field has appeared in a data leak. Please choose a different field.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### json
 
@@ -8039,8 +8036,6 @@ Zip / Postal Code
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php-inline
 
 ##### Missing: 138
@@ -9300,8 +9295,6 @@ This field must be a valid UUID.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php
 
@@ -10661,4 +10654,3 @@ The :attribute field must be a valid UUID.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

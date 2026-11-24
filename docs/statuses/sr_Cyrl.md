@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # sr_Cyrl
 
 ##### All missed: 19
-
 
 ### json
 
@@ -142,8 +141,6 @@ Verify your email address
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php-inline
 
 ##### Missing: 3
@@ -189,8 +186,6 @@ This field must be encoded in :encoding.
 
 [ [go back](../status.md) | [to top](#) ]
 
-
-
 ### php
 
 ##### Missing: 3
@@ -235,4 +230,3 @@ The :attribute field must be encoded in :encoding.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

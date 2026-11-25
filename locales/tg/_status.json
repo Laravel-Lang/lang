@@ -1,0 +1,11 @@
+{
+    "json": {
+        "CSV (.csv)": "CSV (.csv)",
+        "Excel (.xlsx)": "Excel (.xlsx)",
+        "ID": "ID",
+        "Nova": "Nova",
+        "The existing encrypted environment file is not in readable format. Use --force to overwrite it.": "The existing encrypted environment file is not in readable format. Use --force to overwrite it.",
+        "The existing encryption key is required to update the encrypted environment file.": "The existing encryption key is required to update the encrypted environment file.",
+        "Unable to write the encrypted environment file.": "Unable to write the encrypted environment file."
+    }
+}

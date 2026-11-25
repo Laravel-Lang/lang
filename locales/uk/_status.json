@@ -1,0 +1,20 @@
+{
+    "json": {
+        "CSV (.csv)": "CSV (.csv)",
+        "Excel (.xlsx)": "Excel (.xlsx)",
+        "Invalid credential format.": "Invalid credential format.",
+        "Nova": "Nova",
+        "Passkey not recognized. It may have been removed from your account.": "Passkey not recognized. It may have been removed from your account.",
+        "Passkey registration session expired. Please try again.": "Passkey registration session expired. Please try again.",
+        "Passkey verification session expired. Please try again.": "Passkey verification session expired. Please try again.",
+        "Reset your password": "Reset your password",
+        "The existing encrypted environment file is not in readable format. Use --force to overwrite it.": "The existing encrypted environment file is not in readable format. Use --force to overwrite it.",
+        "The existing encryption key is required to update the encrypted environment file.": "The existing encryption key is required to update the encrypted environment file.",
+        "Unable to register passkey. Please try again.": "Unable to register passkey. Please try again.",
+        "Unable to register this passkey.": "Unable to register this passkey.",
+        "Unable to sign in with this account.": "Unable to sign in with this account.",
+        "Unable to verify passkey. Please try again.": "Unable to verify passkey. Please try again.",
+        "Unable to write the encrypted environment file.": "Unable to write the encrypted environment file.",
+        "Verify your email address": "Verify your email address"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Bu ugur dogry rol bolmaly.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly we azyndan bir san bolmaly.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly we azyndan bir aýratyn nyşan we bir san bolmaly.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly we azyndan bir aýratyn nyşan bolmaly.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly we azyndan bir baş harp we bir san bolmaly.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly we azyndan bir baş harp we bir aýratyn nyşan bolmaly.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly we azyndan bir baş harp, bir san we bir aýratyn nyşan bolmaly.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly we azyndan bir baş harpdan ybarat bolmaly.",
+    "The :attribute must be at least :length characters.": "Bu meýdan azyndan :length simwoldan ybarat bolmaly.",
+    "The :attribute must contain at least one letter.": "Bu meýdanda azyndan bir harp bolmaly.",
+    "The :attribute must contain at least one number.": "Bu meýdan azyndan bir san bolmalydyr.",
+    "The :attribute must contain at least one symbol.": "Bu meýdanda azyndan bir nyşan bolmaly.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Bu meýdanda azyndan bir baş harp we bir kiçi harp bolmaly.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Berlen meýdan maglumatlaryň syzmagynda peýda boldy. Başga bir meýdan saýlaň."
+}

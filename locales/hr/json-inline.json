@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Ovo polje mora biti valjana uloga.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Ovo polje mora sadržavati najmanje :length znakova i barem jedan broj.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Ovo polje mora sadržavati najmanje :length znakova, barem jedan broj te jedan specijalni znak.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Ovo polje mora sadržavati najmanje :length znakova te barem jedan specijalni znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Ovo polje mora sadržavati najmanje :length znakova, barem jedno veliko slovo te jedan broj.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Ovo polje mora sadržavati najmanje :length znakova, barem jedno veliko slovo te jedan specijalni znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Ovo polje mora sadržavati najmanje :length znakova, barem jedno veliko slovo, jedan broj te jedan specijalni znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Ovo polje mora sadržavati najmanje :length znakova te barem jedno veliko slovo.",
+    "The :attribute must be at least :length characters.": "Ovo polje mora sadržavati najmanje :length znakova.",
+    "The :attribute must contain at least one letter.": "Ovo polje mora sadržavati barem jedno slovo.",
+    "The :attribute must contain at least one number.": "Ovo polje mora sadržavati barem jedan broj.",
+    "The :attribute must contain at least one symbol.": "Ovo polje mora sadržavati barem jedan simbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Ovo polje mora sadržavati barem jedno veliko i jedno malo slovo.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Podatci u ovom polju su se pojavili u curenju podataka. Molimo vas da izmijenite ovaj unos."
+}

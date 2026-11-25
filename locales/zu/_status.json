@@ -1,0 +1,33 @@
+{
+    "json": {
+        "Botswana": "Botswana",
+        "Burkina Faso": "Burkina Faso",
+        "Canada": "Canada",
+        "Cape Verde": "Cape Verde",
+        "Djibouti": "Djibouti",
+        "Dominica": "Dominica",
+        "El Salvador": "El Salvador",
+        "Greece": "Greece",
+        "Invalid credential format.": "Invalid credential format.",
+        "Kazakhstan": "Kazakhstan",
+        "Korea, Republic of": "Korea, Republic of",
+        "Lesotho": "Lesotho",
+        "Moldova": "Moldova",
+        "Moldova, Republic of": "Moldova, Republic of",
+        "New Caledonia": "New Caledonia",
+        "Niue": "Niue",
+        "Passkey not recognized. It may have been removed from your account.": "Passkey not recognized. It may have been removed from your account.",
+        "Passkey registration session expired. Please try again.": "Passkey registration session expired. Please try again.",
+        "Passkey verification session expired. Please try again.": "Passkey verification session expired. Please try again.",
+        "Qatar": "Qatar",
+        "The existing encrypted environment file is not in readable format. Use --force to overwrite it.": "The existing encrypted environment file is not in readable format. Use --force to overwrite it.",
+        "The existing encryption key is required to update the encrypted environment file.": "The existing encryption key is required to update the encrypted environment file.",
+        "Tonga": "Tonga",
+        "Uganda": "Uganda",
+        "Unable to register passkey. Please try again.": "Unable to register passkey. Please try again.",
+        "Unable to register this passkey.": "Unable to register this passkey.",
+        "Unable to sign in with this account.": "Unable to sign in with this account.",
+        "Unable to verify passkey. Please try again.": "Unable to verify passkey. Please try again.",
+        "Unable to write the encrypted environment file.": "Unable to write the encrypted environment file."
+    }
+}

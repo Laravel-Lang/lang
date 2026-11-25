@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "এই ক্ষেত্রটি একটি বৈধ ভূমিকা হতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one number.": "এই ক্ষেত্রটি কমপক্ষে :length অক্ষরের হতে হবে এবং কমপক্ষে একটি সংখ্যা থাকতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "এই ক্ষেত্রটি কমপক্ষে :length অক্ষর হতে হবে এবং কমপক্ষে একটি বিশেষ অক্ষর এবং একটি সংখ্যা থাকতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one special character.": "এই ক্ষেত্রটি কমপক্ষে :length অক্ষর হতে হবে এবং কমপক্ষে একটি বিশেষ অক্ষর থাকতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "এই ক্ষেত্রটি কমপক্ষে :length অক্ষর হতে হবে এবং এতে অন্তত একটি বড় হাতের অক্ষর এবং একটি সংখ্যা থাকতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "এই ক্ষেত্রটি অবশ্যই কমপক্ষে :length অক্ষর হতে হবে এবং এতে কমপক্ষে একটি বড় হাতের অক্ষর এবং একটি বিশেষ অক্ষর থাকতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "এই ক্ষেত্রটি কমপক্ষে :length অক্ষর হতে হবে এবং এতে অন্তত একটি বড় হাতের অক্ষর, একটি সংখ্যা এবং একটি বিশেষ অক্ষর থাকতে হবে।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "এই ক্ষেত্রটি কমপক্ষে :length অক্ষর হতে হবে এবং কমপক্ষে একটি বড় হাতের অক্ষর থাকতে হবে।",
+    "The :attribute must be at least :length characters.": "এই ক্ষেত্রটি কমপক্ষে :length অক্ষর হতে হবে।",
+    "The :attribute must contain at least one letter.": "এই ক্ষেত্রটি অন্তত একটি অক্ষর থাকতে হবে।",
+    "The :attribute must contain at least one number.": "এই ক্ষেত্রটি অন্তত একটি সংখ্যা থাকতে হবে।",
+    "The :attribute must contain at least one symbol.": "এই ক্ষেত্রটি অন্তত একটি প্রতীক থাকতে হবে।",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "এই ক্ষেত্রটি অন্তত একটি বড় হাতের এবং একটি ছোট হাতের অক্ষর থাকতে হবে।",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "প্রদত্ত ক্ষেত্রটি একটি ডেটা ফাঁসের মধ্যে উপস্থিত হয়েছে। অনুগ্রহ করে একটি ভিন্ন ক্ষেত্র নির্বাচন করুন।"
+}

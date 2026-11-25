@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "यह फ़ील्ड एक मान्य भूमिका होनी चाहिए।",
+    "The :attribute must be at least :length characters and contain at least one number.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए और इसमें कम से कम एक नंबर होना चाहिए।",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए और इसमें कम से कम एक विशेष वर्ण और एक संख्या होनी चाहिए।",
+    "The :attribute must be at least :length characters and contain at least one special character.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए और इसमें कम से कम एक विशेष वर्ण होना चाहिए।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए और इसमें कम से कम एक अपरकेस वर्ण और एक संख्या होनी चाहिए।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए और इसमें कम से कम एक अपरकेस वर्ण और एक विशेष वर्ण होना चाहिए।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए और इसमें कम से कम एक अपरकेस वर्ण, एक संख्या और एक विशेष वर्ण होना चाहिए।",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए और इसमें कम से कम एक अपरकेस वर्ण होना चाहिए।",
+    "The :attribute must be at least :length characters.": "यह फ़ील्ड कम से कम :length वर्णों का होना चाहिए।",
+    "The :attribute must contain at least one letter.": "इस फ़ील्ड में कम से कम एक अक्षर होना चाहिए।",
+    "The :attribute must contain at least one number.": "इस फ़ील्ड में कम से कम एक संख्या होनी चाहिए।",
+    "The :attribute must contain at least one symbol.": "इस फ़ील्ड में कम से कम एक प्रतीक होना चाहिए।",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "इस फ़ील्ड में कम से कम एक अपरकेस और एक लोअरकेस अक्षर होना चाहिए।",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "दिया गया फ़ील्ड डेटा लीक में दिखाई दिया है। कृपया कोई भिन्न फ़ील्ड चुनें."
+}

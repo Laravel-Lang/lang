@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Eremu honek baliozko rola izan behar du.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Eremu honek gutxienez :length karaktere izan behar ditu eta gutxienez zenbaki bat izan behar du.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Eremu honek gutxienez :length karaktere izan behar ditu eta gutxienez karaktere berezi bat eta zenbaki bat izan behar ditu.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Eremu honek gutxienez :length karaktere izan behar ditu eta gutxienez karaktere berezi bat izan behar du.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Eremu honek gutxienez :length karaktere izan behar ditu eta gutxienez karaktere maiuskula eta zenbaki bat izan behar ditu.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Eremu honek gutxienez :length karaktere izan behar ditu eta gutxienez karaktere maiuskula bat eta karaktere berezi bat izan behar ditu.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Eremu honek gutxienez :length karaktere izan behar ditu eta gutxienez karaktere maiuskula bat, zenbaki bat eta karaktere berezi bat izan behar ditu.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Eremu honek gutxienez :length karaktere izan behar ditu eta gutxienez karaktere maiuskula bat izan behar du.",
+    "The :attribute must be at least :length characters.": "Eremu honek :length karaktere izan behar ditu gutxienez.",
+    "The :attribute must contain at least one letter.": "Eremu honek gutxienez letra bat izan behar du.",
+    "The :attribute must contain at least one number.": "Eremu honek zenbaki bat izan behar du gutxienez.",
+    "The :attribute must contain at least one symbol.": "Eremu honek gutxienez ikur bat izan behar du.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Eremu honek letra larri bat eta minuskula bat izan behar ditu gutxienez.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Emandako eremua datu-filtrazio batean agertu da. Mesedez, aukeratu beste eremu bat."
+}

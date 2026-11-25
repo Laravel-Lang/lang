@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Toto pole musí být platná role.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Toto pole musí mít alespoň :length znaků a obsahovat alespoň jedno číslo.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Toto pole musí mít alespoň :length znaků a obsahovat alespoň jeden speciální znak a jedno číslo.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Toto pole musí mít alespoň :length znaků a obsahovat alespoň jeden speciální znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Toto pole musí mít alespoň :length znaků a obsahovat alespoň jedno velké písmeno a jedno číslo.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Toto pole musí mít alespoň :length znaků a obsahovat alespoň jedno velké písmeno a jeden speciální znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Toto pole musí mít alespoň :length znaků a obsahovat alespoň jedno velké písmeno, jedno číslo a jeden speciální znak.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Toto pole musí mít alespoň :length znaků a obsahovat alespoň jedno velké písmeno.",
+    "The :attribute must be at least :length characters.": "Toto pole musí mít alespoň :length znaků.",
+    "The :attribute must contain at least one letter.": "Toto pole musí obsahovat alespoň jedno písmeno.",
+    "The :attribute must contain at least one number.": "Toto pole musí obsahovat alespoň jedno číslo.",
+    "The :attribute must contain at least one symbol.": "Toto pole musí obsahovat alespoň jeden symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Toto pole musí obsahovat alespoň jedno velké a jedno malé písmeno.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Dané pole se objevilo při úniku dat. Vyberte prosím jiné pole."
+}

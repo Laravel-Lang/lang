@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "یہ فیلڈ ایک درست کردار ہونا چاہیے۔",
+    "The :attribute must be at least :length characters and contain at least one number.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے اور اس میں کم از کم ایک نمبر ہونا چاہیے۔",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے اور اس میں کم از کم ایک خاص حرف اور ایک نمبر ہونا چاہیے۔",
+    "The :attribute must be at least :length characters and contain at least one special character.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے اور اس میں کم از کم ایک خاص حرف ہونا چاہیے۔",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے اور اس میں کم از کم ایک بڑے حرف اور ایک نمبر ہونا چاہیے۔",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے اور اس میں کم از کم ایک بڑے حروف اور ایک خاص حرف ہونا چاہیے۔",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے اور اس میں کم از کم ایک بڑے حروف، ایک عدد اور ایک خاص حرف ہونا چاہیے۔",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے اور اس میں کم از کم ایک بڑے حرف کا ہونا چاہیے۔",
+    "The :attribute must be at least :length characters.": "یہ فیلڈ کم از کم :length حروف کا ہونا چاہیے۔",
+    "The :attribute must contain at least one letter.": "اس فیلڈ میں کم از کم ایک حرف ہونا چاہیے۔",
+    "The :attribute must contain at least one number.": "اس فیلڈ میں کم از کم ایک نمبر ہونا چاہیے۔",
+    "The :attribute must contain at least one symbol.": "اس فیلڈ میں کم از کم ایک علامت ہونی چاہیے۔",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "اس فیلڈ میں کم از کم ایک بڑے اور ایک چھوٹے حرف کا ہونا ضروری ہے۔",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "دیا گیا فیلڈ ڈیٹا لیک میں ظاہر ہوا ہے۔ براہ کرم ایک مختلف فیلڈ منتخب کریں۔"
+}

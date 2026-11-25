@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "ଏହି କ୍ଷେତ୍ର ଏକ ବ valid ଧ ଭୂମିକା ହେବା ଜରୁରୀ |",
+    "The :attribute must be at least :length characters and contain at least one number.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଆବଶ୍ୟକ ଏବଂ ଅତିକମରେ ଗୋଟିଏ ସଂଖ୍ୟା ଧାରଣ କରିବ |",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଆବଶ୍ୟକ ଏବଂ ଅତିକମରେ ଗୋଟିଏ ବିଶେଷ ବର୍ଣ୍ଣ ଏବଂ ଗୋଟିଏ ସଂଖ୍ୟା ଧାରଣ କରିବା ଆବଶ୍ୟକ |",
+    "The :attribute must be at least :length characters and contain at least one special character.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଆବଶ୍ୟକ ଏବଂ ଅତିକମରେ ଗୋଟିଏ ବିଶେଷ ବର୍ଣ୍ଣ ଧାରଣ କରିବ |",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଆବଶ୍ୟକ ଏବଂ ଅତିକମରେ ଗୋଟିଏ ବଡ ଅକ୍ଷର ଏବଂ ଗୋଟିଏ ସଂଖ୍ୟା ଧାରଣ କରିବା ଆବଶ୍ୟକ |",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଆବଶ୍ୟକ ଏବଂ ଅତିକମରେ ଗୋଟିଏ ବଡ ଅକ୍ଷର ଏବଂ ଗୋଟିଏ ବିଶେଷ ବର୍ଣ୍ଣ ଧାରଣ କରିବା ଉଚିତ |",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଆବଶ୍ୟକ ଏବଂ ଅତିକମରେ ଗୋଟିଏ ବଡ ଅକ୍ଷର, ଗୋଟିଏ ସଂଖ୍ୟା, ଏବଂ ଗୋଟିଏ ବିଶେଷ ବର୍ଣ୍ଣ ଧାରଣ କରିବା ଉଚିତ |",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଆବଶ୍ୟକ ଏବଂ ଅତିକମରେ ଗୋଟିଏ ବଡ ଅକ୍ଷର ଧାରଣ କରିବା ଉଚିତ |",
+    "The :attribute must be at least :length characters.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ :length ଅକ୍ଷର ହେବା ଜରୁରୀ |",
+    "The :attribute must contain at least one letter.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ ଗୋଟିଏ ଅକ୍ଷର ଧାରଣ କରିବା ଜରୁରୀ |",
+    "The :attribute must contain at least one number.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ ଗୋଟିଏ ସଂଖ୍ୟା ଧାରଣ କରିବା ଜରୁରୀ |",
+    "The :attribute must contain at least one symbol.": "ଏହି କ୍ଷେତ୍ର ଅତିକମରେ ଗୋଟିଏ ପ୍ରତୀକ ଧାରଣ କରିବା ଜରୁରୀ |",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "ଏହି କ୍ଷେତ୍ରଟି ଅତିକମରେ ଗୋଟିଏ ବଡ ଅକ୍ଷର ଏବଂ ଗୋଟିଏ ଛୋଟ ଅକ୍ଷର ଧାରଣ କରିବା ଜରୁରୀ |",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "ପ୍ରଦତ୍ତ ଫିଲ୍ଡ ଏକ ଡାଟା ଲିକ୍ ରେ ଦେଖାଦେଇଛି | ଦୟାକରି ଏକ ଭିନ୍ନ କ୍ଷେତ୍ର ବାଛନ୍ତୁ |"
+}

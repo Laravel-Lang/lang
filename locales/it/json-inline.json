@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Questo campo deve rappresentare un ruolo valido.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Questo campo deve essere lungo almeno :length caratteri e contenere almeno un numero.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Questo campo deve essere lungo almeno :length caratteri e contenere almeno un carattere speciale e un numero.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Questo campo deve essere lungo almeno :length caratteri e contenere almeno un carattere speciale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Questo campo deve essere lungo almeno :length caratteri e contenere almeno un carattere maiuscolo e un numero.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Questo campo deve essere lungo almeno :length caratteri e contenere almeno un carattere maiuscolo e un carattere speciale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Questo campo deve essere lungo almeno :length caratteri e contenere almeno un carattere maiuscolo, un numero e un carattere speciale.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Questo campo deve essere lungo almeno :length caratteri e contenere almeno un carattere maiuscolo.",
+    "The :attribute must be at least :length characters.": "Questo campo deve essere lungo almeno :length caratteri.",
+    "The :attribute must contain at least one letter.": "Questo campo deve contenere almeno una lettera.",
+    "The :attribute must contain at least one number.": "Questo campo deve contenere almeno un numero.",
+    "The :attribute must contain at least one symbol.": "Questo campo deve contenere almeno un simbolo.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Questo campo deve contenere almeno una lettera maiuscola e una lettera minuscola.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Il valore di questo campo è apparso in un data leak. Per favore scegli un valore differente."
+}

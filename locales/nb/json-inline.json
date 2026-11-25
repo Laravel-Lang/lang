@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "Dette feltet må være en gyldig rolle.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Dette feltet må bestå av minst :length tegn og inneholde minst ett tall.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Dette feltet må bestå av minst :length tegn og inneholde minst ett spesialtegn og ett tall.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Dette feltet må bestå av minst :length tegn og inneholde minst ett spesialtegn.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Dette feltet må bestå av minst :length tegn og inneholde minst en stor bokstav og ett tall.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Dette feltet må bestå av minst :length tegn og inneholde minst en stor bokstav og ett spesialtegn.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Dette feltet må bestå av minst :length tegn og inneholde minst en stor bokstav, ett tall og ett spesialtegn.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Dette feltet må bestå av minst :length tegn og inneholde minst en stor bokstav.",
+    "The :attribute must be at least :length characters.": "Dette feltet må inneholde minst :length tegn.",
+    "The :attribute must contain at least one letter.": "Dette feltet må inneholde minst én bokstav.",
+    "The :attribute must contain at least one number.": "Dette feltet må inneholde minst ett tall.",
+    "The :attribute must contain at least one symbol.": "Dette feltet må inneholde minst ett symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Dette feltet må inneholde minst én stor og én liten bokstav.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Dette feltet har dukket opp i en datalekkasje. Velg annet felt."
+}

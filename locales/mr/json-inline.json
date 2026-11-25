@@ -1,0 +1,16 @@
+{
+    "The :attribute must be a valid role.": "हे फील्ड एक वैध भूमिका असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters and contain at least one number.": "हे फील्ड किमान :length वर्णांचे असणे आवश्यक आहे आणि त्यात किमान एक संख्या असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "हे फील्ड किमान :length वर्ण असले पाहिजे आणि त्यात किमान एक विशेष वर्ण आणि एक संख्या असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters and contain at least one special character.": "हे फील्ड किमान :length वर्ण असले पाहिजे आणि त्यात किमान एक विशेष वर्ण असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "हे फील्ड किमान :length वर्णांचे असणे आवश्यक आहे आणि त्यात किमान एक अप्परकेस वर्ण आणि एक संख्या असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "हे फील्ड किमान :length वर्णांचे असणे आवश्यक आहे आणि त्यात किमान एक अप्परकेस वर्ण आणि एक विशेष वर्ण असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "हे फील्ड किमान :length वर्णांचे असले पाहिजे आणि त्यात किमान एक अप्परकेस वर्ण, एक संख्या आणि एक विशेष वर्ण असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "हे फील्ड किमान :length वर्णांचे असणे आवश्यक आहे आणि त्यात किमान एक अप्परकेस वर्ण असणे आवश्यक आहे.",
+    "The :attribute must be at least :length characters.": "हे फील्ड किमान :length वर्णांचे असणे आवश्यक आहे.",
+    "The :attribute must contain at least one letter.": "या फील्डमध्ये किमान एक अक्षर असणे आवश्यक आहे.",
+    "The :attribute must contain at least one number.": "या फील्डमध्ये किमान एक संख्या असणे आवश्यक आहे.",
+    "The :attribute must contain at least one symbol.": "या फील्डमध्ये किमान एक चिन्ह असणे आवश्यक आहे.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "या फील्डमध्ये किमान एक अप्परकेस आणि एक लोअरकेस अक्षर असणे आवश्यक आहे.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "दिलेले फील्ड डेटा लीकमध्ये दिसून आले आहे. कृपया भिन्न फील्ड निवडा."
+}

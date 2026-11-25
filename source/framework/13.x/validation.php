@@ -3,18 +3,6 @@
 declare(strict_types=1);
 
 return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
-
     'accepted'        => 'The :attribute field must be accepted.',
     'accepted_if'     => 'The :attribute field must be accepted when :other is :value.',
     'active_url'      => 'The :attribute field must be a valid URL.',
@@ -27,6 +15,7 @@ return [
     'array'           => 'The :attribute field must be an array.',
     'array_keys'      => 'The :attribute field must only contain the following keys: :values.',
     'ascii'           => 'The :attribute field must only contain single-byte alphanumeric characters and symbols.',
+    'attributes'      => [],
     'base64'          => 'The :attribute field must be a valid Base64 string.',
     'before'          => 'The :attribute field must be a date before :date.',
     'before_or_equal' => 'The :attribute field must be a date before or equal to :date.',
@@ -36,11 +25,16 @@ return [
         'numeric' => 'The :attribute field must be between :min and :max.',
         'string'  => 'The :attribute field must be between :min and :max characters.',
     ],
-    'boolean'           => 'The :attribute field must be true or false.',
-    'can'               => 'The :attribute field contains an unauthorized value.',
-    'confirmed'         => 'The :attribute field confirmation does not match.',
-    'contains'          => 'The :attribute field is missing a required value.',
-    'current_password'  => 'The password is incorrect.',
+    'boolean'          => 'The :attribute field must be true or false.',
+    'can'              => 'The :attribute field contains an unauthorized value.',
+    'confirmed'        => 'The :attribute field confirmation does not match.',
+    'contains'         => 'The :attribute field is missing a required value.',
+    'current_password' => 'The password is incorrect.',
+    'custom'           => [
+        'attribute-name' => [
+            'rule-name' => 'custom-message',
+        ],
+    ],
     'date'              => 'The :attribute field must be a valid date.',
     'date_equals'       => 'The :attribute field must be a date equal to :date.',
     'date_format'       => 'The :attribute field must match the format :format.',
@@ -164,41 +158,10 @@ return [
     'starts_with' => 'The :attribute field must start with one of the following: :values.',
     'string'      => 'The :attribute field must be a string.',
     'timezone'    => 'The :attribute field must be a valid timezone.',
+    'ulid'        => 'The :attribute field must be a valid ULID.',
     'unique'      => 'The :attribute has already been taken.',
     'uploaded'    => 'The :attribute failed to upload.',
     'uppercase'   => 'The :attribute field must be uppercase.',
     'url'         => 'The :attribute field must be a valid URL.',
-    'ulid'        => 'The :attribute field must be a valid ULID.',
     'uuid'        => 'The :attribute field must be a valid UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
-        'attribute-name' => [
-            'rule-name' => 'custom-message',
-        ],
-    ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap our attribute placeholder
-    | with something more reader friendly such as "E-Mail Address" instead
-    | of "email". This simply helps us make our message more expressive.
-    |
-    */
-
-    'attributes' => [],
-
 ];

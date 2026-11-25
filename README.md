@@ -12,7 +12,7 @@
 
 ## Documentation
 
-See the [documentation](https://laravel-lang.com/start) for detailed information.
+[Install translations for Laravel and its first-party packages.](https://laravel-lang.com/plugins#official-translation-packs)
 
 ## Contributing
 
